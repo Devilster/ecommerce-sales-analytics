@@ -169,14 +169,3 @@ sqlalchemy
 psycopg2-binary   # for PostgreSQL
 faker
 ```
-
----
-
-## 👨‍💻 Author
-
-**Vinnu** | Full-Stack & Data Developer  
-🔗 [LinkedIn](#) · [Portfolio](#) · [GitHub](#)
-
----
-
-*Dataset is synthetically generated using Faker — no real customer data used.*
