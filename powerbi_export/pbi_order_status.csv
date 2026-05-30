@@ -1,0 +1,6 @@
+status,orders,order_value,pct
+delivered,5051,373574473.61,50.51
+processing,1279,93041551.81,12.79
+returned,1253,91687131.29,12.53
+cancelled,1219,89499639.35,12.19
+shipped,1198,86640095.04,11.98

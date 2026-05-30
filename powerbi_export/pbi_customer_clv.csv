@@ -1,0 +1,1846 @@
+customer_id,name,state,city,total_orders,lifetime_value,avg_order_value,first_order,last_order,segment
+C01653,Sai Shankar,Uttar Pradesh,Ahmedabad,8,1079400.04,134925.01,2022-08-23,2024-03-16,Platinum
+C00598,Lekha Parmer,Maharashtra,Kanpur,5,1057280.42,211456.08,2022-09-14,2024-10-17,Platinum
+C01396,Ganga Handa,Maharashtra,Jalandhar,8,1020707.42,127588.43,2022-10-29,2024-05-14,Platinum
+C00652,Omya Kashyap,Uttar Pradesh,Amritsar,7,1007406.94,143915.28,2022-01-02,2024-10-02,Platinum
+C00698,Utkarsh Jani,Karnataka,Kanpur,5,961597.52,192319.5,2022-12-20,2024-05-27,Platinum
+C01697,Ishanvi Agate,Madhya Pradesh,Orai,4,892233.14,223058.29,2022-05-09,2024-06-08,Platinum
+C00799,Nandini Chakraborty,Madhya Pradesh,Ichalkaranji,6,839471.68,139911.95,2022-05-24,2024-11-05,Platinum
+C01170,Abhiram Goswami,Haryana,Agra,6,833821.24,138970.21,2023-05-24,2024-08-24,Platinum
+C01348,Harish Sagar,Haryana,Rajkot,6,828250.56,138041.76,2023-06-23,2024-12-07,Platinum
+C00813,Nihal Bora,Telangana,Sasaram,5,791447.29,158289.46,2023-08-04,2024-10-29,Platinum
+C00007,Kashvi Patil,Madhya Pradesh,Unnao,4,788248.88,197062.22,2022-08-16,2024-09-23,Platinum
+C01325,Nidhi Pandey,Maharashtra,Pudukkottai,4,784148.12,196037.03,2022-02-25,2024-05-07,Platinum
+C01022,Abdul Kata,Delhi,Karawal Nagar,5,776404.39,155280.88,2022-03-25,2024-02-16,Platinum
+C00628,Januja Chacko,Rajasthan,Kurnool,5,772446.78,154489.36,2022-05-04,2024-03-27,Platinum
+C00372,Utkarsh Acharya,Uttar Pradesh,Mirzapur,5,751328.51,150265.7,2022-04-18,2024-11-11,Platinum
+C01487,Mason Vora,Madhya Pradesh,Surendranagar Dudhrej,5,739470.0,147894.0,2023-06-29,2024-12-13,Platinum
+C00889,Pranav Trivedi,Odisha,Nizamabad,5,732358.59,146471.72,2022-01-23,2023-07-06,Platinum
+C01617,Ekavir Mandal,Karnataka,Gwalior,3,732112.83,244037.61,2022-02-27,2022-07-18,Platinum
+C01631,Darsh Sunder,Karnataka,Avadi,2,727348.07,363674.03,2022-05-26,2024-11-24,Platinum
+C01452,Bhavani Saraf,Odisha,Delhi,6,720765.35,120127.56,2022-06-13,2024-07-09,Platinum
+C01835,Gagan Bhalla,Tamil Nadu,Tadepalligudem,7,718209.08,102601.3,2022-01-28,2024-11-22,Platinum
+C00596,Bachittar Ray,Madhya Pradesh,Thoothukudi,5,713504.58,142700.92,2022-07-13,2024-08-29,Platinum
+C01218,Nicholas Sanghvi,Uttar Pradesh,Nizamabad,5,713346.78,142669.36,2022-05-12,2024-12-13,Platinum
+C00999,Sara Garde,West Bengal,Phusro,5,711606.46,142321.29,2022-07-31,2024-11-18,Platinum
+C01548,Onveer Vasa,West Bengal,Nagpur,4,709145.54,177286.39,2022-06-26,2024-07-10,Platinum
+C00315,Bhavani Buch,Kerala,Sonipat,5,695881.8,139176.36,2022-07-23,2024-12-23,Platinum
+C01450,Reyansh Bera,Tamil Nadu,Alappuzha,9,692286.23,76920.69,2022-09-06,2024-11-26,Platinum
+C00026,Nathan Goda,Bihar,Jaunpur,6,691964.73,115327.46,2022-07-03,2024-09-03,Platinum
+C01058,Aayush Kari,West Bengal,Bally,4,690966.76,172741.69,2022-02-21,2024-10-11,Platinum
+C01048,Jacob Gala,Delhi,Jamshedpur,6,688342.01,114723.67,2022-10-18,2024-12-19,Platinum
+C00062,Dayita Narang,Delhi,Bharatpur,3,676235.84,225411.95,2022-01-21,2023-05-11,Platinum
+C01125,Ekansh Trivedi,Kerala,Kolhapur,7,672990.06,96141.44,2022-04-25,2024-09-06,Platinum
+C01836,Ishaan Bal,Odisha,Deoghar,4,671601.66,167900.42,2022-06-26,2023-12-03,Platinum
+C00590,Ekalinga Vora,Odisha,Machilipatnam,5,669590.78,133918.16,2022-01-07,2024-03-29,Platinum
+C01233,Ekbal Golla,Madhya Pradesh,Jamshedpur,6,664863.99,110810.66,2022-01-11,2024-06-29,Platinum
+C00781,Udarsh Cherian,Rajasthan,Jodhpur,4,658689.75,164672.44,2023-03-25,2024-05-22,Platinum
+C00110,Warinder Garg,Rajasthan,Naihati,5,658637.99,131727.6,2022-02-24,2024-10-13,Platinum
+C00879,Odika Atwal,Telangana,Kharagpur,4,654134.01,163533.5,2022-01-17,2024-07-30,Platinum
+C00909,Kritika Jain,Kerala,Hazaribagh,5,650903.03,130180.61,2022-01-07,2024-11-12,Platinum
+C00022,Aashi Baral,Telangana,Kollam,4,646708.37,161677.09,2022-09-11,2024-10-14,Platinum
+C01713,Theodore Karnik,Rajasthan,Rajpur Sonarpur,8,642723.07,80340.38,2022-02-20,2024-05-10,Platinum
+C00735,Jonathan Chaudhry,West Bengal,Kolkata,3,641783.65,213927.88,2022-03-16,2023-08-16,Platinum
+C01329,Yashawini Mangal,Maharashtra,Rajpur Sonarpur,3,639587.98,213195.99,2023-05-11,2024-11-21,Platinum
+C01709,Onkar Basak,Pune,Pali,8,637522.35,79690.29,2022-04-08,2024-05-08,Platinum
+C00057,Ekta Raj,Karnataka,Warangal,6,635093.81,105848.97,2022-05-15,2024-08-22,Platinum
+C00070,Vritti Choudhury,Pune,Raiganj,3,634764.91,211588.3,2022-11-27,2023-11-01,Platinum
+C01381,Avi Bandi,Uttar Pradesh,Bikaner,4,633427.49,158356.87,2022-03-08,2024-09-05,Platinum
+C00714,Jhalak Bava,Tamil Nadu,Kamarhati,5,632404.12,126480.82,2022-07-09,2024-11-28,Platinum
+C01281,Naveen Maharaj,Haryana,Bidhannagar,3,626122.68,208707.56,2022-05-06,2024-08-11,Platinum
+C00357,Chaitanya Oommen,Maharashtra,Mangalore,5,622688.78,124537.76,2022-07-17,2024-02-15,Platinum
+C01267,Kala Kata,Haryana,Akola,7,619494.05,88499.15,2022-03-06,2024-10-01,Platinum
+C00312,Wriddhish Bir,Odisha,Vijayanagaram,5,619428.3,123885.66,2022-01-05,2024-01-31,Platinum
+C01164,Jason Gaba,Bihar,Dhule,6,618007.36,103001.23,2023-02-17,2024-10-10,Platinum
+C01285,Oscar Bobal,Madhya Pradesh,Ramgarh,6,613424.53,102237.42,2022-05-26,2024-05-01,Platinum
+C01701,Omya Mann,Kerala,Gurgaon,6,613238.61,102206.43,2022-09-01,2024-11-10,Platinum
+C00447,Nirja Badal,Telangana,Bettiah,4,608343.17,152085.79,2023-05-18,2024-09-25,Platinum
+C01635,Sanaya Narang,Uttar Pradesh,Tadepalligudem,5,604983.52,120996.7,2022-06-15,2023-04-01,Platinum
+C01532,Tristan Sehgal,Odisha,Aurangabad,6,604822.97,100803.83,2022-10-26,2024-09-08,Platinum
+C01313,Gopal Johal,Delhi,Akola,4,604289.39,151072.35,2022-05-14,2024-04-09,Platinum
+C00327,Bhavani Sanghvi,Odisha,Dhanbad,5,603508.57,120701.71,2024-01-31,2024-11-29,Platinum
+C01589,Keya Dalal,Tamil Nadu,Panvel,5,600407.38,120081.48,2023-01-03,2024-11-02,Platinum
+C01442,Raghav Behl,Gujarat,Machilipatnam,5,600007.79,120001.56,2022-10-13,2024-12-19,Platinum
+C00683,Damini Srinivas,Delhi,Visakhapatnam,5,598444.21,119688.84,2022-07-05,2024-05-13,Platinum
+C00034,Sneha Gupta,Gujarat,Jabalpur,6,591907.5,98651.25,2023-04-28,2024-09-20,Platinum
+C00189,Sanya Bala,Pune,Motihari,3,591476.45,197158.82,2022-05-18,2023-09-18,Platinum
+C00141,Rayaan Barad,Haryana,Raurkela Industrial Township,6,590792.47,98465.41,2022-07-11,2024-08-15,Platinum
+C00922,Ranbir Iyer,Telangana,Sambalpur,6,590653.64,98442.27,2022-04-13,2024-07-05,Platinum
+C00963,Kritika Agate,Telangana,Shimla,6,587130.09,97855.01,2022-05-23,2024-06-22,Platinum
+C01293,Rehaan Handa,Tamil Nadu,Aurangabad,8,582480.2,72810.02,2022-01-11,2024-12-24,Platinum
+C01533,Upadhriti Gera,Gujarat,Burhanpur,8,581098.45,72637.31,2022-07-28,2024-05-16,Platinum
+C01335,Triya Bhavsar,Rajasthan,Jhansi,6,580707.03,96784.51,2022-03-31,2024-11-17,Platinum
+C01113,Zayyan Dey,Telangana,Pudukkottai,5,576594.15,115318.83,2022-02-08,2024-10-02,Platinum
+C01243,Hemang Kadakia,Rajasthan,Bhilwara,5,572774.13,114554.83,2022-04-21,2024-06-09,Platinum
+C01825,Amrita Garde,Delhi,Belgaum,5,571654.37,114330.87,2023-01-11,2024-01-31,Platinum
+C01103,Libni Sanghvi,West Bengal,Bhiwandi,4,570132.36,142533.09,2022-10-19,2024-12-08,Platinum
+C00180,Qasim Behl,Pune,Ulhasnagar,5,566631.09,113326.22,2022-02-27,2024-08-19,Platinum
+C01744,Arya Dutt,Uttar Pradesh,Ghaziabad,4,566316.04,141579.01,2022-01-15,2024-10-27,Platinum
+C00459,Sanya Doshi,Karnataka,Suryapet,3,565912.8,188637.6,2022-12-05,2024-04-10,Platinum
+C01525,Jason Gokhale,Pune,Noida,5,565282.24,113056.45,2022-11-08,2024-12-12,Platinum
+C01956,Anvi Khosla,Rajasthan,Madhyamgram,6,562955.68,93825.95,2022-07-07,2024-05-12,Platinum
+C00109,Mugdha Krishna,Bihar,Maheshtala,5,562085.65,112417.13,2022-11-01,2024-11-30,Platinum
+C01594,Radha Narayanan,Gujarat,Bathinda,5,560714.19,112142.84,2022-12-20,2024-12-10,Platinum
+C01310,Shivansh Kade,Karnataka,Bongaigaon,4,552779.81,138194.95,2022-02-12,2024-03-30,Platinum
+C01072,Vasatika Narain,Pune,Bhimavaram,4,551823.33,137955.83,2022-03-29,2024-12-20,Platinum
+C01657,Aayush Gole,Karnataka,Katni,4,550688.85,137672.21,2022-02-14,2024-11-04,Platinum
+C00772,Vamakshi Shenoy,Tamil Nadu,Panvel,7,548102.18,78300.31,2022-03-26,2023-12-28,Platinum
+C01320,Yagnesh Barad,Delhi,Katihar,3,546917.09,182305.7,2022-11-16,2024-10-27,Platinum
+C01420,Upadhriti Sule,Bihar,Pali,5,545611.26,109122.25,2022-10-28,2024-11-22,Platinum
+C01468,Falguni Bhakta,Pune,Ulhasnagar,6,544871.8,90811.97,2023-07-16,2024-12-13,Platinum
+C00171,Kamya Biswas,Karnataka,Nagpur,8,537136.75,67142.09,2022-10-10,2024-03-03,Platinum
+C00455,Siya Cheema,Maharashtra,Katihar,5,535783.48,107156.7,2022-03-21,2024-08-02,Platinum
+C00192,Ekaja Sehgal,Madhya Pradesh,New Delhi,5,535600.06,107120.01,2022-07-28,2024-11-12,Platinum
+C01397,Mugdha Pall,Odisha,Danapur,4,533642.51,133410.63,2022-04-08,2024-04-22,Platinum
+C01196,Harrison Sharma,Rajasthan,Rohtak,6,532851.98,88808.66,2022-08-30,2024-12-13,Platinum
+C00754,Imaran Behl,Kerala,Orai,2,532294.09,266147.05,2022-02-26,2023-01-26,Platinum
+C00282,Yashawini Das,Delhi,Sonipat,4,530707.69,132676.92,2023-02-13,2024-10-13,Platinum
+C00646,Umang Kalla,Pune,Hazaribagh,4,529172.87,132293.22,2022-04-19,2024-02-28,Platinum
+C00662,Reva Dugal,Karnataka,Parbhani,4,528503.56,132125.89,2022-03-22,2024-12-07,Platinum
+C01837,Ishita Virk,Tamil Nadu,Danapur,4,525211.6,131302.9,2022-02-17,2024-12-10,Platinum
+C00105,William Dass,Bihar,Kavali,4,524028.68,131007.17,2023-03-04,2024-11-21,Platinum
+C01459,Qarin Bawa,Kerala,Fatehpur,3,524026.6,174675.53,2022-06-06,2024-04-21,Platinum
+C01023,Aryan Mangal,Kerala,Uluberia,4,523848.13,130962.03,2022-05-18,2023-10-25,Platinum
+C00773,Avi Trivedi,Telangana,Purnia,3,520737.09,173579.03,2022-06-25,2023-08-17,Platinum
+C00221,Aarnav Varghese,Gujarat,Karnal,6,520045.63,86674.27,2022-08-16,2024-11-01,Platinum
+C01159,Banjeet Yohannan,Gujarat,Guntur,4,516339.6,129084.9,2022-01-18,2023-09-10,Platinum
+C00742,Saumya Dalal,Tamil Nadu,Sirsa,5,515377.93,103075.59,2023-05-05,2024-10-23,Platinum
+C00225,Girindra Krishnamurthy,Kerala,Bathinda,4,515162.95,128790.74,2023-12-08,2024-09-03,Platinum
+C01050,Gunbir Lata,Delhi,Burhanpur,4,514162.97,128540.74,2022-04-02,2024-05-26,Platinum
+C01188,Chakradev Buch,West Bengal,Agra,4,512111.71,128027.93,2023-02-14,2024-01-02,Platinum
+C01347,Turvi Borde,Uttar Pradesh,Malegaon,6,511331.26,85221.88,2022-01-06,2024-05-15,Platinum
+C01970,Yadavi Agrawal,Madhya Pradesh,Maheshtala,5,509430.36,101886.07,2022-06-28,2024-01-04,Platinum
+C01551,Zayan Venkataraman,Tamil Nadu,Malegaon,4,509188.69,127297.17,2022-08-05,2024-12-06,Platinum
+C01007,Watika Sehgal,Maharashtra,Burhanpur,4,507165.21,126791.3,2022-01-10,2024-08-13,Platinum
+C00100,Kashvi Chadha,Kerala,Guna,4,505633.41,126408.35,2022-03-26,2022-09-29,Platinum
+C01555,Balveer Kunda,Gujarat,New Delhi,6,504450.05,84075.01,2022-06-07,2024-09-25,Platinum
+C00684,Darpan Hayer,Madhya Pradesh,Nadiad,2,503786.93,251893.46,2022-01-23,2024-05-30,Platinum
+C01570,Gavin Dixit,West Bengal,Saharsa,6,503382.77,83897.13,2022-07-13,2024-12-19,Platinum
+C00008,Advay Sengupta,Telangana,Dharmavaram,4,501644.44,125411.11,2022-02-01,2024-09-08,Platinum
+C00958,Dalbir Varughese,Maharashtra,Dhanbad,3,501533.76,167177.92,2022-04-09,2024-03-12,Platinum
+C01174,Samarth Khanna,Karnataka,Mathura,3,501096.08,167032.03,2022-06-01,2023-01-06,Platinum
+C00725,Jeevika Zachariah,Rajasthan,Bhimavaram,7,501063.41,71580.49,2022-01-12,2024-07-24,Platinum
+C01754,Gunbir Lall,Tamil Nadu,Jabalpur,6,501019.23,83503.21,2022-06-02,2024-03-09,Platinum
+C00256,Veer Hari,Kerala,Kavali,5,500541.03,100108.21,2022-06-18,2024-12-12,Platinum
+C01521,Ekbal Kaur,Maharashtra,Jamnagar,2,500187.76,250093.88,2023-07-25,2024-04-09,Platinum
+C01129,Nidhi Thaker,Maharashtra,Ahmedabad,4,499558.35,124889.59,2023-04-19,2024-03-24,Gold
+C00886,Bhanumati Joshi,Tamil Nadu,Medininagar,4,499156.53,124789.13,2022-05-09,2024-04-11,Gold
+C01051,Harsh Patil,Bihar,Karimnagar,8,498868.46,62358.56,2022-05-09,2024-11-15,Gold
+C00974,Gaurika Lad,West Bengal,Gandhidham,5,497535.26,99507.05,2022-03-21,2024-10-26,Gold
+C00911,Prisha Munshi,Uttar Pradesh,Sirsa,3,491256.09,163752.03,2022-05-18,2023-01-05,Gold
+C01217,Yachana Madan,Odisha,Hindupur,4,490821.73,122705.43,2023-01-06,2024-07-27,Gold
+C01063,Samar Kibe,Kerala,South Dumdum,3,489346.66,163115.55,2023-04-17,2024-05-02,Gold
+C01907,Bimala Mann,Pune,Sangli-Miraj & Kupwad,3,488725.53,162908.51,2023-09-20,2024-10-23,Gold
+C01690,Diya Bajaj,Rajasthan,Moradabad,4,484013.2,121003.3,2022-09-14,2024-09-23,Gold
+C00674,Jeevika Grover,Uttar Pradesh,Kochi,2,481961.09,240980.55,2022-06-10,2024-06-30,Gold
+C00019,Hemang Sem,Uttar Pradesh,Solapur,4,481878.3,120469.57,2023-12-12,2024-10-06,Gold
+C00299,Dakshesh Walla,Haryana,Rajkot,4,481573.56,120393.39,2023-05-31,2024-12-22,Gold
+C00732,Nimrat Raghavan,Rajasthan,Kollam,3,481290.7,160430.23,2023-06-07,2024-02-08,Gold
+C01604,Om Sha,Rajasthan,Thrissur,5,480769.3,96153.86,2022-03-11,2024-06-21,Gold
+C00720,Idika Parmar,Maharashtra,Bhimavaram,3,480354.79,160118.26,2022-05-01,2024-04-29,Gold
+C01002,Bhanumati Mitter,Karnataka,Bhiwani,6,479988.36,79998.06,2022-04-02,2024-07-14,Gold
+C01149,Udyati Khalsa,Maharashtra,Kakinada,6,477795.76,79632.63,2022-01-07,2024-07-26,Gold
+C01204,Avi Chad,Tamil Nadu,Aurangabad,6,477658.65,79609.78,2022-06-06,2024-01-11,Gold
+C01232,Patrick Mannan,Haryana,Howrah,3,477192.9,159064.3,2022-01-07,2024-08-21,Gold
+C01333,Zayan Arya,Uttar Pradesh,Jorhat,4,477166.85,119291.71,2022-03-29,2024-03-01,Gold
+C01427,Jagrati Goel,Maharashtra,Shivpuri,4,476333.85,119083.46,2022-05-13,2023-11-09,Gold
+C01167,Balhaar Arora,Madhya Pradesh,Jhansi,7,476194.59,68027.8,2022-05-21,2024-03-07,Gold
+C01306,Amol Samra,Odisha,Ludhiana,4,475956.45,118989.11,2023-04-13,2024-11-07,Gold
+C00308,Jai Padmanabhan,Delhi,Nangloi Jat,5,474316.07,94863.21,2022-06-10,2024-11-15,Gold
+C01620,Teerth Palla,Bihar,Aurangabad,5,473061.74,94612.35,2022-01-05,2024-12-21,Gold
+C01021,Luke Ratti,Haryana,Surat,4,471350.31,117837.58,2022-04-03,2024-11-20,Gold
+C00482,Aachal Tak,Rajasthan,Aurangabad,4,470521.0,117630.25,2022-01-04,2024-06-29,Gold
+C01219,Inaya Goyal,Uttar Pradesh,Ballia,5,470239.24,94047.85,2022-06-10,2024-03-22,Gold
+C01954,Jason Chaudhary,Uttar Pradesh,Mau,2,469930.58,234965.29,2022-03-12,2024-10-02,Gold
+C00397,David Goswami,West Bengal,Shimoga,7,468266.42,66895.2,2022-08-03,2024-10-13,Gold
+C00218,Faris Bera,Bihar,Bhilwara,4,467923.24,116980.81,2022-01-24,2024-10-13,Gold
+C01230,Ekanta Bora,Haryana,Bijapur,6,464644.14,77440.69,2022-01-18,2024-04-25,Gold
+C00135,Raghav Pandey,Uttar Pradesh,Jaipur,5,463269.92,92653.98,2022-06-09,2024-02-17,Gold
+C00440,Farhan Sarkar,Maharashtra,Surendranagar Dudhrej,3,462755.66,154251.89,2023-09-22,2024-11-15,Gold
+C00336,Jairaj Natt,Delhi,Bhopal,6,462699.76,77116.63,2022-05-23,2024-06-15,Gold
+C01698,Timothy Tata,Karnataka,Saharsa,8,461795.09,57724.39,2022-07-27,2024-12-06,Gold
+C01053,Bina Ray,Haryana,Aurangabad,3,460575.27,153525.09,2022-08-27,2023-12-26,Gold
+C01990,Vihaan Bandi,Madhya Pradesh,Satara,2,459807.03,229903.51,2022-12-24,2024-06-08,Gold
+C01319,Diya Varughese,Kerala,Korba,3,459283.64,153094.55,2024-10-06,2024-12-10,Gold
+C00890,Darpan Parsa,West Bengal,Guna,7,456510.96,65215.85,2022-04-07,2024-12-27,Gold
+C01493,Ayushman Vora,Odisha,Vijayanagaram,5,456422.93,91284.59,2022-12-13,2024-10-31,Gold
+C01363,Neel Morar,Bihar,Mangalore,8,456255.75,57031.97,2022-06-13,2024-11-03,Gold
+C01800,Indira Ratti,Bihar,Karnal,4,454874.16,113718.54,2022-01-24,2024-04-30,Gold
+C01797,Arjun Uppal,Pune,Rourkela,5,454792.42,90958.48,2022-02-20,2024-01-19,Gold
+C01552,Mitesh Madan,West Bengal,Bhilwara,5,453333.81,90666.76,2022-01-14,2023-11-13,Gold
+C00938,Azad Rama,Karnataka,Kadapa,5,452135.76,90427.15,2022-05-22,2024-04-18,Gold
+C00943,Balendra Rastogi,Telangana,Bahraich,3,450101.95,150033.98,2022-01-31,2024-04-10,Gold
+C00010,Ishita Zacharia,Pune,Srinagar,2,449883.63,224941.82,2022-12-02,2022-12-13,Gold
+C01032,Ekantika Master,Maharashtra,Vijayanagaram,4,448099.0,112024.75,2022-07-08,2024-06-16,Gold
+C01743,Andrew Varghese,West Bengal,Bhatpara,5,448024.67,89604.93,2022-04-02,2023-12-09,Gold
+C00472,Dhriti Srivastava,Odisha,Katni,3,447897.93,149299.31,2022-10-10,2023-10-23,Gold
+C01642,Yahvi Johal,Karnataka,Nagercoil,7,446822.96,63831.85,2022-04-10,2024-05-22,Gold
+C01630,Bimala Singhal,Gujarat,Burhanpur,7,446211.63,63744.52,2022-04-17,2024-07-27,Gold
+C00060,Prisha Kashyap,West Bengal,Maheshtala,2,445695.39,222847.7,2022-02-17,2022-05-31,Gold
+C01244,Anya Rege,Tamil Nadu,Phusro,10,444333.14,44433.31,2022-02-07,2024-08-15,Gold
+C01598,Jagat Khare,Uttar Pradesh,Vijayanagaram,4,442384.0,110596.0,2022-03-19,2024-06-16,Gold
+C01512,Aahana Raman,Gujarat,Ongole,3,441450.53,147150.18,2022-09-18,2023-12-12,Gold
+C00586,Jatin Vora,Maharashtra,Firozabad,3,440664.12,146888.04,2023-06-03,2024-11-09,Gold
+C01668,Advay Goswami,Karnataka,Barasat,5,439938.25,87987.65,2022-09-03,2024-04-24,Gold
+C01932,Mugdha Jaggi,Delhi,Jorhat,5,438175.79,87635.16,2023-11-16,2024-09-05,Gold
+C00002,Sai Dasgupta,Tamil Nadu,Kozhikode,7,437810.16,62544.31,2022-03-01,2024-12-02,Gold
+C01124,Gautami Dave,West Bengal,Ulhasnagar,4,436822.48,109205.62,2022-09-12,2024-09-08,Gold
+C00203,Yachana Vig,Rajasthan,Jaunpur,4,435766.18,108941.54,2022-04-28,2024-12-05,Gold
+C01583,Krishna Dani,Kerala,Sonipat,3,435674.5,145224.83,2023-03-07,2024-05-27,Gold
+C01557,Odika Tiwari,Rajasthan,Bikaner,4,434195.67,108548.92,2022-04-21,2024-06-06,Gold
+C00869,Yadavi Bains,Telangana,Thiruvananthapuram,3,434075.39,144691.8,2023-03-12,2024-11-28,Gold
+C01661,Niharika Walla,Odisha,Satara,4,433751.77,108437.94,2022-01-21,2024-12-05,Gold
+C01102,Divya Goda,Uttar Pradesh,Sagar,5,433432.5,86686.5,2022-03-05,2024-10-19,Gold
+C00925,Jagvi Pall,Haryana,Alappuzha,4,431773.54,107943.39,2023-06-10,2024-08-12,Gold
+C01755,Christopher Hora,Pune,Fatehpur,1,430982.57,430982.57,2022-08-18,2022-08-18,Gold
+C00448,Niharika Sarraf,Gujarat,South Dumdum,3,429369.59,143123.2,2023-11-01,2023-12-26,Gold
+C00847,Gaurika Chandran,Bihar,Mira-Bhayandar,4,428754.68,107188.67,2022-01-06,2023-02-18,Gold
+C01314,Owen Sule,Uttar Pradesh,Giridih,3,427132.33,142377.44,2022-08-28,2024-03-08,Gold
+C00193,Azad Raval,Karnataka,Ghaziabad,4,424717.27,106179.32,2022-02-21,2024-11-21,Gold
+C01779,Siya Swaminathan,Pune,Munger,4,424143.69,106035.92,2022-02-14,2024-01-24,Gold
+C00087,Aditya Goda,Uttar Pradesh,Bhimavaram,4,422860.58,105715.15,2022-08-16,2024-08-08,Gold
+C00125,Inaya Kaur,Kerala,Thanjavur,5,422010.24,84402.05,2022-07-27,2024-08-15,Gold
+C00982,Wyatt Grover,Maharashtra,Baranagar,3,421698.97,140566.32,2022-03-27,2023-07-16,Gold
+C00739,Mohammed Kala,Maharashtra,Ajmer,4,421389.11,105347.28,2022-05-13,2024-12-29,Gold
+C00812,Jeremiah Pathak,Madhya Pradesh,Bikaner,3,420548.53,140182.84,2022-11-29,2023-10-02,Gold
+C01982,Wishi Joshi,Madhya Pradesh,Karnal,3,420419.62,140139.87,2022-12-25,2024-12-08,Gold
+C01409,Maanav Grewal,Karnataka,Bhiwandi,3,419415.59,139805.2,2022-07-18,2024-08-24,Gold
+C00866,Gauri Kalla,Uttar Pradesh,Phagwara,4,418690.02,104672.5,2022-08-15,2024-12-11,Gold
+C01794,Tripti Hora,Pune,Avadi,4,418193.35,104548.34,2022-07-23,2024-10-03,Gold
+C00992,Ekansh Rajan,Telangana,Rajahmundry,4,416476.88,104119.22,2022-10-18,2024-01-22,Gold
+C00065,Chameli Kaul,Kerala,Bally,3,415529.45,138509.82,2022-04-10,2023-10-18,Gold
+C00993,Victor Madan,Pune,Serampore,5,415515.34,83103.07,2022-04-01,2023-08-09,Gold
+C00912,Ishwar Sarna,Pune,Udaipur,4,414853.16,103713.29,2023-01-23,2024-08-01,Gold
+C01634,Yashoda Tak,Maharashtra,Malda,4,414826.03,103706.51,2023-05-19,2023-09-26,Gold
+C01582,Harita Sarraf,Pune,Meerut,4,414668.78,103667.19,2022-02-09,2023-10-11,Gold
+C01822,Yug Sankaran,Uttar Pradesh,Hospet,5,414375.38,82875.08,2022-03-22,2024-03-26,Gold
+C00310,Charita Date,Gujarat,Unnao,3,414312.97,138104.32,2022-06-23,2024-05-29,Gold
+C01016,Aradhana Setty,Pune,Sonipat,4,414098.95,103524.74,2022-06-20,2024-12-12,Gold
+C01033,George Tella,Odisha,Chandrapur,5,408242.45,81648.49,2022-08-05,2024-08-22,Gold
+C01137,Nihal Kapoor,Odisha,Thanjavur,3,407804.48,135934.83,2022-01-03,2024-09-09,Gold
+C00380,Azaan Narayanan,Gujarat,Tumkur,3,406103.89,135367.96,2022-01-26,2023-09-05,Gold
+C01413,Shravya Bhakta,Pune,Guwahati,4,406069.3,101517.32,2022-08-04,2024-03-10,Gold
+C00091,Chaitaly Devan,Gujarat,Malda,2,406051.06,203025.53,2023-11-10,2024-01-21,Gold
+C00823,Bhavika Mohanty,Rajasthan,Kolkata,2,405968.78,202984.39,2022-05-23,2023-12-17,Gold
+C01858,Yashvi Bansal,Madhya Pradesh,Surat,5,405103.52,81020.7,2022-04-24,2023-12-08,Gold
+C01272,Om Wadhwa,Maharashtra,Uluberia,4,404568.78,101142.2,2022-03-04,2024-09-17,Gold
+C01538,Farhan Bora,Telangana,Hubli–Dharwad,4,401383.1,100345.78,2023-02-25,2024-08-09,Gold
+C00811,Tanvi Lad,Telangana,Proddatur,2,401335.62,200667.81,2022-10-17,2023-01-25,Gold
+C01921,Rajeshri Desai,Bihar,Ahmednagar,3,400099.76,133366.59,2022-10-18,2024-12-26,Gold
+C00322,Atharv Chada,Haryana,Madurai,4,400013.47,100003.37,2022-10-25,2024-08-16,Gold
+C01859,Nandini Sanghvi,Haryana,Bareilly,2,398521.98,199260.99,2022-11-05,2023-07-21,Gold
+C00187,Zashil Iyengar,Odisha,Mathura,4,398377.85,99594.46,2022-09-14,2023-08-14,Gold
+C01042,Azaan Rajagopal,Karnataka,Amravati,3,398155.02,132718.34,2024-01-18,2024-08-26,Gold
+C00350,Rachita Naik,Kerala,Bhusawal,4,396377.16,99094.29,2022-06-16,2024-03-04,Gold
+C01959,Hemang Sawhney,Rajasthan,Bhilai,4,396236.18,99059.04,2022-03-07,2023-05-11,Gold
+C00595,Manan Chada,Uttar Pradesh,Indore,2,394988.33,197494.16,2022-02-07,2023-05-14,Gold
+C00868,Aradhana Oak,Gujarat,Hindupur,3,394516.87,131505.62,2022-03-29,2023-08-30,Gold
+C00349,Nidhi Samra,Rajasthan,Tumkur,4,393790.38,98447.6,2022-03-06,2024-09-11,Gold
+C00395,Sudiksha Doctor,Karnataka,Cuttack,6,393704.49,65617.41,2022-05-28,2023-09-01,Gold
+C00509,Hemani Nagi,Tamil Nadu,Mysore,4,392575.49,98143.87,2022-05-24,2024-07-27,Gold
+C01897,Gautam Dhawan,Telangana,Sonipat,3,392248.67,130749.56,2022-01-17,2022-12-20,Gold
+C01304,Odika Thaker,Bihar,Tumkur,6,392124.18,65354.03,2022-06-09,2024-05-13,Gold
+C00948,Sanaya Kala,Uttar Pradesh,Muzaffarpur,5,391453.14,78290.63,2022-03-01,2024-03-05,Gold
+C00441,Eesha Bahri,Maharashtra,Rohtak,6,390574.53,65095.75,2022-10-31,2024-09-27,Gold
+C00148,Upkaar Sandhu,Haryana,Kumbakonam,2,390172.32,195086.16,2023-08-20,2024-01-16,Gold
+C01398,Rishi Subramanian,Rajasthan,Warangal,4,389889.48,97472.37,2022-03-02,2024-03-06,Gold
+C01044,Qabil Ranganathan,Gujarat,Raiganj,4,388944.67,97236.17,2022-08-16,2023-05-18,Gold
+C01808,Reyansh Dey,Karnataka,Sasaram,2,388896.03,194448.01,2023-08-26,2024-02-26,Gold
+C01629,Azaan Din,Bihar,Fatehpur,2,387521.58,193760.79,2023-06-26,2024-02-08,Gold
+C00579,Falan Patel,Telangana,Sambhal,5,387190.33,77438.07,2022-01-22,2023-08-04,Gold
+C00190,Ethan Gala,Pune,Ramgarh,5,386692.81,77338.56,2022-07-27,2024-11-14,Gold
+C01045,Suhani Lala,Kerala,Nagpur,4,385880.61,96470.15,2022-06-29,2024-02-27,Gold
+C01529,Sai Nanda,Rajasthan,Faridabad,3,385465.18,128488.39,2022-10-27,2023-07-09,Gold
+C01654,Ekanta Kakar,Maharashtra,Miryalaguda,3,385416.02,128472.01,2023-08-03,2024-08-13,Gold
+C00208,Atharv Sachar,Tamil Nadu,Thanjavur,5,385235.62,77047.12,2022-02-23,2024-10-29,Gold
+C00919,Yuvraj Sem,Delhi,Ramagundam,4,384799.89,96199.97,2022-04-23,2024-05-27,Gold
+C01844,Mason Gandhi,Haryana,Dibrugarh,6,384012.9,64002.15,2022-01-30,2024-02-12,Gold
+C00297,Nitesh Babu,Tamil Nadu,Bhatpara,6,381887.02,63647.84,2022-03-13,2024-08-02,Gold
+C00215,Vrishti Kara,Delhi,Giridih,2,381883.97,190941.98,2023-01-09,2024-02-09,Gold
+C00961,Wridesh Dixit,Maharashtra,Hindupur,3,380969.28,126989.76,2022-01-25,2024-07-28,Gold
+C00157,Jacob Taneja,Uttar Pradesh,Sasaram,1,380934.72,380934.72,2023-03-20,2023-03-20,Gold
+C01312,Thomas Bath,Gujarat,Guwahati,5,380585.93,76117.19,2022-06-13,2023-09-10,Gold
+C01052,Yatin Rout,Odisha,Karnal,3,379479.6,126493.2,2022-04-07,2024-10-22,Gold
+C00989,Osha Wadhwa,Rajasthan,Anantapuram,3,379369.33,126456.44,2022-09-30,2024-06-24,Gold
+C00877,Faraj Padmanabhan,Telangana,Kalyan-Dombivli,2,378740.45,189370.23,2023-09-06,2023-09-23,Gold
+C00650,Bachittar Mahajan,Madhya Pradesh,Sonipat,4,378366.43,94591.61,2022-01-07,2024-09-08,Gold
+C00872,Hritik Tank,Kerala,Ballia,3,377986.73,125995.58,2022-07-24,2024-06-12,Gold
+C00458,Qadim Manda,Odisha,Sultan Pur Majra,3,377584.65,125861.55,2022-02-25,2024-12-28,Gold
+C01278,Radha Mohan,West Bengal,Naihati,2,377300.74,188650.37,2022-09-20,2023-03-04,Gold
+C00204,Zayyan Panchal,Madhya Pradesh,Begusarai,3,375097.12,125032.37,2022-05-20,2024-04-08,Gold
+C00170,Zayan Mody,Haryana,Hubli–Dharwad,4,374675.82,93668.96,2022-01-02,2024-08-20,Gold
+C00558,Ikbal Iyengar,Odisha,Parbhani,7,373691.22,53384.46,2022-02-12,2024-09-29,Gold
+C01203,Sai Kala,Madhya Pradesh,Belgaum,3,373632.85,124544.28,2024-07-08,2024-11-13,Gold
+C00092,Advay Gandhi,Gujarat,Guwahati,4,372902.0,93225.5,2022-05-29,2024-06-24,Gold
+C01351,Riya Randhawa,Kerala,Satara,4,372134.72,93033.68,2022-07-08,2024-08-12,Gold
+C00388,Eiravati Sharma,West Bengal,Parbhani,3,372074.46,124024.82,2022-02-22,2024-05-21,Gold
+C01229,Abdul Vala,Delhi,Anantapur,5,371264.14,74252.83,2022-01-18,2024-07-27,Gold
+C00878,Manthan Morar,Gujarat,Serampore,4,370574.35,92643.59,2022-03-24,2024-03-29,Gold
+C01518,Jagrati Sachdeva,Gujarat,Raipur,5,370320.26,74064.05,2022-07-04,2024-09-24,Gold
+C00023,Anay Dayal,Delhi,Chennai,5,369982.06,73996.41,2022-10-25,2024-10-01,Gold
+C01976,Ryan Sidhu,Karnataka,Thiruvananthapuram,4,368344.4,92086.1,2023-09-04,2024-12-08,Gold
+C00017,Aadi Parmar,Tamil Nadu,Agra,4,365825.63,91456.41,2022-01-05,2023-11-14,Gold
+C01111,Aahana Bir,Karnataka,Berhampur,3,363649.45,121216.48,2022-05-03,2023-11-13,Gold
+C01998,Samuel Taneja,Uttar Pradesh,Jorhat,3,363637.34,121212.45,2022-05-14,2023-10-09,Gold
+C00883,Aarna Sane,Tamil Nadu,Karnal,5,363578.52,72715.7,2022-09-05,2024-08-14,Gold
+C01963,Jasmit Ramesh,Tamil Nadu,Alappuzha,4,361757.0,90439.25,2023-01-12,2024-12-18,Gold
+C01632,Harshil Sane,Odisha,Bhilai,3,361741.29,120580.43,2022-02-21,2023-07-29,Gold
+C01071,Elijah Kumer,Tamil Nadu,Hyderabad,4,361615.03,90403.76,2023-04-02,2024-09-07,Gold
+C01579,Mekhala Sama,Odisha,Bulandshahr,6,360630.56,60105.09,2022-05-19,2024-04-08,Gold
+C00383,Brinda Narayan,Bihar,Sagar,4,360525.27,90131.32,2023-01-29,2024-12-07,Gold
+C00490,Lucky Naidu,Uttar Pradesh,Bidhannagar,6,359199.0,59866.5,2022-02-12,2024-06-22,Gold
+C01988,Mason Arya,Bihar,Nangloi Jat,3,359160.52,119720.17,2022-12-05,2023-04-03,Gold
+C01302,Niharika Singhal,Gujarat,Gopalpur,3,358721.57,119573.86,2023-04-01,2024-03-19,Gold
+C01899,Hemangini Sengupta,Gujarat,Agartala,3,358547.94,119515.98,2022-02-03,2024-01-10,Gold
+C01883,Zayan Dhaliwal,Pune,Thane,6,358295.29,59715.88,2023-06-25,2024-12-15,Gold
+C00932,Advika Bala,Tamil Nadu,Erode,4,357933.61,89483.4,2022-12-14,2023-09-02,Gold
+C00740,Hitesh Tailor,Maharashtra,Sagar,4,357546.7,89386.68,2023-02-09,2024-09-02,Gold
+C01789,Siddharth Rout,Kerala,Amroha,4,357452.38,89363.1,2022-05-17,2024-03-01,Gold
+C00686,Krishna Goda,Delhi,Jodhpur,5,356854.63,71370.93,2022-03-01,2024-05-23,Gold
+C01133,Warjas Edwin,Haryana,Dharmavaram,3,356577.61,118859.2,2022-08-15,2024-07-16,Gold
+C01061,Rishi Tank,Uttar Pradesh,Malegaon,4,356141.23,89035.31,2023-09-07,2024-10-27,Gold
+C01098,Dominic Shankar,Uttar Pradesh,Bathinda,3,355677.64,118559.21,2022-05-17,2024-06-18,Gold
+C01332,Kevin Bakshi,Odisha,Solapur,5,355663.99,71132.8,2022-04-24,2024-11-28,Gold
+C00750,Nidra Venkatesh,Kerala,Bhagalpur,5,355030.8,71006.16,2023-04-18,2024-11-04,Gold
+C00156,Warhi Bedi,West Bengal,Narasaraopet,4,354693.61,88673.4,2022-03-04,2023-09-30,Gold
+C01036,Ekantika Pall,Odisha,Arrah,2,354137.05,177068.52,2022-06-16,2023-02-06,Gold
+C01945,Upkaar Kibe,Uttar Pradesh,Bareilly,3,353889.8,117963.27,2024-02-01,2024-11-08,Gold
+C01390,Eshana Tata,Rajasthan,Ajmer,5,353529.69,70705.94,2022-01-17,2024-06-17,Gold
+C01343,Pushti Lad,Kerala,Deoghar,2,352806.67,176403.34,2022-05-03,2023-07-26,Gold
+C00126,Varsha Kaul,Madhya Pradesh,Pallavaram,6,351688.79,58614.8,2022-03-17,2023-10-09,Gold
+C00541,Meghana Wason,Gujarat,Hazaribagh,4,350551.65,87637.91,2022-01-17,2024-09-23,Gold
+C00222,Xavier Sandhu,Kerala,Nagpur,2,349885.59,174942.8,2022-06-09,2023-07-14,Gold
+C00493,Prisha Dutt,Haryana,Madurai,2,349229.04,174614.52,2022-09-19,2024-10-28,Gold
+C00502,Tejas Dave,West Bengal,Raurkela Industrial Township,4,349147.66,87286.91,2022-02-14,2023-09-18,Gold
+C00279,Chameli Venkatesh,Haryana,Ajmer,5,349107.76,69821.55,2022-10-22,2024-09-07,Gold
+C01515,Falguni Subramanian,Bihar,Mysore,2,348649.78,174324.89,2022-09-05,2022-09-10,Gold
+C00106,Balendra Shukla,Odisha,Mehsana,5,348358.4,69671.68,2022-06-12,2024-03-26,Gold
+C00630,Chakradev Jha,Maharashtra,Malda,3,346912.47,115637.49,2023-02-19,2024-04-25,Gold
+C01613,Vasatika Bhagat,Madhya Pradesh,Patna,3,346480.09,115493.36,2023-04-29,2024-09-13,Gold
+C00040,Rishi Bajaj,Haryana,Jamalpur,8,344993.65,43124.21,2022-06-24,2024-08-18,Gold
+C00094,Anjali Pingle,Tamil Nadu,Purnia,5,344820.35,68964.07,2022-01-13,2024-01-19,Gold
+C00671,Wazir Sankaran,Karnataka,Hyderabad,6,344239.76,57373.29,2022-12-12,2024-12-17,Gold
+C01496,Vrinda Lad,Haryana,Mehsana,1,344029.43,344029.43,2023-12-03,2023-12-03,Gold
+C00597,Nathaniel Patel,Telangana,Uluberia,4,343207.6,85801.9,2022-08-23,2024-08-13,Gold
+C01508,Vyanjana Shere,Kerala,Nanded,2,342774.92,171387.46,2022-05-26,2024-06-07,Gold
+C01910,Ansh Baral,Pune,Fatehpur,4,342209.06,85552.26,2022-03-22,2024-09-25,Gold
+C00818,Rajeshri Kade,Maharashtra,Hospet,3,341138.4,113712.8,2023-04-06,2024-09-09,Gold
+C00668,Wridesh Nigam,Haryana,Kumbakonam,6,340731.18,56788.53,2022-04-01,2024-11-20,Gold
+C00510,Saanvi Dass,Madhya Pradesh,Aurangabad,5,340637.74,68127.55,2022-05-23,2024-06-20,Gold
+C01511,Hemal Puri,West Bengal,Latur,2,340610.09,170305.04,2022-09-27,2023-02-12,Gold
+C01705,Devansh Dhingra,Odisha,Jalandhar,4,339119.89,84779.97,2022-01-29,2024-09-11,Gold
+C00692,Nirja Jha,Madhya Pradesh,Sasaram,6,338305.05,56384.17,2023-04-30,2024-07-03,Gold
+C00706,Krishna Memon,Haryana,Sasaram,3,338074.0,112691.33,2022-11-11,2024-07-01,Gold
+C00185,Chasmum Madan,Haryana,Mahbubnagar,4,337534.46,84383.62,2022-10-01,2024-12-07,Gold
+C01927,Vritti Mishra,Uttar Pradesh,Ambala,3,337127.35,112375.78,2022-01-27,2024-01-22,Gold
+C00494,Varsha Kaur,Gujarat,Pallavaram,3,335666.36,111888.79,2022-04-26,2023-12-28,Gold
+C00708,Warinder Lanka,Uttar Pradesh,Meerut,2,335568.71,167784.35,2024-08-14,2024-09-22,Gold
+C01205,Hitesh Bera,West Bengal,Buxar,2,335083.28,167541.64,2022-07-25,2023-01-24,Gold
+C01108,Yashasvi Nair,Delhi,Agra,5,334407.87,66881.57,2022-01-30,2024-05-21,Gold
+C00897,Jackson Sahni,Gujarat,Asansol,2,332579.02,166289.51,2023-02-19,2023-07-27,Gold
+C00632,Lakshmi Vyas,Bihar,Junagadh,4,331323.29,82830.82,2022-01-01,2024-05-14,Gold
+C01083,Amruta Goda,Telangana,Rajpur Sonarpur,4,330729.62,82682.4,2022-06-18,2024-12-06,Gold
+C01248,Vincent Badal,Bihar,Bahraich,5,330629.81,66125.96,2023-02-18,2023-10-29,Gold
+C00112,Zansi Sachdeva,West Bengal,Bidar,6,330317.49,55052.92,2022-06-01,2024-10-22,Gold
+C00538,Wazir Dara,Pune,Dehradun,3,329543.66,109847.89,2022-06-10,2024-09-08,Gold
+C00230,Bhavika Upadhyay,Pune,Sikar,3,329286.83,109762.28,2022-03-18,2024-11-06,Gold
+C00241,Jai Balay,West Bengal,Tinsukia,2,328811.66,164405.83,2023-11-29,2024-08-10,Gold
+C01995,Henry Manne,Telangana,Dhule,3,328413.58,109471.19,2022-08-13,2024-08-14,Gold
+C01665,Manbir Patla,West Bengal,Thrissur,3,328202.37,109400.79,2022-08-27,2024-03-16,Gold
+C00351,Nakul Tailor,Pune,Bareilly,3,327822.71,109274.24,2024-01-19,2024-05-31,Gold
+C01841,Laksh Bali,Haryana,Uluberia,3,327631.88,109210.63,2022-06-16,2024-02-22,Gold
+C01578,Varsha Deo,Madhya Pradesh,Miryalaguda,4,327480.69,81870.17,2022-05-29,2024-10-27,Gold
+C00394,Vidhi Morar,Gujarat,Srinagar,3,327445.83,109148.61,2022-12-18,2023-11-10,Gold
+C00392,Vedika Balan,Delhi,Motihari,5,326239.6,65247.92,2023-08-07,2024-07-07,Gold
+C00426,Quincy Lad,Haryana,Suryapet,5,325786.07,65157.21,2022-03-23,2024-11-07,Gold
+C01787,Lila Wali,Uttar Pradesh,Bulandshahr,3,324867.09,108289.03,2022-06-02,2022-10-13,Gold
+C01342,Osha Sawhney,Kerala,Karnal,3,324341.68,108113.89,2023-04-22,2024-10-25,Gold
+C00680,Zayan Kapoor,Kerala,Nashik,3,324298.91,108099.64,2023-03-02,2024-05-09,Gold
+C01946,Tejas Ramanathan,Karnataka,Kavali,5,323948.02,64789.6,2022-02-23,2024-08-17,Gold
+C00949,Chandresh Deo,Bihar,Anantapuram,4,323922.71,80980.68,2022-12-01,2024-11-17,Gold
+C01477,Nimrat Gaba,Gujarat,Bhiwani,3,323919.28,107973.09,2023-02-20,2024-09-27,Gold
+C00120,Ekta Srinivas,Uttar Pradesh,Khandwa,4,323597.24,80899.31,2023-02-24,2024-12-13,Gold
+C01039,Chatresh Magar,Bihar,Srikakulam,3,323408.72,107802.91,2022-06-05,2024-06-03,Gold
+C00891,Wahab Palan,Maharashtra,Satara,6,323271.04,53878.51,2023-05-23,2024-10-15,Gold
+C00214,Falan Sood,Kerala,Dibrugarh,4,323118.07,80779.52,2024-07-07,2024-12-18,Gold
+C00090,Matthew Menon,Bihar,Dehri,2,322612.95,161306.48,2023-03-20,2023-09-28,Gold
+C01328,Qushi Hayre,West Bengal,Bilaspur,1,322582.53,322582.53,2024-04-05,2024-04-05,Gold
+C00205,Advika Dyal,Odisha,Vasai-Virar,3,322252.26,107417.42,2022-06-18,2023-04-01,Gold
+C00731,Om Khalsa,Maharashtra,Saharanpur,5,321064.76,64212.95,2022-02-08,2024-09-16,Gold
+C00534,Nidra Murthy,Pune,Silchar,3,321063.72,107021.24,2022-01-29,2024-01-06,Gold
+C00833,Omaja Reddy,Kerala,Hindupur,3,320859.85,106953.28,2022-11-20,2024-06-03,Gold
+C00602,Yadavi Dua,Telangana,Jhansi,4,320364.19,80091.05,2022-02-17,2024-03-13,Gold
+C01005,Rajeshri Goel,Tamil Nadu,Giridih,3,319796.24,106598.75,2023-03-04,2023-08-05,Gold
+C01146,Yutika Babu,Maharashtra,Mangalore,5,319523.34,63904.67,2022-06-24,2024-11-08,Gold
+C00659,Anika Karan,Uttar Pradesh,Saharanpur,3,319518.57,106506.19,2022-05-27,2024-08-11,Gold
+C00730,Jonathan Mohanty,Kerala,Sultan Pur Majra,3,319499.01,106499.67,2022-08-15,2023-07-18,Gold
+C02000,Krishna Kale,Odisha,Tadepalligudem,3,318392.1,106130.7,2022-11-06,2024-07-15,Gold
+C00179,Yasti Deep,Telangana,Solapur,3,318347.99,106116.0,2023-06-26,2024-08-14,Gold
+C00795,Zaid Chakraborty,Pune,Jalgaon,2,316950.82,158475.41,2022-04-12,2024-06-05,Gold
+C01758,Benjamin Venkatesh,Madhya Pradesh,Chennai,3,316443.53,105481.18,2023-01-07,2023-08-10,Gold
+C01009,Dipta Misra,Uttar Pradesh,Sikar,4,315449.46,78862.36,2022-08-23,2024-10-06,Gold
+C00747,Vinaya Batta,Karnataka,Kurnool,6,314026.94,52337.82,2022-01-19,2024-06-27,Gold
+C00003,Ranveer Balasubramanian,Madhya Pradesh,Tirupati,6,313962.55,52327.09,2022-01-18,2024-06-22,Gold
+C01714,Ishita Saha,Rajasthan,Chinsurah,4,313839.38,78459.85,2022-06-19,2024-12-10,Gold
+C00594,Nachiket Bose,West Bengal,Khora ,3,313785.81,104595.27,2023-02-28,2024-07-16,Gold
+C01461,Nidhi D’Alia,Delhi,Chapra,2,313399.4,156699.7,2023-09-03,2024-05-09,Gold
+C01733,Jatin Krishnamurthy,Bihar,Panvel,3,312483.09,104161.03,2022-05-16,2023-09-05,Gold
+C00973,Vrishti Mahajan,Delhi,Saharanpur,2,311954.57,155977.29,2023-09-17,2024-11-21,Gold
+C01643,Dominic Suri,Bihar,Pallavaram,5,311798.79,62359.76,2022-08-03,2023-10-12,Gold
+C00417,Rushil Kapoor,Bihar,Surat,3,311742.51,103914.17,2023-06-09,2024-08-11,Gold
+C01852,Zayan Chhabra,West Bengal,Ujjain,3,311390.14,103796.71,2022-01-03,2023-09-25,Gold
+C00913,Hiral Gaba,Kerala,Visakhapatnam,1,311371.84,311371.84,2024-11-14,2024-11-14,Gold
+C01732,Dominic Chahal,Pune,Nagaon,5,311353.85,62270.77,2022-11-29,2024-08-08,Gold
+C01944,Jonathan Chakraborty,Odisha,Dharmavaram,3,311020.93,103673.64,2022-02-04,2023-03-10,Gold
+C00137,Siddharth Tank,Kerala,New Delhi,4,310561.42,77640.36,2022-01-10,2023-08-07,Gold
+C00794,Neel Merchant,West Bengal,Dharmavaram,2,310339.63,155169.82,2022-08-30,2023-12-31,Gold
+C01236,Unnati Karpe,West Bengal,Rajpur Sonarpur,3,310030.48,103343.49,2022-11-06,2023-06-11,Gold
+C00084,Rushil Natarajan,Maharashtra,Vijayawada,2,309686.47,154843.24,2023-05-15,2024-04-25,Gold
+C00421,Nihal Varkey,Madhya Pradesh,Ambattur,1,309291.08,309291.08,2024-09-19,2024-09-19,Gold
+C00246,Panini Chander,Rajasthan,Nashik,4,308800.47,77200.12,2022-03-07,2024-03-18,Gold
+C00829,Ishaan Baral,Kerala,Udaipur,4,308588.18,77147.04,2022-08-21,2024-03-02,Gold
+C01728,Libni Handa,Gujarat,Coimbatore,2,308201.61,154100.8,2023-06-15,2024-02-16,Gold
+C00875,Niharika Wadhwa,Madhya Pradesh,Gandhidham,3,307907.94,102635.98,2023-05-31,2024-04-02,Gold
+C01597,Sarthak Munshi,Madhya Pradesh,Bhagalpur,2,307775.05,153887.52,2023-01-09,2023-08-06,Gold
+C00508,Dalaja Wadhwa,West Bengal,Hapur,5,307722.37,61544.47,2023-09-17,2024-05-18,Gold
+C00689,Hardik Om,Maharashtra,Bulandshahr,4,307451.23,76862.81,2022-05-02,2024-08-09,Gold
+C01010,Sneha Manda,Delhi,Faridabad,6,307416.81,51236.14,2023-03-11,2024-09-22,Gold
+C00532,Yuvraj Murty,Gujarat,Indore,4,306749.79,76687.45,2022-03-25,2024-02-10,Gold
+C01895,Hemani Oza,Maharashtra,Surat,2,306623.65,153311.83,2022-02-21,2024-05-22,Gold
+C00915,Xalak Mital,Pune,Dewas,1,306601.95,306601.95,2024-09-06,2024-09-06,Gold
+C01756,Atharv Saraf,Pune,Jalandhar,6,305545.0,50924.17,2022-03-04,2024-12-05,Gold
+C00549,Upadhriti Rai,Kerala,Kharagpur,3,305457.47,101819.16,2023-02-21,2024-03-13,Gold
+C01043,Kala Toor,Rajasthan,Kanpur,2,305003.91,152501.95,2022-06-05,2023-09-22,Gold
+C01687,Daksh Koshy,Odisha,Burhanpur,6,304910.19,50818.36,2022-02-12,2024-05-26,Gold
+C01067,Yachana Walia,Karnataka,Bharatpur,4,304299.77,76074.94,2022-05-07,2024-01-18,Gold
+C01830,Saumya Gulati,Gujarat,Kishanganj,6,304206.91,50701.15,2022-03-29,2024-09-23,Gold
+C01460,Anika Raju,Madhya Pradesh,Shimoga,3,303747.08,101249.03,2022-01-27,2024-06-19,Gold
+C01749,Isaiah Bhatti,West Bengal,Bathinda,2,303027.72,151513.86,2023-02-01,2024-02-29,Gold
+C00617,Krishna Virk,Odisha,Pali,3,302746.74,100915.58,2022-01-17,2023-04-02,Gold
+C00021,Aradhana Hayre,Gujarat,Haridwar,3,302499.2,100833.07,2022-07-12,2023-09-18,Gold
+C00244,Quincy Krishna,West Bengal,Warangal,3,302378.28,100792.76,2023-09-07,2024-12-08,Gold
+C01867,Jagrati Andra,Telangana,Hyderabad,5,300244.15,60048.83,2022-08-12,2024-09-07,Gold
+C00064,Aarnav Dhar,West Bengal,Surendranagar Dudhrej,3,300096.22,100032.07,2022-11-10,2024-10-01,Gold
+C00132,Krish Jayaraman,West Bengal,Bongaigaon,4,300011.79,75002.95,2023-03-01,2024-12-09,Gold
+C00641,Aarnav Sunder,Tamil Nadu,Chapra,2,299740.32,149870.16,2022-01-06,2023-02-06,Gold
+C00188,Guneet Behl,Odisha,Ajmer,4,299551.93,74887.98,2022-03-22,2022-11-08,Gold
+C01873,Ekaja Tella,Delhi,Srikakulam,5,299465.41,59893.08,2022-05-12,2024-11-30,Gold
+C00396,Pranit Shenoy,Madhya Pradesh,Pali,4,299172.92,74793.23,2022-09-01,2024-05-10,Gold
+C01980,Aryan Bhatnagar,Haryana,Motihari,2,298810.84,149405.42,2022-12-13,2024-11-21,Gold
+C01288,Nicholas Pillai,Gujarat,Ludhiana,2,298298.83,149149.42,2022-05-17,2023-07-13,Gold
+C01662,Isaac Aggarwal,Madhya Pradesh,Rajpur Sonarpur,2,298000.48,149000.24,2023-04-04,2024-08-02,Gold
+C01902,Qushi Tella,Delhi,Nizamabad,4,297939.34,74484.83,2022-04-16,2023-09-11,Gold
+C01745,Tanmayi Tata,Delhi,Dhanbad,4,297137.98,74284.49,2022-08-29,2024-09-20,Gold
+C00238,Tanmayi Bajaj,West Bengal,Durg,3,296971.93,98990.64,2022-02-23,2024-02-03,Gold
+C01260,Gayathri Puri,Tamil Nadu,Morbi,3,296836.22,98945.41,2022-10-01,2024-05-09,Gold
+C01541,Harsh Bal,Telangana,Bhimavaram,2,296778.57,148389.29,2022-02-09,2023-04-18,Gold
+C00768,Hemal Ganguly,West Bengal,Berhampore,2,296634.94,148317.47,2022-01-26,2023-08-29,Gold
+C01139,Bhavani Pillai,Gujarat,Karnal,3,296079.59,98693.2,2022-10-08,2024-06-13,Gold
+C01105,Leela Sarna,Karnataka,Hubli–Dharwad,4,295086.48,73771.62,2022-06-23,2024-02-01,Gold
+C01112,Peter Majumdar,Karnataka,Nashik,3,294901.81,98300.6,2022-11-30,2024-02-03,Gold
+C01209,Lipika Narain,West Bengal,Vellore,2,294759.54,147379.77,2023-04-01,2024-11-04,Gold
+C01114,Chaitanya Acharya,Telangana,Gudivada,3,294287.88,98095.96,2023-04-19,2024-03-31,Gold
+C00859,Qushi Lall,Kerala,Chennai,2,294110.0,147055.0,2022-05-23,2024-12-28,Gold
+C01849,Jairaj Barad,Pune,North Dumdum,2,294021.61,147010.8,2023-06-17,2024-10-24,Gold
+C01891,Baljiwan Prashad,Karnataka,Gandhinagar,3,293902.0,97967.33,2023-01-18,2024-04-20,Gold
+C01996,Ishita Comar,Kerala,Sirsa,2,293674.1,146837.05,2022-08-19,2024-01-30,Gold
+C01893,Ishwar Gandhi,Odisha,Vijayanagaram,3,293475.65,97825.22,2022-03-11,2024-08-02,Gold
+C01753,Omya Dhar,Bihar,Bhilai,4,293006.86,73251.71,2022-08-14,2024-11-13,Gold
+C00058,Yashodhara Ghosh,Rajasthan,Asansol,3,292717.6,97572.53,2022-04-08,2024-10-02,Gold
+C00691,Lopa Kapoor,Uttar Pradesh,Haldia,4,292640.82,73160.21,2022-03-06,2024-12-06,Gold
+C00124,Chakradhar Datta,Kerala,Nadiad,5,292380.56,58476.11,2022-04-10,2024-11-05,Gold
+C00352,Girindra Tata,West Bengal,Hyderabad,2,292305.83,146152.91,2022-07-11,2023-11-25,Gold
+C01035,Patrick Sandhu,Rajasthan,Sri Ganganagar,5,292193.4,58438.68,2022-04-02,2024-05-16,Gold
+C00356,Charita Dyal,Delhi,Morbi,3,291743.56,97247.85,2022-05-03,2024-11-11,Gold
+C01093,Yashasvi Apte,Rajasthan,Secunderabad,3,291594.97,97198.32,2022-04-12,2024-02-06,Gold
+C00286,Ojasvi Walla,Telangana,Mysore,3,291334.62,97111.54,2023-05-21,2024-01-21,Gold
+C00619,Ekaja Bir,Bihar,Nagercoil,4,290289.31,72572.33,2022-08-14,2023-10-15,Gold
+C00907,Manya Yohannan,Kerala,Proddatur,3,289853.7,96617.9,2022-05-06,2024-08-22,Gold
+C00934,Brijesh Samra,Kerala,Secunderabad,2,288419.65,144209.83,2022-08-25,2024-12-02,Gold
+C00528,Balhaar Nori,Pune,Kozhikode,2,288070.73,144035.36,2023-07-20,2024-02-08,Gold
+C00831,Yashodhara Jha,Karnataka,Raiganj,1,287897.34,287897.34,2023-10-30,2023-10-30,Gold
+C01283,Akshay Kata,Pune,Satna,3,287072.62,95690.87,2023-05-25,2024-10-30,Gold
+C01622,Anvi Keer,Odisha,Ramagundam,3,286538.5,95512.83,2022-10-19,2024-08-12,Gold
+C01619,Praneel Vaidya,Maharashtra,Amritsar,5,285801.65,57160.33,2022-06-12,2023-12-29,Gold
+C01565,Ranveer Dhingra,Kerala,Giridih,4,285642.26,71410.57,2022-06-07,2024-10-17,Gold
+C01641,Omisha Nazareth,Pune,Sonipat,2,284179.62,142089.81,2024-10-25,2024-11-12,Gold
+C00226,Mohammed Soman,Tamil Nadu,Bhimavaram,3,284083.97,94694.66,2022-06-10,2024-12-12,Gold
+C00081,Bhavya Ram,Odisha,Bahraich,4,283844.1,70961.02,2022-07-29,2023-03-31,Gold
+C01621,Ayush Thakkar,Karnataka,Mango,3,283277.25,94425.75,2024-01-16,2024-11-03,Gold
+C01752,Champak Prakash,Haryana,Ramagundam,1,282892.78,282892.78,2024-06-26,2024-06-26,Gold
+C00168,Aradhana Narasimhan,Uttar Pradesh,Rohtak,3,282834.09,94278.03,2023-01-23,2024-07-26,Gold
+C01240,Yachana Sharaf,Telangana,Nandyal,2,282714.7,141357.35,2022-04-23,2022-06-29,Gold
+C01096,Samuel Manne,Haryana,Bellary,5,282505.4,56501.08,2022-01-06,2024-10-25,Gold
+C00172,Panini Thaman,Maharashtra,Raichur,3,282489.91,94163.3,2023-08-04,2024-11-07,Gold
+C01373,Parth Dara,Pune,Pimpri-Chinchwad,2,282325.49,141162.74,2023-06-02,2024-05-18,Gold
+C01132,Timothy Om,Madhya Pradesh,Dibrugarh,4,282209.72,70552.43,2022-05-27,2024-08-08,Gold
+C00805,Nihal Gaba,Pune,Chennai,3,282128.82,94042.94,2022-05-09,2023-02-26,Gold
+C01925,Dalaja Sinha,West Bengal,Bhagalpur,4,281839.76,70459.94,2022-12-25,2024-11-02,Gold
+C00436,Urmi Morar,Madhya Pradesh,Aizawl,3,281661.69,93887.23,2022-08-23,2024-09-20,Gold
+C00371,Ria Arya,Gujarat,Jalandhar,4,281277.2,70319.3,2022-01-17,2024-06-06,Gold
+C00049,Kevin Sur,Bihar,Phusro,5,280892.54,56178.51,2023-04-18,2023-11-13,Gold
+C00089,Wyatt Wali,Delhi,Shahjahanpur,4,280821.54,70205.38,2022-09-29,2024-07-19,Gold
+C01220,Chanakya Gara,Maharashtra,Jehanabad,3,280688.28,93562.76,2022-03-22,2024-06-14,Gold
+C00240,Widisha Goyal,Bihar,Guntur,3,280094.75,93364.92,2023-10-11,2024-11-20,Gold
+C00613,William Babu,Madhya Pradesh,Bharatpur,3,280031.8,93343.93,2022-05-26,2023-07-24,Gold
+C00953,Azaan Parsa,Telangana,Yamunanagar,2,279729.26,139864.63,2022-01-25,2024-03-20,Gold
+C01282,Tristan Sawhney,Uttar Pradesh,Ajmer,3,279639.6,93213.2,2023-01-20,2023-10-04,Gold
+C00950,Kavya Mohan,Delhi,Sultan Pur Majra,3,279520.71,93173.57,2022-05-05,2023-11-08,Gold
+C01252,Onveer Padmanabhan,Rajasthan,Chandrapur,1,279219.5,279219.5,2024-02-02,2024-02-02,Gold
+C01584,Samuel Murty,Delhi,Nellore,3,278662.58,92887.53,2023-02-27,2024-10-01,Gold
+C00926,Arin Tak,Gujarat,Ichalkaranji,4,278521.88,69630.47,2022-12-30,2024-11-20,Gold
+C00769,Forum Wadhwa,Tamil Nadu,Bihar Sharif,2,278451.41,139225.7,2022-07-02,2024-09-26,Gold
+C01367,Vamakshi Seth,Telangana,Ratlam,4,278368.31,69592.08,2022-03-13,2024-12-27,Gold
+C01775,Ojas Palla,Pune,Tadipatri,4,277677.6,69419.4,2023-07-16,2024-07-11,Gold
+C00353,Yatan Saxena,Tamil Nadu,Khandwa,7,277433.69,39633.38,2022-07-10,2024-11-16,Gold
+C01807,Mugdha Aggarwal,Maharashtra,Meerut,2,276929.25,138464.63,2022-04-15,2022-05-10,Gold
+C01426,Divya Menon,West Bengal,South Dumdum,4,276733.33,69183.33,2022-02-25,2024-08-24,Gold
+C01298,Eshana Mander,Odisha,Imphal,4,275968.76,68992.19,2022-03-10,2024-04-16,Gold
+C00960,Veer Mutti,Odisha,Kozhikode,5,275884.32,55176.86,2022-02-28,2024-08-10,Gold
+C00098,Rachita Deshmukh,Delhi,Arrah,2,274577.83,137288.91,2022-06-06,2024-12-21,Gold
+C00518,Jyoti Ghosh,Rajasthan,Aizawl,4,273885.7,68471.43,2022-07-31,2024-04-30,Gold
+C01567,Chakradhar Karnik,Karnataka,Aurangabad,7,273678.46,39096.92,2022-05-03,2024-12-25,Gold
+C01914,Onveer Ramanathan,Maharashtra,Hajipur,3,273389.17,91129.72,2022-06-02,2024-05-08,Gold
+C00940,Shivansh Mital,Gujarat,Jammu,4,272950.2,68237.55,2022-08-29,2024-10-22,Gold
+C01126,Shaurya Raman,Pune,Tiruvottiyur,4,272322.36,68080.59,2022-03-03,2024-07-21,Gold
+C00696,Laban Garg,Bihar,Muzaffarpur,4,272212.64,68053.16,2022-09-21,2023-04-01,Gold
+C00249,Gayathri Guha,Haryana,Hapur,2,271973.49,135986.74,2022-11-07,2023-03-17,Gold
+C00679,Rishi Sanghvi,Madhya Pradesh,Gandhinagar,3,271879.4,90626.47,2024-08-28,2024-09-08,Gold
+C01410,Rajata Goel,Rajasthan,Coimbatore,2,271449.58,135724.79,2022-10-06,2023-02-10,Gold
+C01826,Pranit Sodhi,Rajasthan,Ahmedabad,3,271069.32,90356.44,2023-03-12,2024-10-22,Gold
+C00271,Brinda Shetty,Rajasthan,Bareilly,4,271015.23,67753.81,2022-09-22,2024-09-06,Gold
+C01781,Lakshit Krishnan,Telangana,Berhampore,3,270080.24,90026.75,2022-06-07,2024-12-09,Gold
+C01501,Victor Deol,Telangana,Ghaziabad,4,270030.59,67507.65,2022-02-13,2024-04-08,Gold
+C01949,Divya Shenoy,Madhya Pradesh,Patiala,2,269237.87,134618.93,2022-03-14,2023-10-25,Gold
+C00236,Anika Nanda,Maharashtra,Orai,2,268842.29,134421.14,2022-08-11,2024-01-28,Gold
+C01997,Jeet Mukhopadhyay,West Bengal,Solapur,6,268522.89,44753.82,2022-01-03,2024-12-27,Gold
+C01614,Nachiket Walla,Madhya Pradesh,Ludhiana,6,267441.82,44573.64,2022-10-14,2024-05-24,Gold
+C01519,Ekiya Singh,Haryana,Eluru,5,266766.89,53353.38,2022-09-26,2023-09-04,Gold
+C01776,Omya Gara,Kerala,New Delhi,3,266712.93,88904.31,2022-01-11,2024-02-13,Gold
+C01904,Rushil Baral,Kerala,Solapur,3,266639.44,88879.81,2022-03-11,2024-06-16,Gold
+C01339,Jyoti Deshpande,Maharashtra,Bhagalpur,1,266000.5,266000.5,2022-04-11,2022-04-11,Gold
+C01961,Watika Parsa,Uttar Pradesh,Jammu,3,265497.85,88499.28,2022-04-15,2024-07-13,Gold
+C01928,Ishanvi Gade,Delhi,Medininagar,4,265369.03,66342.26,2022-02-09,2024-07-31,Gold
+C01757,Dhriti Raghavan,Madhya Pradesh,Ulhasnagar,5,265047.93,53009.59,2022-04-23,2024-02-24,Gold
+C00001,Yasti Dewan,Rajasthan,Bihar Sharif,4,265026.22,66256.55,2022-12-05,2024-08-12,Gold
+C01355,Jasmit Tak,Uttar Pradesh,Visakhapatnam,2,265015.4,132507.7,2023-02-25,2024-03-02,Gold
+C01259,Vamakshi Mitra,Telangana,Kurnool,2,264896.47,132448.24,2022-04-27,2024-12-18,Gold
+C01070,Gopal Sood,Madhya Pradesh,New Delhi,2,264820.96,132410.48,2022-02-15,2024-09-17,Gold
+C00531,Amara Raj,Madhya Pradesh,Meerut,3,263913.52,87971.17,2022-09-27,2023-02-25,Gold
+C01004,Abhiram Sagar,Madhya Pradesh,Thiruvananthapuram,3,263736.08,87912.03,2023-06-30,2023-10-28,Gold
+C00649,Zarna Dhawan,Telangana,Silchar,4,263684.46,65921.12,2023-01-27,2023-12-04,Gold
+C00363,Nidra Sathe,Rajasthan,Tenali,2,263664.81,131832.4,2022-05-03,2023-03-07,Gold
+C00519,Quincy Narain,Odisha,Saharsa,2,263546.89,131773.45,2022-03-03,2024-12-02,Gold
+C00787,Nidra Date,Rajasthan,South Dumdum,3,263021.4,87673.8,2022-07-16,2024-05-29,Gold
+C01827,Chandresh Dara,Odisha,Miryalaguda,3,263019.17,87673.06,2022-09-10,2024-05-22,Gold
+C00867,Omisha Ramaswamy,Maharashtra,Morena,4,262710.47,65677.62,2022-03-08,2024-05-14,Gold
+C01417,Balhaar Ratta,Madhya Pradesh,Raipur,3,262109.19,87369.73,2023-01-20,2023-09-26,Gold
+C01382,Anmol Srinivas,Uttar Pradesh,Siliguri,1,261984.02,261984.02,2024-11-04,2024-11-04,Gold
+C00724,Dipta Pingle,Maharashtra,Jamshedpur,3,261767.69,87255.9,2022-02-14,2024-07-25,Gold
+C00786,Zansi Ratta,Karnataka,Solapur,4,261362.53,65340.63,2023-05-06,2024-10-01,Gold
+C00406,Amara Karan,Uttar Pradesh,Rajkot,4,261356.88,65339.22,2023-08-11,2024-10-15,Gold
+C00817,Gautam Shroff,Madhya Pradesh,Bidar,2,260535.29,130267.65,2022-02-23,2024-11-14,Gold
+C01214,Xavier Swaminathan,Odisha,Shahjahanpur,3,260453.46,86817.82,2022-07-30,2024-06-03,Gold
+C00287,Saksham Karan,Maharashtra,Jalgaon,4,260410.69,65102.67,2023-03-17,2024-05-11,Gold
+C00562,Niharika Yadav,Tamil Nadu,Danapur,3,260283.09,86761.03,2023-12-20,2024-12-12,Gold
+C01684,Rehaan Chandran,Gujarat,Durg,2,260179.32,130089.66,2023-08-24,2024-02-08,Gold
+C01405,Nirja Dey,Rajasthan,Sambalpur,2,260175.12,130087.56,2022-05-11,2022-07-07,Gold
+C00956,Kai Chada,Maharashtra,Chandrapur,5,259921.27,51984.25,2022-06-11,2024-01-05,Gold
+C00559,Xalak Baria,Karnataka,North Dumdum,3,259328.1,86442.7,2022-09-19,2023-07-18,Gold
+C00481,Chaman Garde,Gujarat,Tirunelveli,2,259184.73,129592.36,2023-04-02,2023-06-28,Gold
+C00250,Dominic Seth,West Bengal,Bareilly,3,258797.76,86265.92,2023-03-24,2023-05-30,Gold
+C00267,David Sodhi,Pune,Nagpur,4,258515.58,64628.9,2022-05-01,2024-05-20,Gold
+C01185,Rajata Bakshi,Karnataka,Dibrugarh,3,257683.82,85894.61,2022-01-31,2023-06-11,Gold
+C00788,Girindra Kumar,Madhya Pradesh,Solapur,4,257185.44,64296.36,2022-09-22,2024-06-25,Gold
+C01864,Faqid Johal,Karnataka,Delhi,5,256862.9,51372.58,2022-04-17,2024-07-08,Gold
+C00176,Adweta Nayar,Bihar,Guwahati,3,256501.3,85500.43,2023-04-20,2024-02-02,Gold
+C01771,Nachiket Borah,Maharashtra,Barasat,3,256279.13,85426.38,2022-09-10,2024-09-25,Gold
+C01191,Nitara Dar,Kerala,Kulti,3,255957.93,85319.31,2023-07-07,2024-04-19,Gold
+C00790,Amara Modi,Haryana,Mumbai,3,255755.53,85251.84,2022-05-27,2024-04-01,Gold
+C00306,Nihal Bali,Telangana,Cuttack,3,255586.01,85195.34,2022-01-24,2023-07-17,Gold
+C01863,Aachal Swamy,Rajasthan,Gudivada,3,255557.5,85185.83,2022-06-06,2024-05-09,Gold
+C00457,Ati Panchal,Telangana,Phusro,4,254827.93,63706.98,2024-07-07,2024-11-12,Gold
+C01352,Indira Som,Karnataka,Hindupur,3,253853.68,84617.89,2022-12-10,2024-03-06,Gold
+C01972,Veer Malhotra,Kerala,Bijapur,2,253773.65,126886.82,2023-12-05,2024-11-27,Gold
+C01251,Irya Agrawal,Uttar Pradesh,Jamnagar,1,253388.23,253388.23,2024-09-30,2024-09-30,Gold
+C01432,Nilima Golla,Maharashtra,Anand,3,253299.52,84433.17,2022-05-13,2024-11-10,Gold
+C00466,Harrison Peri,Rajasthan,Bhatpara,3,253275.93,84425.31,2022-03-05,2024-11-21,Gold
+C00434,Shivansh Puri,Telangana,Jalandhar,4,253272.6,63318.15,2022-09-05,2023-04-11,Gold
+C00083,Krish Sethi,Bihar,Nangloi Jat,6,252219.06,42036.51,2022-05-11,2023-12-01,Gold
+C00638,Sara Sur,Telangana,Mirzapur,1,252119.76,252119.76,2023-09-09,2023-09-09,Gold
+C00489,Ikshita Toor,Maharashtra,Bhilai,2,251888.48,125944.24,2022-03-25,2023-04-01,Gold
+C00117,Advaith Mahajan,Delhi,Panvel,3,251218.05,83739.35,2023-09-01,2024-10-21,Gold
+C00670,Qadim Bir,Kerala,Munger,4,251081.9,62770.47,2022-09-08,2024-08-14,Gold
+C01246,Meghana Deo,Haryana,Mumbai,3,250714.75,83571.58,2023-02-09,2023-12-11,Gold
+C01154,Bishakha Kuruvilla,Tamil Nadu,Panipat,3,250637.96,83545.99,2022-02-09,2024-06-01,Gold
+C01735,Alexander Chhabra,Haryana,Vijayawada,4,250309.98,62577.5,2022-07-28,2024-03-27,Gold
+C00749,Max Nadkarni,Tamil Nadu,Begusarai,4,249632.4,62408.1,2022-05-06,2024-04-22,Gold
+C00606,Upasna Gupta,Karnataka,Suryapet,3,249429.96,83143.32,2024-01-22,2024-11-28,Gold
+C01421,Shivani Sangha,Rajasthan,Ghaziabad,3,249311.49,83103.83,2022-01-23,2024-11-01,Gold
+C01817,Vyanjana Bansal,Haryana,Jamshedpur,2,248980.56,124490.28,2022-03-21,2024-01-18,Gold
+C01449,Kala Muni,Uttar Pradesh,Panchkula,5,248521.77,49704.35,2022-03-13,2024-06-21,Gold
+C01414,Yagnesh Dutta,Tamil Nadu,Ramagundam,5,248369.11,49673.82,2023-01-21,2024-10-03,Gold
+C00423,Samarth Keer,Gujarat,Tumkur,2,248069.12,124034.56,2022-08-29,2022-11-11,Gold
+C01403,Jasmit Babu,Uttar Pradesh,Sirsa,3,247907.99,82636.0,2023-12-26,2024-11-17,Gold
+C00673,Max Chaudhuri,Maharashtra,Aurangabad,2,247888.87,123944.43,2022-01-01,2023-08-07,Gold
+C00258,Ranbir Batra,Odisha,Deoghar,3,247566.48,82522.16,2022-05-05,2024-11-20,Gold
+C01812,Vamakshi Sama,Pune,Shimla,3,247472.64,82490.88,2022-10-16,2024-09-11,Gold
+C01783,Girish Prashad,West Bengal,Noida,3,247253.89,82417.96,2022-08-23,2023-03-19,Gold
+C01663,Raagini Lalla,Uttar Pradesh,Thane,4,247031.8,61757.95,2022-08-28,2024-06-07,Gold
+C00898,Balvan Batta,Gujarat,Shimla,3,246832.67,82277.56,2022-01-05,2023-03-20,Gold
+C00391,Aahana Issac,Bihar,Pune,6,246639.58,41106.6,2022-02-08,2024-08-01,Gold
+C00864,Chaitanya Rana,Maharashtra,Hajipur,4,246249.16,61562.29,2022-02-02,2023-10-03,Gold
+C01226,Jack Palan,Gujarat,Thanjavur,6,245928.06,40988.01,2022-04-03,2024-12-19,Gold
+C00069,Teerth Gill,West Bengal,Guntur,3,245538.3,81846.1,2022-12-28,2024-06-21,Gold
+C00513,Amruta Seshadri,Uttar Pradesh,Belgaum,4,245276.44,61319.11,2023-01-01,2024-09-10,Gold
+C01593,Charvi Kalla,Gujarat,Fatehpur,2,244951.79,122475.9,2023-06-24,2024-08-28,Gold
+C01436,Sanya Borah,Delhi,Hubli–Dharwad,5,244941.86,48988.37,2023-01-20,2024-07-27,Gold
+C01516,Advaith Shere,Uttar Pradesh,Mumbai,4,244300.18,61075.04,2022-03-19,2024-06-03,Gold
+C00348,Eta Seshadri,Karnataka,Anantapur,1,244199.17,244199.17,2024-12-26,2024-12-26,Gold
+C00054,Riya Ghose,West Bengal,Morena,4,244195.7,61048.93,2022-02-21,2024-12-08,Gold
+C00402,Onveer Ravel,Bihar,Tiruppur,5,244016.38,48803.28,2022-06-21,2024-09-06,Gold
+C00996,Samuel Brahmbhatt,Maharashtra,Imphal,4,243687.92,60921.98,2023-04-18,2024-10-03,Gold
+C01457,Suhani Buch,Odisha,Dindigul,4,243223.27,60805.82,2024-02-16,2024-12-13,Gold
+C00344,Kashish Srivastava,Rajasthan,Kozhikode,2,242616.89,121308.45,2023-07-31,2024-09-17,Gold
+C00424,Bhavika Vora,Uttar Pradesh,Rajkot,2,242046.85,121023.42,2022-12-07,2024-02-29,Gold
+C00716,Suhani Bhatnagar,Telangana,Pune,4,241387.35,60346.84,2022-08-31,2024-01-27,Gold
+C00517,Vrishti Shere,Karnataka,Anantapuram,3,241282.88,80427.63,2022-07-28,2024-05-16,Gold
+C01766,Chaitaly Sundaram,Pune,Narasaraopet,3,240777.5,80259.17,2022-01-25,2023-09-23,Gold
+C00782,Sathvik Loke,Bihar,Bhubaneswar,3,240695.27,80231.76,2022-07-31,2023-07-31,Gold
+C00645,Vasatika Agrawal,Karnataka,Bahraich,3,240147.58,80049.19,2023-07-09,2024-10-11,Gold
+C01554,Mahika Sahni,Haryana,Berhampur,3,239927.85,79975.95,2023-08-29,2024-04-19,Gold
+C01920,Samesh Mukhopadhyay,Rajasthan,Tumkur,4,239583.38,59895.84,2022-04-27,2023-05-13,Gold
+C00134,Farhan Bajwa,West Bengal,Saharanpur,2,239545.15,119772.58,2024-07-06,2024-12-20,Gold
+C01861,Owen Uppal,Pune,Sangli-Miraj & Kupwad,5,239498.7,47899.74,2022-05-21,2024-08-11,Gold
+C00713,Naksh Varma,West Bengal,Hospet,3,239404.25,79801.42,2022-04-25,2023-11-24,Gold
+C00288,Imaran Chana,Maharashtra,Kolkata,5,239235.56,47847.11,2022-08-08,2024-04-14,Gold
+C00664,Jacob Luthra,Maharashtra,Pallavaram,3,238836.57,79612.19,2023-01-27,2023-12-28,Gold
+C01851,Gagan Kibe,Telangana,Mehsana,3,238691.26,79563.75,2022-01-08,2023-03-02,Gold
+C01375,Keya Gaba,Tamil Nadu,Surat,3,238509.68,79503.23,2024-02-23,2024-08-24,Gold
+C01028,Onkar Batta,Bihar,Kirari Suleman Nagar,3,238502.72,79500.91,2022-01-30,2024-09-20,Gold
+C00373,Dev Sachdeva,Maharashtra,Katihar,2,238246.89,119123.45,2023-03-29,2024-09-14,Gold
+C01523,Rushil Pandey,Telangana,Tumkur,2,238223.11,119111.55,2022-12-03,2023-10-08,Gold
+C00862,Bhavna Varma,Odisha,Buxar,2,237604.86,118802.43,2022-04-05,2023-04-28,Gold
+C00047,Hemang Raman,Bihar,Berhampur,3,237419.36,79139.79,2022-05-07,2023-06-30,Gold
+C00136,Vinaya Dalal,Maharashtra,Tiruvottiyur,3,237064.92,79021.64,2022-05-17,2024-12-16,Gold
+C00760,Daksh Iyengar,Tamil Nadu,Bidar,2,236864.16,118432.08,2022-06-27,2024-05-22,Gold
+C01908,Turvi Srinivas,West Bengal,Varanasi,5,235694.38,47138.88,2022-05-09,2024-04-11,Gold
+C01066,Darika Divan,Pune,Noida,3,235330.91,78443.64,2022-05-28,2023-12-27,Gold
+C01889,Chaman Sridhar,Bihar,Howrah,2,234915.93,117457.96,2024-05-30,2024-08-29,Gold
+C01769,Ayush Grewal,Gujarat,Bally,3,234856.76,78285.59,2022-01-05,2024-10-22,Gold
+C00576,Manan Bassi,Pune,Ambala,3,234241.14,78080.38,2022-02-01,2024-03-08,Gold
+C00390,Tara Bhatia,Delhi,Morbi,2,234155.72,117077.86,2022-10-01,2023-12-29,Gold
+C01795,Qushi Natarajan,Madhya Pradesh,Motihari,3,233543.34,77847.78,2022-11-04,2024-04-24,Gold
+C01559,Sachi Mand,Haryana,Srikakulam,4,233323.38,58330.85,2022-08-13,2023-04-25,Gold
+C00678,Urvi Dugal,Madhya Pradesh,Sangli-Miraj & Kupwad,3,233172.04,77724.01,2022-02-17,2023-01-11,Gold
+C00449,Reyansh Ravel,Karnataka,Bokaro,3,232977.83,77659.28,2022-02-15,2024-02-15,Gold
+C00429,Gautam Varkey,Bihar,Bharatpur,2,232969.56,116484.78,2022-11-21,2023-10-27,Gold
+C01431,Yash Raja,Rajasthan,Raiganj,4,232955.64,58238.91,2023-03-15,2024-03-27,Gold
+C01311,Jyoti Kapur,Maharashtra,Khammam,1,232865.48,232865.48,2023-09-25,2023-09-25,Gold
+C00609,Kiaan Vohra,Karnataka,Howrah,5,232696.72,46539.34,2022-02-04,2024-11-29,Gold
+C01507,Xiti Maharaj,Maharashtra,Muzaffarnagar,1,231410.26,231410.26,2024-01-01,2024-01-01,Gold
+C01012,Banjeet Bedi,Odisha,Thanjavur,5,231151.01,46230.2,2022-02-15,2024-05-11,Gold
+C01087,Chatura Varma,Haryana,Gangtok,3,231146.51,77048.84,2022-02-12,2023-04-19,Gold
+C01948,Girindra Gill,Kerala,Varanasi,5,230944.32,46188.86,2022-05-02,2024-06-17,Gold
+C01592,Zayan Tandon,Tamil Nadu,Rampur,2,230278.9,115139.45,2022-05-02,2024-03-02,Gold
+C01605,Baljiwan Ram,Karnataka,Jammu,3,230227.84,76742.61,2022-01-15,2024-04-12,Gold
+C01587,Dhriti Khalsa,Rajasthan,Asansol,3,230134.07,76711.36,2022-05-03,2024-08-30,Gold
+C00418,Manan Bhalla,Bihar,Panvel,2,229934.95,114967.48,2022-04-25,2023-05-21,Gold
+C00464,Laksh Sankar,Madhya Pradesh,Hyderabad,2,229899.24,114949.62,2022-03-07,2024-05-22,Gold
+C01444,Chameli Vyas,Madhya Pradesh,Pallavaram,2,229852.42,114926.21,2022-08-10,2024-11-17,Gold
+C01276,Viraj Bhargava,Karnataka,Aurangabad,2,229626.48,114813.24,2022-08-19,2024-08-06,Gold
+C01424,Qadim Sule,Madhya Pradesh,Jamshedpur,3,229462.86,76487.62,2022-12-10,2024-03-22,Gold
+C00015,Aayush Sura,Uttar Pradesh,Baranagar,4,229414.29,57353.57,2022-02-14,2024-02-23,Gold
+C00319,Viraj Mander,Karnataka,Haridwar,3,229259.27,76419.76,2022-08-09,2024-10-21,Gold
+C00899,Gaurav Mishra,Karnataka,Bidar,3,229036.88,76345.63,2022-04-28,2024-11-20,Gold
+C01107,Turvi Ganguly,Madhya Pradesh,Ongole,3,228796.71,76265.57,2022-05-15,2023-08-28,Gold
+C00537,Tanvi Sharma,Tamil Nadu,Kirari Suleman Nagar,3,228763.11,76254.37,2022-01-19,2024-10-05,Gold
+C00780,Balendra Kannan,Pune,Loni,2,228592.2,114296.1,2023-04-22,2024-05-14,Gold
+C00902,Kashvi Kari,Haryana,Hazaribagh,2,228528.4,114264.2,2023-03-18,2024-02-05,Gold
+C00580,Wazir Dada,Bihar,Vasai-Virar,4,228466.91,57116.73,2022-03-27,2024-03-25,Gold
+C01101,Tarak Gopal,Tamil Nadu,Madurai,2,228389.68,114194.84,2022-04-18,2023-07-21,Gold
+C01912,Ekani Nagi,Pune,Solapur,1,228003.1,228003.1,2022-12-29,2022-12-29,Gold
+C00036,Falan Basak,Kerala,Thiruvananthapuram,2,227968.09,113984.04,2023-04-19,2024-08-28,Gold
+C01057,Wazir Basak,Tamil Nadu,Udupi,5,227810.38,45562.08,2022-02-19,2024-01-25,Gold
+C00379,Jonathan Goda,Tamil Nadu,Ozhukarai,2,227351.39,113675.7,2022-04-03,2023-08-11,Gold
+C01153,Charita Lal,Madhya Pradesh,Ahmednagar,4,227074.45,56768.61,2023-06-23,2024-10-03,Gold
+C00863,Upkaar Nair,Kerala,Barasat,4,226992.73,56748.18,2022-12-21,2024-08-09,Gold
+C01189,Yachana Venkatesh,Rajasthan,Burhanpur,3,226915.08,75638.36,2023-02-12,2024-02-28,Gold
+C00480,Pallavi Sen,Odisha,Fatehpur,2,226093.73,113046.86,2024-05-18,2024-11-10,Gold
+C01923,Mason Shan,Telangana,Bhopal,3,225745.95,75248.65,2022-07-23,2023-11-18,Gold
+C00994,Girish Dhillon,Pune,Karnal,2,225064.36,112532.18,2023-01-12,2024-05-12,Gold
+C01316,Lila Pal,Telangana,Mysore,4,224704.26,56176.06,2022-08-26,2023-12-28,Gold
+C01305,Odika Sunder,Haryana,North Dumdum,2,224634.42,112317.21,2022-07-31,2022-08-30,Gold
+C01675,Diya Goswami,Karnataka,Panvel,4,224381.48,56095.37,2023-05-28,2024-12-21,Gold
+C01938,Ranbir Borde,Delhi,Barasat,2,224146.16,112073.08,2022-04-16,2023-09-13,Gold
+C01843,Hemal Dyal,Bihar,Coimbatore,3,223741.97,74580.66,2022-09-02,2024-10-16,Gold
+C00548,Pahal Tak,Kerala,Morbi,2,223581.59,111790.8,2022-10-10,2023-12-14,Gold
+C01025,Warhi Parmar,Gujarat,Maheshtala,2,223271.21,111635.6,2022-12-16,2023-11-10,Gold
+C00104,Wyatt Sathe,Tamil Nadu,Guna,5,222637.97,44527.59,2022-03-01,2024-03-30,Gold
+C01875,Sanaya Radhakrishnan,Karnataka,Firozabad,4,222557.59,55639.4,2022-07-02,2023-10-13,Gold
+C01915,Kashish Verma,Rajasthan,Amroha,4,222426.25,55606.56,2022-09-28,2024-08-10,Gold
+C01660,Leela Memon,Haryana,Hyderabad,3,222368.35,74122.78,2023-06-09,2024-01-15,Gold
+C00524,Bakhshi Shetty,Odisha,Ambattur,4,222142.67,55535.67,2022-12-16,2024-12-11,Gold
+C01388,Matthew Sekhon,Gujarat,Bharatpur,7,221927.28,31703.9,2022-01-23,2024-08-24,Gold
+C00477,Diya Tank,Bihar,Mango,3,221625.94,73875.31,2022-03-04,2024-05-26,Gold
+C00677,Lila Mohanty,Kerala,Bellary,2,221471.43,110735.71,2022-01-04,2023-12-22,Gold
+C00554,Krisha Atwal,Gujarat,Ahmedabad,3,221308.66,73769.55,2022-05-23,2024-04-25,Gold
+C01195,Onveer Iyengar,Maharashtra,Dhule,3,220569.51,73523.17,2022-11-04,2023-10-20,Gold
+C01645,Pallavi Kaur,Kerala,Panipat,4,220322.3,55080.57,2022-01-28,2023-09-08,Gold
+C00629,Udant Chada,Tamil Nadu,Salem,3,220025.48,73341.83,2023-04-16,2024-12-21,Gold
+C01250,Shivansh Trivedi,Odisha,Kamarhati,4,219994.42,54998.61,2022-02-16,2024-07-08,Gold
+C01349,Unnati Karan,West Bengal,Katni,3,219419.5,73139.83,2022-10-03,2024-06-13,Gold
+C01324,Chaaya Soman,Tamil Nadu,Shahjahanpur,3,219314.13,73104.71,2023-04-18,2024-09-26,Gold
+C00785,Kevin Deep,Telangana,Chandigarh,3,218413.7,72804.57,2022-02-05,2024-12-29,Gold
+C01395,Ranveer Ganesan,Maharashtra,Sonipat,3,218111.35,72703.78,2022-09-20,2024-06-18,Gold
+C01909,Priya Kant,Madhya Pradesh,Pune,2,217820.27,108910.13,2023-11-19,2024-06-03,Gold
+C01556,Eesha Lad,Delhi,Vijayawada,3,217774.71,72591.57,2023-12-10,2024-10-16,Gold
+C00043,Netra Bail,Kerala,Jamnagar,4,217006.12,54251.53,2023-05-15,2024-09-25,Gold
+C00762,Rachit Malhotra,Pune,Bhimavaram,3,216974.5,72324.83,2023-10-23,2024-11-10,Gold
+C00174,Jyoti Jani,Telangana,Davanagere,2,216915.48,108457.74,2023-03-10,2024-02-18,Gold
+C00874,Ronith Bedi,Madhya Pradesh,Amroha,4,215767.47,53941.87,2022-11-08,2024-03-18,Gold
+C00495,Nakul Sachar,Rajasthan,Pali,1,215688.28,215688.28,2022-01-11,2022-01-11,Gold
+C01667,Ishwar Oza,Telangana,Vasai-Virar,2,214780.98,107390.49,2023-11-14,2024-12-16,Gold
+C01386,Sara Ranganathan,Karnataka,Kumbakonam,3,214445.44,71481.81,2023-03-07,2023-05-26,Gold
+C01811,Advaith Anne,Karnataka,Durgapur,4,214397.89,53599.47,2023-06-08,2024-10-29,Gold
+C00243,Girindra Patil,Madhya Pradesh,Salem,3,213743.95,71247.98,2022-12-02,2024-08-10,Gold
+C01404,Upkaar Bhasin,Karnataka,Bidhannagar,4,213431.75,53357.94,2022-04-01,2024-03-27,Gold
+C01703,Yachana Raj,Delhi,New Delhi,4,213197.27,53299.32,2023-04-21,2024-03-10,Gold
+C00149,Hemangini Kaur,Telangana,Shahjahanpur,3,213121.44,71040.48,2023-06-11,2024-09-24,Gold
+C00289,Warhi Khosla,Karnataka,Aizawl,2,213010.21,106505.1,2023-08-26,2023-11-24,Gold
+C00530,Advay Magar,Bihar,Naihati,3,212996.82,70998.94,2023-05-30,2024-12-08,Gold
+C01380,Jyoti Sibal,Delhi,Delhi,2,212978.38,106489.19,2022-12-14,2023-01-13,Gold
+C00386,Oni Mukherjee,West Bengal,Rajahmundry,4,212642.08,53160.52,2022-01-13,2024-10-07,Gold
+C00016,Aachal Manda,Telangana,Ajmer,2,212532.41,106266.21,2023-07-03,2024-11-30,Gold
+C01175,Farhan Pall,Odisha,Shahjahanpur,4,212460.59,53115.15,2022-07-01,2024-11-05,Gold
+C00483,Jagrati Dalal,Delhi,Jabalpur,1,212415.66,212415.66,2022-08-16,2022-08-16,Gold
+C00341,Orinder Saha,West Bengal,Vasai-Virar,2,211742.16,105871.08,2024-10-03,2024-11-23,Gold
+C01809,Jeet Dora,Telangana,Mysore,2,211656.94,105828.47,2023-04-06,2023-11-01,Gold
+C00385,Devansh Kaul,Bihar,Mira-Bhayandar,3,211369.49,70456.5,2022-11-21,2024-07-18,Gold
+C00774,Aachal Parsa,Rajasthan,Hubli–Dharwad,2,211337.46,105668.73,2023-02-27,2024-09-19,Gold
+C00800,Widisha Sachar,Gujarat,Bettiah,3,211272.4,70424.13,2023-02-06,2024-05-07,Gold
+C00709,Qarin Ghose,Tamil Nadu,Latur,2,210452.27,105226.14,2022-11-22,2024-04-13,Gold
+C00699,Pranav Thakur,West Bengal,Haridwar,4,210298.54,52574.63,2022-07-28,2024-09-18,Gold
+C00248,Shravya Shan,Uttar Pradesh,Vadodara,3,210298.31,70099.44,2022-10-24,2024-12-27,Gold
+C00979,Unni Suresh,Rajasthan,Thoothukudi,2,210136.45,105068.23,2023-04-12,2024-01-11,Gold
+C00333,Yachana Gera,Maharashtra,Aizawl,4,209666.28,52416.57,2024-03-11,2024-10-18,Gold
+C01569,Adya Badami,Uttar Pradesh,Tiruchirappalli,3,209441.34,69813.78,2022-03-15,2023-02-11,Gold
+C01951,Jagat Goyal,Karnataka,Ghaziabad,1,209186.47,209186.47,2023-03-08,2023-03-08,Gold
+C00964,Damyanti Aggarwal,Pune,Sirsa,3,209149.94,69716.65,2022-06-28,2024-07-12,Gold
+C01086,Umang Baral,Bihar,Tirunelveli,4,209088.48,52272.12,2024-03-23,2024-12-12,Gold
+C01158,Advika Mitra,Uttar Pradesh,Rajpur Sonarpur,3,208707.62,69569.21,2022-01-20,2022-10-04,Gold
+C00910,Panini Brar,Telangana,Bhind,3,208083.21,69361.07,2022-10-08,2024-09-19,Gold
+C01056,Nilima Kuruvilla,Delhi,Aurangabad,3,207891.7,69297.23,2022-06-13,2024-08-11,Gold
+C00837,Aradhana Bava,Pune,Sultan Pur Majra,2,207824.28,103912.14,2022-12-05,2023-06-07,Gold
+C00945,Triveni Kara,West Bengal,Bareilly,2,207705.3,103852.65,2022-12-12,2023-11-11,Gold
+C00177,Benjamin Varghese,Karnataka,Hosur,4,207267.69,51816.92,2022-12-17,2024-05-30,Gold
+C00404,Sai Gour,Tamil Nadu,Ramagundam,2,207022.25,103511.13,2024-03-03,2024-10-15,Gold
+C00978,Nicholas Uppal,Telangana,Solapur,3,206413.32,68804.44,2023-08-20,2024-09-21,Gold
+C00757,Atharv Srinivas,Kerala,Khammam,3,206306.57,68768.86,2024-03-11,2024-06-26,Gold
+C00334,Lavanya Sem,Uttar Pradesh,Danapur,2,206029.53,103014.76,2022-12-31,2024-09-06,Gold
+C00438,Arjun Ramanathan,Tamil Nadu,Kolhapur,2,206013.21,103006.6,2022-09-29,2023-06-18,Gold
+C00935,Yagnesh Shetty,Madhya Pradesh,Guntur,6,205993.6,34332.27,2022-06-12,2024-10-21,Gold
+C01187,Chameli Borde,Odisha,Maheshtala,1,205682.7,205682.7,2022-06-10,2022-06-10,Gold
+C00941,Zinal Sastry,Delhi,Sambalpur,1,205543.33,205543.33,2024-02-25,2024-02-25,Gold
+C00836,Reyansh Badal,Haryana,Narasaraopet,2,205511.75,102755.88,2022-06-22,2023-05-17,Gold
+C01118,Omisha Choudhary,Madhya Pradesh,Malegaon,4,205333.46,51333.36,2022-06-03,2024-11-26,Gold
+C01522,Fiyaz Borah,Bihar,Shahjahanpur,2,205308.72,102654.36,2024-07-10,2024-11-30,Gold
+C00302,Ekansh Karnik,Maharashtra,Chennai,5,204918.61,40983.72,2023-04-03,2024-10-31,Gold
+C00415,Chatresh Dave,Rajasthan,Vijayanagaram,2,203468.72,101734.36,2022-06-08,2023-09-22,Gold
+C00431,Saumya Vora,Kerala,Deoghar,6,203032.44,33838.74,2022-03-31,2024-01-16,Gold
+C01689,Meghana Kade,Delhi,Akola,2,202464.55,101232.27,2024-02-29,2024-08-10,Gold
+C00853,Dalbir Bhavsar,Odisha,Kottayam,3,202456.69,67485.56,2022-07-23,2024-04-16,Gold
+C00301,Liam Kapur,Haryana,Raebareli,3,202431.45,67477.15,2023-03-22,2024-07-18,Gold
+C00337,Ayushman Tara,Uttar Pradesh,Panihati,4,202377.48,50594.37,2023-02-18,2024-10-18,Gold
+C00155,Nandini Bedi,Rajasthan,Mumbai,2,201982.01,100991.01,2023-07-19,2023-10-25,Gold
+C01156,Nathaniel Sastry,Odisha,Tezpur,3,201704.94,67234.98,2023-04-02,2024-04-17,Gold
+C01140,Tejas Nazareth,Odisha,Bally,3,201601.2,67200.4,2023-01-25,2023-10-19,Gold
+C01104,Yauvani Merchant,Karnataka,Ranchi,2,201118.37,100559.19,2024-04-24,2024-04-28,Gold
+C01748,Onkar Mangat,Rajasthan,Kolhapur,4,200865.82,50216.46,2022-03-12,2023-04-05,Gold
+C00324,Hemangini Hans,Karnataka,Aurangabad,3,200496.97,66832.32,2023-01-24,2024-07-03,Gold
+C00409,Karan Ray,Maharashtra,Hospet,3,200262.84,66754.28,2022-03-09,2024-11-19,Gold
+C00721,Tanmayi Ratta,Karnataka,Bhavnagar,2,200233.17,100116.59,2022-09-17,2024-04-27,Gold
+C00166,Zayyan Pant,Karnataka,Udupi,4,199927.09,49981.77,2022-01-01,2024-08-22,Silver
+C00317,Champak Patla,Gujarat,Srinagar,3,199799.16,66599.72,2022-08-16,2023-10-29,Silver
+C00855,Idika Merchant,Rajasthan,Ichalkaranji,7,199676.68,28525.24,2022-07-02,2024-12-01,Silver
+C00211,Indira Jayaraman,Haryana,Raebareli,2,199352.82,99676.41,2023-06-10,2023-07-24,Silver
+C00127,Jagdish Chandran,West Bengal,Mau,3,199225.82,66408.61,2022-05-20,2024-10-08,Silver
+C01751,Aditya Bir,Gujarat,Pudukkottai,3,199131.69,66377.23,2023-03-24,2023-12-02,Silver
+C01704,Rayaan Kota,Maharashtra,Dibrugarh,3,199076.37,66358.79,2023-05-23,2023-12-31,Silver
+C00387,Indrajit Mandal,Karnataka,Rajpur Sonarpur,1,198890.83,198890.83,2023-04-21,2023-04-21,Silver
+C01015,Bhanumati Biswas,Pune,Nellore,3,198810.44,66270.15,2022-12-07,2023-12-13,Silver
+C00620,Irya Mohan,Bihar,Howrah,3,198621.69,66207.23,2022-09-14,2023-02-22,Silver
+C01463,Oni Bal,Odisha,Dharmavaram,1,198543.97,198543.97,2024-07-17,2024-07-17,Silver
+C00821,Ganga Prabhu,Maharashtra,Tiruchirappalli,5,198199.23,39639.85,2022-07-02,2024-07-12,Silver
+C00758,Krishna Mutti,Bihar,Kanpur,3,198012.11,66004.04,2022-12-04,2023-03-24,Silver
+C00801,Nilima Uppal,Rajasthan,Surat,6,197922.22,32987.04,2022-09-23,2024-08-04,Silver
+C01173,Nitesh Vyas,Rajasthan,Baranagar,2,197879.68,98939.84,2023-01-31,2023-02-27,Silver
+C00285,Urishilla Choudhary,Rajasthan,Jammu,2,197733.12,98866.56,2022-04-06,2022-07-30,Silver
+C01917,Manbir Hans,Telangana,Ulhasnagar,3,197581.42,65860.47,2022-08-21,2024-02-04,Silver
+C01637,Pallavi Upadhyay,Rajasthan,Sambhal,4,197512.06,49378.01,2022-06-12,2024-04-15,Silver
+C00331,Owen Tiwari,Tamil Nadu,Rohtak,5,197470.95,39494.19,2022-02-02,2024-10-16,Silver
+C01026,Leela Pillai,Kerala,North Dumdum,2,197397.86,98698.93,2023-01-17,2023-10-13,Silver
+C00832,Mahika Sanghvi,Madhya Pradesh,Aligarh,2,196533.8,98266.9,2022-02-17,2022-12-07,Silver
+C00924,Udant Wali,Tamil Nadu,Hospet,2,196064.82,98032.41,2022-01-01,2022-03-09,Silver
+C01193,Chakradev Nadig,Rajasthan,Howrah,4,195944.3,48986.07,2022-01-21,2024-12-11,Silver
+C01383,Ishita Batra,Rajasthan,Bikaner,2,195831.26,97915.63,2023-08-05,2024-03-06,Silver
+C00870,Harshil Agate,Gujarat,Kakinada,2,195449.45,97724.73,2023-05-04,2023-07-27,Silver
+C00526,Tanish Rau,Karnataka,Guntur,1,195043.27,195043.27,2024-09-10,2024-09-10,Silver
+C01429,Onkar Krishna,Telangana,Ahmedabad,3,194827.19,64942.4,2023-02-08,2024-04-09,Silver
+C01453,Gagan Sampath,Madhya Pradesh,Kozhikode,3,194394.55,64798.18,2022-05-11,2024-07-15,Silver
+C00119,Tejas Balasubramanian,Telangana,Bangalore,3,194358.77,64786.26,2022-03-09,2022-03-29,Silver
+C00885,Samuel Ganesan,Karnataka,Ratlam,2,194256.28,97128.14,2023-05-23,2024-03-25,Silver
+C00052,Benjamin Sundaram,Rajasthan,Varanasi,1,194127.02,194127.02,2023-07-13,2023-07-13,Silver
+C00547,Bhavya Vora,Telangana,Anantapur,3,193956.09,64652.03,2022-02-16,2024-11-08,Silver
+C00511,Zayan Saha,Tamil Nadu,Rajkot,5,193786.7,38757.34,2022-01-17,2024-07-06,Silver
+C01791,Zehaan Iyengar,West Bengal,Madhyamgram,3,193350.56,64450.19,2022-08-23,2024-05-16,Silver
+C00712,Vaishnavi Mitter,Madhya Pradesh,Bally,3,193097.61,64365.87,2023-06-13,2024-08-25,Silver
+C01277,Diya Tella,Bihar,Bhalswa Jahangir Pur,2,192935.38,96467.69,2022-05-16,2024-05-26,Silver
+C01768,Janani Chauhan,West Bengal,Noida,4,192146.98,48036.74,2022-07-17,2024-02-29,Silver
+C01580,Tanay Shetty,Haryana,Madanapalle,3,192068.51,64022.84,2023-06-05,2024-06-16,Silver
+C00860,Xalak Saini,Bihar,Rewa,3,191842.01,63947.34,2023-06-07,2024-12-10,Silver
+C01591,Neel Pathak,Maharashtra,Fatehpur,3,191198.12,63732.71,2022-10-20,2024-10-12,Silver
+C01696,Jalsa Lala,Karnataka,Pali,3,191011.6,63670.53,2022-01-29,2023-04-06,Silver
+C01934,Chandran Narasimhan,Bihar,Agartala,4,190976.0,47744.0,2022-05-01,2023-10-03,Silver
+C00804,Ganga Sharaf,Uttar Pradesh,Meerut,3,190382.05,63460.68,2022-04-18,2024-04-16,Silver
+C00442,Geetika Dugar,Kerala,Maheshtala,4,190308.03,47577.01,2022-11-26,2024-11-17,Silver
+C00624,Falan Lad,Kerala,Ranchi,2,190093.15,95046.58,2023-03-23,2023-05-19,Silver
+C00583,Yauvani Khosla,West Bengal,Nandyal,4,189950.0,47487.5,2023-01-14,2024-06-17,Silver
+C00856,Forum Ram,Maharashtra,Bathinda,2,189554.82,94777.41,2024-01-04,2024-02-02,Silver
+C01782,Sathvik Dayal,Haryana,Jorhat,2,189329.51,94664.75,2022-03-19,2024-05-13,Silver
+C01888,Kashish Ramesh,Kerala,Kochi,3,188449.7,62816.57,2022-04-20,2024-10-01,Silver
+C01031,Nidra Prabhu,West Bengal,Solapur,3,188139.17,62713.06,2022-04-29,2023-09-19,Silver
+C01234,Champak Parmar,Gujarat,Bulandshahr,2,187230.24,93615.12,2023-11-24,2024-04-30,Silver
+C00896,Michael Kannan,Telangana,Jammu,4,187018.86,46754.71,2022-04-29,2023-09-29,Silver
+C00557,Adweta Gola,Bihar,Ozhukarai,2,186929.0,93464.5,2024-09-23,2024-10-30,Silver
+C01786,Mitali Bhakta,Haryana,Cuttack,1,186869.96,186869.96,2022-06-03,2022-06-03,Silver
+C00309,Chatresh Wali,Gujarat,Bikaner,2,186296.66,93148.33,2022-06-16,2022-11-25,Silver
+C00893,Zayyan Vasa,Odisha,Rourkela,2,186011.11,93005.55,2023-11-06,2024-10-11,Silver
+C00328,Harish Bora,Karnataka,Nagercoil,5,185835.71,37167.14,2022-09-03,2024-01-02,Silver
+C00851,Girindra Bava,Uttar Pradesh,Panchkula,5,185744.11,37148.82,2022-08-08,2024-11-22,Silver
+C01263,Bhavika Virk,Gujarat,Sambalpur,2,185548.73,92774.37,2023-10-19,2024-08-09,Silver
+C01001,Vincent Dua,Maharashtra,Bhubaneswar,4,184983.79,46245.95,2022-08-04,2024-12-23,Silver
+C00366,Kritika Walia,Karnataka,Varanasi,1,184910.72,184910.72,2024-03-23,2024-03-23,Silver
+C01810,Jonathan Kala,Tamil Nadu,Rewa,4,184894.25,46223.56,2022-05-22,2023-11-25,Silver
+C00108,Maya Bir,Uttar Pradesh,Guwahati,1,184746.33,184746.33,2022-08-06,2022-08-06,Silver
+C00767,Eta Tak,Kerala,Hapur,3,184543.7,61514.57,2022-04-24,2023-01-23,Silver
+C00843,Panini Wable,Madhya Pradesh,Buxar,3,184434.63,61478.21,2023-07-29,2024-10-13,Silver
+C00695,Yashasvi Dani,Pune,Katihar,2,184046.55,92023.28,2023-05-03,2024-10-23,Silver
+C00050,Brijesh Keer,Karnataka,Vijayawada,2,183724.58,91862.29,2022-03-30,2023-12-24,Silver
+C01716,Tanish Chopra,Tamil Nadu,North Dumdum,3,183203.16,61067.72,2022-05-14,2024-01-01,Silver
+C00858,Sneha Guha,Madhya Pradesh,Anand,2,183198.73,91599.37,2024-04-27,2024-09-18,Silver
+C00888,Hemal Ahluwalia,Delhi,Pune,4,182358.09,45589.52,2022-07-26,2023-12-23,Silver
+C01484,Zaitra Kota,Haryana,Bhilwara,6,182339.23,30389.87,2022-10-09,2024-03-20,Silver
+C01537,Eiravati Dhaliwal,Odisha,Sirsa,2,182209.22,91104.61,2024-04-18,2024-08-27,Silver
+C01964,Utkarsh Bose,Madhya Pradesh,Panihati,1,181924.25,181924.25,2023-09-05,2023-09-05,Silver
+C00809,Utkarsh Tank,Pune,Gorakhpur,4,181705.61,45426.4,2022-10-15,2024-12-13,Silver
+C01254,Waida Wali,Rajasthan,Raurkela Industrial Township,3,181644.42,60548.14,2022-07-02,2024-06-09,Silver
+C00631,Vedant Banerjee,Bihar,Allahabad,4,181473.08,45368.27,2022-03-17,2024-06-16,Silver
+C00703,Leena Dutt,Telangana,Surendranagar Dudhrej,6,181262.97,30210.49,2022-12-25,2024-05-19,Silver
+C00705,Samar Sampath,Madhya Pradesh,Mirzapur,2,180974.56,90487.28,2022-12-10,2024-04-21,Silver
+C01394,Hemani Lad,West Bengal,Bhiwani,4,180495.5,45123.88,2022-01-13,2022-12-23,Silver
+C00701,Jagvi Chawla,Tamil Nadu,Kirari Suleman Nagar,4,180421.3,45105.33,2023-06-18,2024-03-26,Silver
+C01802,Waida Aurora,Bihar,Bhimavaram,3,180184.02,60061.34,2022-06-15,2024-05-21,Silver
+C01238,Banjeet Nazareth,Telangana,Tinsukia,2,180121.43,90060.71,2022-04-21,2024-08-19,Silver
+C00245,Gavin Chaudhary,Karnataka,Nadiad,3,179931.16,59977.05,2022-06-21,2024-10-17,Silver
+C00329,Ijaya Handa,Tamil Nadu,Amritsar,4,179909.87,44977.47,2022-12-28,2024-05-06,Silver
+C01545,Anirudh Srinivasan,West Bengal,Bilaspur,4,179835.15,44958.79,2022-03-31,2024-07-12,Silver
+C00257,Megha Solanki,Uttar Pradesh,Nandyal,4,179745.45,44936.36,2022-05-31,2023-11-10,Silver
+C00413,Adya Prasad,Karnataka,Thiruvananthapuram,2,179431.04,89715.52,2022-01-23,2024-09-16,Silver
+C01303,Triveni Mandal,Telangana,Malegaon,2,179179.36,89589.68,2023-03-24,2024-01-02,Silver
+C00138,Amaira Panchal,Uttar Pradesh,Jammu,4,178907.46,44726.86,2022-04-13,2024-01-08,Silver
+C00004,Aahana Upadhyay,Odisha,Ghaziabad,3,178891.94,59630.65,2022-06-07,2024-02-26,Silver
+C01273,Nathan Sunder,Bihar,Silchar,2,178507.31,89253.65,2022-11-09,2024-03-08,Silver
+C00920,Luke Chand,Kerala,Madurai,2,178426.47,89213.24,2024-06-12,2024-07-03,Silver
+C01814,Geetika Kibe,Telangana,Hospet,1,178333.05,178333.05,2022-02-12,2022-02-12,Silver
+C01933,Jack Kalita,Odisha,Amravati,2,177901.94,88950.97,2022-01-01,2022-12-01,Silver
+C01360,Ria Gandhi,Haryana,Hindupur,3,177879.76,59293.25,2022-02-27,2023-05-26,Silver
+C01962,Chaman Baria,Maharashtra,Nizamabad,1,177810.4,177810.4,2022-12-29,2022-12-29,Silver
+C00766,Zinal Brahmbhatt,Karnataka,Patna,4,177560.54,44390.14,2022-03-07,2024-11-21,Silver
+C01171,Ayushman Nagy,Uttar Pradesh,Bhopal,3,177175.74,59058.58,2022-01-15,2023-04-09,Silver
+C00097,Kiaan Gera,Odisha,Surat,2,177097.11,88548.55,2022-05-05,2023-12-07,Silver
+C00202,Indrajit Kumar,Rajasthan,Sonipat,3,176431.87,58810.62,2022-09-13,2024-11-13,Silver
+C00032,Gauri Raghavan,Kerala,Bhilai,5,176082.04,35216.41,2022-08-20,2024-08-18,Silver
+C00254,Odika Pau,Karnataka,Korba,2,175843.94,87921.97,2024-02-09,2024-07-29,Silver
+C00121,Aditya Shukla,Pune,Berhampur,1,175816.46,175816.46,2023-06-19,2023-06-19,Silver
+C00355,Devansh Rajagopalan,Maharashtra,Motihari,2,175795.92,87897.96,2024-05-12,2024-11-04,Silver
+C00681,Rehaan Bhasin,Odisha,Agartala,2,175722.19,87861.1,2023-03-28,2023-07-13,Silver
+C00274,Girish Brahmbhatt,Maharashtra,Ujjain,3,175692.93,58564.31,2023-01-29,2024-12-03,Silver
+C01135,Osha Deshmukh,Pune,Jalgaon,2,175398.28,87699.14,2023-10-20,2024-06-27,Silver
+C01374,Balendra Talwar,Bihar,Ulhasnagar,3,175289.33,58429.78,2022-03-10,2023-02-05,Silver
+C01301,Abdul Walia,Bihar,Fatehpur,1,175187.32,175187.32,2024-03-07,2024-03-07,Silver
+C00676,Barkha Mistry,Haryana,Kolkata,3,175106.95,58368.98,2022-12-29,2024-03-14,Silver
+C00954,Ekaraj Dalal,Rajasthan,Katni,2,174623.92,87311.96,2022-11-16,2024-02-26,Silver
+C01625,Nicholas Ray,Gujarat,Durg,4,174340.75,43585.19,2022-04-09,2024-09-15,Silver
+C00128,Lipika Anne,Madhya Pradesh,Chinsurah,1,174304.28,174304.28,2023-06-16,2023-06-16,Silver
+C01280,Ekiya Sheth,Odisha,Gopalpur,4,174089.48,43522.37,2022-05-28,2024-09-15,Silver
+C01503,Baljiwan Nagy,Telangana,Chennai,5,173972.08,34794.42,2022-03-30,2023-07-25,Silver
+C00028,Triya Bhagat,Delhi,Karawal Nagar,2,173840.18,86920.09,2023-01-14,2023-05-22,Silver
+C00604,Yutika Bhattacharyya,Madhya Pradesh,Warangal,2,173724.32,86862.16,2022-09-30,2023-08-18,Silver
+C01673,Ati Jhaveri,Uttar Pradesh,Machilipatnam,2,173658.85,86829.43,2024-02-20,2024-08-08,Silver
+C00150,Veda Chakrabarti,Pune,Narasaraopet,1,173518.87,173518.87,2023-03-21,2023-03-21,Silver
+C00895,Omya Agrawal,Maharashtra,Kottayam,4,173352.04,43338.01,2022-12-03,2023-08-17,Silver
+C00116,Vinaya Koshy,Madhya Pradesh,Kozhikode,5,173132.52,34626.5,2022-04-20,2024-11-11,Silver
+C00569,Qadim Saha,Maharashtra,Jorhat,2,173022.25,86511.13,2022-07-19,2023-07-03,Silver
+C01611,Owen Sibal,Madhya Pradesh,Gorakhpur,2,172802.33,86401.16,2023-11-18,2024-10-15,Silver
+C01828,Finn Kalla,Uttar Pradesh,Rewa,1,172672.19,172672.19,2023-08-08,2023-08-08,Silver
+C01550,Jatin Bhardwaj,Odisha,Secunderabad,1,172185.41,172185.41,2024-04-02,2024-04-02,Silver
+C00765,Azad Soman,Telangana,Jalandhar,1,172174.69,172174.69,2023-12-16,2023-12-16,Silver
+C00946,Robert Varghese,Delhi,Motihari,3,171988.8,57329.6,2022-03-09,2023-02-26,Silver
+C00745,Lipika Mody,Madhya Pradesh,Maheshtala,2,171717.17,85858.58,2024-03-06,2024-04-01,Silver
+C00446,Megha Tank,Bihar,Bhubaneswar,4,171509.14,42877.29,2022-08-31,2024-01-26,Silver
+C00614,Kalpit Acharya,Bihar,Tirunelveli,4,170774.54,42693.64,2022-04-30,2024-01-25,Silver
+C01249,Zaitra Parmer,Bihar,Rourkela,2,170502.14,85251.07,2023-11-08,2024-12-14,Silver
+C00616,Irya Bhatt,Telangana,Nagaon,2,170380.49,85190.25,2023-05-12,2023-11-21,Silver
+C01865,Fariq Chad,Karnataka,Ambarnath,1,170301.31,170301.31,2022-03-28,2022-03-28,Silver
+C01401,Sudiksha Khurana,Telangana,Bijapur,3,170154.99,56718.33,2022-08-14,2024-11-09,Silver
+C00408,Qasim Tiwari,Karnataka,Rajahmundry,3,169984.11,56661.37,2023-06-04,2023-11-20,Silver
+C00169,Kamya Soni,Gujarat,Shivpuri,3,169845.63,56615.21,2023-01-07,2024-10-24,Silver
+C00505,Elijah Koshy,Kerala,Sasaram,3,169194.99,56398.33,2022-02-25,2024-01-29,Silver
+C00719,Unni Luthra,Karnataka,Raiganj,2,168504.13,84252.07,2023-11-17,2024-03-10,Silver
+C00491,Kai Dalal,Maharashtra,Hajipur,3,168213.31,56071.1,2022-03-06,2024-03-26,Silver
+C00539,Rajata Bahl,Gujarat,Bokaro,3,168052.28,56017.43,2023-10-10,2024-01-27,Silver
+C00968,Ladli Buch,Haryana,Hubli–Dharwad,4,167732.95,41933.24,2022-06-19,2024-05-30,Silver
+C00014,Sneha Bhavsar,Haryana,Kumbakonam,2,167605.83,83802.91,2022-05-26,2023-05-15,Silver
+C01773,Pranit Singh,West Bengal,Udaipur,3,167242.93,55747.64,2022-01-10,2024-04-13,Silver
+C01918,Chakradhar Kothari,Gujarat,Ujjain,5,167212.11,33442.42,2022-02-20,2024-10-19,Silver
+C00756,Varenya Subramanian,Rajasthan,Jehanabad,4,167207.96,41801.99,2022-06-26,2024-05-13,Silver
+C01848,Rayaan Devan,West Bengal,Amroha,3,167063.1,55687.7,2022-07-11,2022-09-29,Silver
+C00810,Rudra Pant,Delhi,Junagadh,4,166783.31,41695.83,2022-12-18,2024-04-13,Silver
+C01180,Warjas Kashyap,Kerala,Kanpur,2,166601.34,83300.67,2022-01-19,2023-10-30,Silver
+C00841,Aarini Batra,Bihar,Narasaraopet,3,166519.57,55506.52,2022-08-08,2022-11-02,Silver
+C00975,Yadavi Ranganathan,Karnataka,Ranchi,3,166505.22,55501.74,2022-07-24,2023-12-19,Silver
+C01377,Gopal Nagar,Madhya Pradesh,Tiruchirappalli,3,166023.95,55341.32,2022-07-26,2024-09-29,Silver
+C00500,Ekansh Sunder,Karnataka,Miryalaguda,2,165947.04,82973.52,2024-03-14,2024-04-03,Silver
+C01777,Adweta Khare,Rajasthan,Avadi,1,165903.26,165903.26,2024-05-09,2024-05-09,Silver
+C00923,Ayaan Modi,West Bengal,Darbhanga,3,165891.47,55297.16,2022-11-12,2023-06-04,Silver
+C01979,Saumya Kuruvilla,Bihar,Anantapuram,2,165467.49,82733.74,2023-03-09,2024-01-08,Silver
+C01725,Aarini Oak,Karnataka,Karimnagar,3,165445.14,55148.38,2022-10-06,2024-12-19,Silver
+C01471,Unnati Walla,Telangana,Korba,4,165436.59,41359.15,2022-03-26,2024-08-16,Silver
+C01210,Faras Salvi,Madhya Pradesh,Bhimavaram,4,165272.56,41318.14,2022-12-03,2024-06-18,Silver
+C00504,Dalbir Majumdar,Madhya Pradesh,Anand,2,165208.01,82604.01,2023-04-02,2024-03-26,Silver
+C00381,Bina Singh,Uttar Pradesh,Bhusawal,3,165075.89,55025.3,2023-05-09,2024-08-08,Silver
+C00984,Zashil Pal,Odisha,Vijayawada,3,164709.81,54903.27,2022-01-30,2024-06-02,Silver
+C01340,Aditya Solanki,Telangana,Rajkot,1,164077.72,164077.72,2024-01-20,2024-01-20,Silver
+C01011,Daksha Ganguly,Kerala,Ozhukarai,3,164032.22,54677.41,2022-05-21,2024-08-06,Silver
+C01389,Meghana Dhar,Maharashtra,Rajkot,1,163994.06,163994.06,2023-05-15,2023-05-15,Silver
+C01651,Pranit Kohli,Rajasthan,Kota,1,163831.42,163831.42,2024-07-27,2024-07-27,Silver
+C01901,Nisha Baria,West Bengal,Panvel,4,163779.56,40944.89,2022-02-07,2023-04-14,Silver
+C01451,Arin Pandya,Uttar Pradesh,Gaya,3,163556.69,54518.9,2024-03-27,2024-07-18,Silver
+C00551,Lucky Butala,Telangana,Amritsar,5,163429.06,32685.81,2022-02-18,2024-08-08,Silver
+C00005,Pranit Rastogi,Haryana,Udaipur,2,163305.15,81652.57,2023-03-23,2023-10-02,Silver
+C00753,Qabil Tella,Karnataka,Amravati,3,163004.14,54334.71,2022-06-07,2024-01-27,Silver
+C00342,Devansh Thakur,West Bengal,Jaunpur,1,162942.4,162942.4,2024-11-14,2024-11-14,Silver
+C00345,Ishwar Saha,Odisha,Tirunelveli,2,162477.4,81238.7,2022-11-21,2024-02-02,Silver
+C01291,David Chada,Tamil Nadu,Kolhapur,4,162430.21,40607.55,2022-03-13,2023-12-10,Silver
+C00514,Aarini Reddy,Bihar,Vijayanagaram,3,162426.82,54142.27,2022-02-08,2023-08-14,Silver
+C00080,Ikbal Nagar,Uttar Pradesh,Allahabad,2,162375.17,81187.58,2024-06-19,2024-10-07,Silver
+C00066,Yug Nath,Bihar,Kurnool,3,162365.59,54121.86,2022-01-13,2023-03-29,Silver
+C01127,Dakshesh Goel,Bihar,Kishanganj,2,162271.47,81135.74,2022-03-15,2023-06-05,Silver
+C01206,Pushti Chana,Tamil Nadu,Dehradun,3,161676.29,53892.1,2022-02-03,2024-02-12,Silver
+C01785,Tanmayi Mane,Gujarat,Vijayawada,2,161360.67,80680.33,2023-04-22,2024-04-16,Silver
+C01838,Wishi Ramachandran,Karnataka,Tenali,2,160816.77,80408.38,2023-01-13,2024-05-05,Silver
+C00252,Yug Sangha,Telangana,Maheshtala,3,160741.06,53580.35,2022-04-22,2024-08-02,Silver
+C00640,Isaiah Bora,Delhi,Hapur,2,160709.41,80354.71,2024-04-15,2024-12-22,Silver
+C00625,Yashodhara Bajwa,Pune,Naihati,2,160541.82,80270.91,2022-08-26,2023-11-05,Silver
+C00375,Omisha Gandhi,Tamil Nadu,Kadapa,3,160178.43,53392.81,2022-03-27,2024-07-04,Silver
+C00838,Pratyush Kothari,Pune,Kalyan-Dombivli,2,160045.47,80022.74,2023-02-04,2023-12-14,Silver
+C01327,Mugdha Rau,Telangana,Jammu,2,159907.92,79953.96,2022-08-25,2023-10-31,Silver
+C00660,Ansh Vohra,Kerala,Kurnool,2,159734.8,79867.4,2022-01-31,2024-02-23,Silver
+C00076,Omisha Sankaran,Kerala,Aligarh,2,159685.38,79842.69,2023-08-05,2024-07-31,Silver
+C01819,Yatin Narain,Maharashtra,Karaikudi,3,158615.73,52871.91,2022-11-26,2024-09-27,Silver
+C00291,Ishwar Sule,Delhi,Thrissur,1,158543.52,158543.52,2023-07-15,2023-07-15,Silver
+C00233,Teerth Andra,West Bengal,Kota,3,158473.31,52824.44,2022-02-17,2023-03-25,Silver
+C01478,Aarush Pant,Gujarat,Adoni,5,158245.37,31649.07,2022-05-16,2024-06-02,Silver
+C01561,Wazir Sachar,Haryana,Junagadh,2,158206.76,79103.38,2022-03-28,2023-05-13,Silver
+C01664,Arya Ahuja,Gujarat,Jorhat,1,158175.44,158175.44,2023-05-05,2023-05-05,Silver
+C01084,Oni Ben,Delhi,Kamarhati,2,158107.35,79053.68,2022-10-01,2023-12-05,Silver
+C00561,Ekbal Dass,Uttar Pradesh,Mirzapur,5,158104.12,31620.82,2022-07-25,2024-05-18,Silver
+C01566,Upma Ray,Haryana,Bhubaneswar,2,157897.27,78948.64,2023-01-17,2023-11-20,Silver
+C01607,Unnati Lala,Uttar Pradesh,Chinsurah,3,157626.14,52542.05,2022-07-16,2023-05-03,Silver
+C01079,Timothy Purohit,Uttar Pradesh,Tiruvottiyur,3,157596.93,52532.31,2022-09-05,2024-12-30,Silver
+C00095,Sarthak Talwar,Gujarat,Uluberia,3,157481.24,52493.75,2022-05-24,2024-08-28,Silver
+C00844,Harrison Goswami,Madhya Pradesh,Meerut,3,157404.65,52468.22,2023-10-07,2024-08-27,Silver
+C00951,Vasudha Murty,Haryana,Mangalore,1,156805.37,156805.37,2022-12-09,2022-12-09,Silver
+C01192,Varsha Balan,Pune,Rajpur Sonarpur,3,156734.76,52244.92,2022-11-18,2024-07-23,Silver
+C00154,Hiral Chander,Kerala,Panipat,4,156655.93,39163.98,2023-11-01,2024-10-04,Silver
+C00546,Lucky Chadha,Uttar Pradesh,Gopalpur,3,155931.04,51977.01,2022-10-14,2024-05-04,Silver
+C00410,Sai Mane,Maharashtra,North Dumdum,1,155892.91,155892.91,2024-02-09,2024-02-09,Silver
+C00151,Jeremiah Toor,Rajasthan,Chapra,4,155708.33,38927.08,2022-01-29,2024-10-20,Silver
+C01729,Anay Bahl,Kerala,Kulti,2,155479.68,77739.84,2022-01-06,2024-09-21,Silver
+C01265,Sachi Nadkarni,Tamil Nadu,Giridih,3,155250.26,51750.09,2022-07-24,2024-08-20,Silver
+C01331,Jasmit Baria,Haryana,Patiala,3,155043.65,51681.22,2022-10-04,2024-02-27,Silver
+C00567,Vasatika Wadhwa,Bihar,Madurai,3,155022.85,51674.28,2023-03-23,2023-12-02,Silver
+C01225,Gaurika Nigam,Telangana,Khora ,1,154876.97,154876.97,2024-02-18,2024-02-18,Silver
+C00045,David Sama,Odisha,Jalandhar,3,154509.85,51503.28,2022-10-10,2024-12-04,Silver
+C00933,Keya Deol,Madhya Pradesh,Ozhukarai,3,154407.77,51469.26,2022-04-13,2023-07-09,Silver
+C00990,Ishanvi Khanna,Telangana,Jammu,4,154157.07,38539.27,2022-07-29,2024-09-26,Silver
+C00564,Chaitanya Bhatia,Delhi,Rourkela,1,154013.99,154013.99,2023-02-17,2023-02-17,Silver
+C01992,Yashodhara Krish,Maharashtra,Ichalkaranji,4,153914.55,38478.64,2022-12-26,2024-01-10,Silver
+C01235,Girindra Kant,Telangana,Kolkata,3,153781.78,51260.59,2023-01-05,2024-09-19,Silver
+C00688,Varenya Sethi,Rajasthan,Jaunpur,1,153539.09,153539.09,2024-02-19,2024-02-19,Silver
+C01740,Neel Bumb,Karnataka,Etawah,4,153247.64,38311.91,2023-01-18,2024-07-13,Silver
+C00957,Mugdha Gill,Gujarat,Siwan,1,153196.49,153196.49,2024-09-30,2024-09-30,Silver
+C00338,Ayush Apte,Maharashtra,Etawah,3,153070.12,51023.37,2022-11-27,2024-12-09,Silver
+C01682,Maanas Venkataraman,Tamil Nadu,Gorakhpur,2,151831.66,75915.83,2022-01-17,2024-04-23,Silver
+C01470,Urishilla Thakur,Haryana,Bhind,3,151743.91,50581.3,2022-05-14,2023-04-11,Silver
+C00854,Aadi De,West Bengal,Haldia,1,151638.29,151638.29,2023-11-19,2023-11-19,Silver
+C01905,Theodore Bhavsar,Odisha,Aurangabad,2,151563.73,75781.87,2023-06-20,2023-09-12,Silver
+C00577,Aarini Dewan,Telangana,Silchar,3,151316.8,50438.93,2023-01-20,2024-07-30,Silver
+C01968,Ayaan Nori,Delhi,Maheshtala,4,151296.3,37824.08,2022-10-21,2024-12-28,Silver
+C01772,Baghyawati Agrawal,Telangana,Thiruvananthapuram,2,151184.54,75592.27,2023-11-11,2024-09-28,Silver
+C01577,Anita Sampath,Maharashtra,Durgapur,4,150864.95,37716.24,2022-02-16,2024-09-25,Silver
+C00607,Arjun Virk,Kerala,Sikar,4,150640.04,37660.01,2022-05-12,2024-05-16,Silver
+C00228,Ekanta Tank,Bihar,Thanjavur,1,150608.55,150608.55,2022-08-01,2022-08-01,Silver
+C00103,Daksh Vyas,Bihar,Bhatpara,2,150182.12,75091.06,2023-07-04,2023-08-29,Silver
+C01141,Krish Bawa,Uttar Pradesh,Hazaribagh,2,150025.65,75012.83,2024-03-27,2024-07-13,Silver
+C01655,Vivaan Sandal,West Bengal,Darbhanga,3,149833.46,49944.49,2023-03-07,2024-09-14,Silver
+C01846,Vedant Babu,Haryana,Srikakulam,1,149276.3,149276.3,2022-02-15,2022-02-15,Silver
+C01765,Ekalinga Sama,Telangana,Ozhukarai,2,148465.95,74232.98,2022-11-24,2022-12-12,Silver
+C01502,Noah Doshi,Uttar Pradesh,Nagaon,3,148428.53,49476.18,2022-05-09,2023-11-18,Silver
+C00916,Aarav Minhas,Uttar Pradesh,Motihari,2,148143.53,74071.76,2022-07-22,2023-12-24,Silver
+C01308,Tanay Madan,Madhya Pradesh,Kolhapur,1,147994.92,147994.92,2024-05-11,2024-05-11,Silver
+C00971,Qasim Wagle,Madhya Pradesh,Motihari,2,147879.17,73939.59,2023-12-23,2024-09-23,Silver
+C01989,Yug Rai,Tamil Nadu,Malegaon,3,147779.1,49259.7,2022-09-13,2024-08-18,Silver
+C01038,Omkaar Dey,Telangana,Kota,2,147677.0,73838.5,2023-10-11,2024-12-05,Silver
+C00082,Ekaja Sawhney,Karnataka,Sambalpur,1,147612.86,147612.86,2024-05-04,2024-05-04,Silver
+C01585,Jasmit Dass,Telangana,Pune,3,147508.11,49169.37,2022-07-30,2024-04-26,Silver
+C01887,Vrinda Savant,Odisha,Nadiad,4,147134.92,36783.73,2023-01-20,2024-01-22,Silver
+C00061,Matthew Sane,Rajasthan,Berhampur,3,146655.49,48885.16,2022-07-31,2023-05-27,Silver
+C01648,Lipika Chada,Rajasthan,Amaravati,3,146548.38,48849.46,2022-02-12,2023-03-28,Silver
+C01408,Chavvi Bakshi,Gujarat,Thanjavur,2,146099.08,73049.54,2022-11-05,2023-12-23,Silver
+C01295,Vincent Prabhakar,Tamil Nadu,Muzaffarpur,3,146037.94,48679.31,2022-10-13,2024-03-29,Silver
+C00430,Eshana Naidu,Maharashtra,North Dumdum,3,145931.98,48643.99,2022-08-03,2024-07-18,Silver
+C01676,Champak Nagar,Uttar Pradesh,Kolkata,1,145642.33,145642.33,2024-08-19,2024-08-19,Silver
+C00465,Ekta Goswami,Telangana,Deoghar,3,145569.32,48523.11,2022-08-09,2023-12-28,Silver
+C01354,Anthony Kala,Maharashtra,Mirzapur,2,145404.97,72702.49,2022-04-29,2022-08-25,Silver
+C00835,George Datta,Rajasthan,Jalgaon,2,145337.86,72668.93,2024-03-30,2024-11-08,Silver
+C01091,Pushti Ranganathan,Odisha,Patiala,2,145225.33,72612.67,2024-05-31,2024-12-01,Silver
+C00122,Bhavna Kunda,West Bengal,Visakhapatnam,3,145079.63,48359.88,2022-05-07,2024-06-22,Silver
+C00506,Warjas Patla,Pune,Parbhani,1,144949.94,144949.94,2023-08-06,2023-08-06,Silver
+C01337,Eta Dalal,Bihar,Bilaspur,2,144948.3,72474.15,2024-07-12,2024-10-30,Silver
+C00476,Adweta Pau,Uttar Pradesh,Satara,2,144771.24,72385.62,2024-08-13,2024-09-15,Silver
+C01886,Kevin Sastry,Maharashtra,Shimoga,2,144675.95,72337.97,2022-03-18,2022-11-29,Silver
+C01092,Baljiwan Merchant,West Bengal,Bareilly,1,144671.41,144671.41,2023-03-22,2023-03-22,Silver
+C00075,Teerth Gade,Odisha,Jaipur,1,144037.91,144037.91,2022-06-03,2022-06-03,Silver
+C00284,Nachiket Mitra,Gujarat,Buxar,3,143884.94,47961.65,2022-05-31,2024-08-11,Silver
+C00903,Rushil Baria,Kerala,Mirzapur,1,143592.57,143592.57,2024-08-18,2024-08-18,Silver
+C00399,Ekalinga Ghosh,Maharashtra,Patna,3,143354.09,47784.7,2022-07-10,2024-12-12,Silver
+C01315,Yashasvi Dutta,Pune,North Dumdum,2,143121.46,71560.73,2022-11-14,2024-07-09,Silver
+C01738,Azad Oommen,Maharashtra,Guntur,4,143018.98,35754.75,2022-08-02,2024-08-02,Silver
+C01458,Ekapad Kala,Tamil Nadu,Buxar,2,142947.99,71473.99,2024-07-31,2024-09-18,Silver
+C01485,Hamsini Sathe,Kerala,Sirsa,2,142376.84,71188.42,2022-01-11,2024-07-16,Silver
+C01993,Omaja Madan,Madhya Pradesh,Kolkata,3,141976.28,47325.43,2022-12-09,2024-11-14,Silver
+C01680,Eesha Manne,Haryana,Machilipatnam,2,141728.66,70864.33,2024-02-22,2024-06-12,Silver
+C01669,Kritika Dash,Karnataka,Solapur,1,141557.82,141557.82,2024-08-14,2024-08-14,Silver
+C01761,Xavier Wagle,Telangana,Pondicherry,2,141549.63,70774.81,2022-09-02,2023-04-10,Silver
+C00450,Gabriel Nagi,Kerala,Guntakal,3,141313.95,47104.65,2023-05-31,2023-12-09,Silver
+C00269,Chaitaly Saran,Kerala,Bangalore,4,141012.98,35253.25,2022-01-30,2024-09-11,Silver
+C01353,Sachi Banerjee,Karnataka,Adoni,4,140997.56,35249.39,2022-10-14,2024-01-08,Silver
+C01037,Lavanya Bhatti,Telangana,Suryapet,6,140630.02,23438.34,2022-05-05,2024-06-03,Silver
+C00533,Jairaj Sastry,Pune,Ongole,3,140076.46,46692.15,2022-02-06,2023-10-24,Silver
+C00555,Triya Kapadia,Madhya Pradesh,Hindupur,3,139901.19,46633.73,2022-06-24,2023-12-01,Silver
+C00759,Tristan Thaker,Odisha,Jamnagar,2,139493.07,69746.54,2023-09-07,2024-12-21,Silver
+C01813,Inaya Sathe,Madhya Pradesh,Machilipatnam,3,139431.1,46477.03,2022-06-15,2024-03-18,Silver
+C00234,Jason Uppal,Rajasthan,Hapur,4,139296.83,34824.21,2022-11-14,2023-11-29,Silver
+C01774,Shaurya Dey,Gujarat,Kumbakonam,4,138965.29,34741.32,2022-01-09,2024-11-12,Silver
+C00454,Vamakshi Tailor,Madhya Pradesh,Guntakal,3,138455.1,46151.7,2022-04-29,2023-06-07,Silver
+C00486,Chandran Dhillon,Pune,Uluberia,3,138303.82,46101.27,2024-08-06,2024-12-25,Silver
+C00201,Hemal Lata,Telangana,Sambalpur,2,137925.76,68962.88,2022-07-24,2023-08-13,Silver
+C00814,Dipta Kunda,Gujarat,Hubli–Dharwad,2,137781.77,68890.89,2023-04-04,2024-12-26,Silver
+C00939,Vritti Setty,Madhya Pradesh,Ajmer,3,137616.54,45872.18,2024-03-21,2024-06-19,Silver
+C01060,Girindra Khatri,Maharashtra,Rewa,1,137555.28,137555.28,2024-02-01,2024-02-01,Silver
+C01415,Yug Krish,Odisha,Purnia,3,137448.09,45816.03,2022-05-16,2023-09-08,Silver
+C00797,Gauri Choudhury,Kerala,Sambhal,4,136333.89,34083.47,2022-05-23,2023-08-20,Silver
+C00544,Unni Dubey,Telangana,Ajmer,1,135826.11,135826.11,2024-05-04,2024-05-04,Silver
+C01958,Ijaya Saran,Kerala,Mumbai,1,135629.05,135629.05,2022-06-24,2022-06-24,Silver
+C01868,Neha Bhat,Kerala,Dewas,2,135607.96,67803.98,2023-07-08,2024-06-28,Silver
+C01456,Ayaan Chawla,Madhya Pradesh,Phusro,1,135556.56,135556.56,2022-02-02,2022-02-02,Silver
+C00259,Om Sinha,Haryana,Firozabad,2,135427.01,67713.51,2022-03-05,2024-12-15,Silver
+C00398,Nihal Palla,Tamil Nadu,Jammu,3,135261.38,45087.13,2022-03-22,2022-07-30,Silver
+C00980,Luke Raja,Gujarat,Muzaffarnagar,3,135251.13,45083.71,2023-10-12,2024-06-26,Silver
+C01177,Prisha Prasad,Bihar,Kochi,2,135202.27,67601.14,2022-02-12,2024-09-08,Silver
+C01818,Maanas Ram,Tamil Nadu,Raiganj,1,135019.58,135019.58,2023-03-23,2023-03-23,Silver
+C00827,Xavier Khare,Tamil Nadu,Suryapet,1,134614.84,134614.84,2022-03-28,2022-03-28,Silver
+C01722,Ishani Bhat,Delhi,Purnia,1,134585.07,134585.07,2023-06-27,2023-06-27,Silver
+C00307,Ryan Vora,Tamil Nadu,Ghaziabad,2,134302.09,67151.04,2022-09-29,2022-12-01,Silver
+C01017,Charan Pau,Delhi,Giridih,3,134210.38,44736.79,2022-05-18,2023-06-29,Silver
+C01211,Balveer Bhargava,Delhi,Karawal Nagar,2,133973.0,66986.5,2022-02-13,2022-06-13,Silver
+C01985,Eiravati Halder,Karnataka,Kirari Suleman Nagar,2,133631.59,66815.79,2023-07-07,2023-12-25,Silver
+C01824,Upkaar Khatri,Gujarat,Ambala,1,133599.77,133599.77,2023-10-13,2023-10-13,Silver
+C00013,Ojas Munshi,Haryana,Tiruchirappalli,1,133404.26,133404.26,2024-02-18,2024-02-18,Silver
+C01041,Azad Kibe,Haryana,Salem,4,133242.77,33310.69,2023-12-16,2024-09-15,Silver
+C00573,Timothy Borde,Kerala,Bhusawal,2,133107.11,66553.55,2023-04-14,2024-03-28,Silver
+C00983,Bishakha Dara,Telangana,Moradabad,5,133072.17,26614.43,2022-02-04,2024-08-18,Silver
+C01006,Henry Som,Bihar,Srikakulam,3,132951.09,44317.03,2022-04-12,2023-03-12,Silver
+C01224,Aarna Shroff,West Bengal,Bhiwandi,2,132877.73,66438.87,2022-04-06,2024-09-04,Silver
+C00755,Advay Sinha,West Bengal,Nashik,2,132661.58,66330.79,2023-02-08,2024-03-16,Silver
+C01862,Ishaan Ray,West Bengal,Ambarnath,2,132626.75,66313.38,2022-10-14,2023-05-09,Silver
+C01542,Urvashi Vasa,West Bengal,Silchar,3,132574.19,44191.4,2023-03-01,2024-10-30,Silver
+C01498,Lopa Jaggi,Kerala,Agartala,4,132561.24,33140.31,2023-07-27,2024-12-16,Silver
+C01029,Tanmayi Atwal,Bihar,Sangli-Miraj & Kupwad,2,132451.37,66225.68,2023-01-19,2023-08-20,Silver
+C01878,Chaaya Khosla,Haryana,Purnia,1,132353.93,132353.93,2023-08-26,2023-08-26,Silver
+C01799,Faraj Bahl,Kerala,Bathinda,3,132259.4,44086.47,2022-01-12,2024-03-10,Silver
+C01474,Devika Sethi,Bihar,Berhampur,1,132111.84,132111.84,2023-04-02,2023-04-02,Silver
+C00242,Ekantika Seshadri,Tamil Nadu,Singrauli,2,131650.22,65825.11,2022-08-09,2022-12-26,Silver
+C00437,Kevin Mammen,Karnataka,Bhagalpur,1,131332.12,131332.12,2024-06-18,2024-06-18,Silver
+C00167,Rachana Dayal,Kerala,Sirsa,2,131159.85,65579.93,2022-04-17,2024-09-02,Silver
+C01447,Leela Mangat,Tamil Nadu,Ichalkaranji,2,130900.95,65450.47,2023-06-11,2023-09-18,Silver
+C00850,Jai Luthra,Kerala,Gaya,4,130802.66,32700.67,2022-01-13,2023-09-16,Silver
+C00031,Nimrat Shetty,Maharashtra,Nagaon,3,130786.22,43595.41,2023-11-28,2024-09-28,Silver
+C00711,Chanakya Rau,Telangana,Bhimavaram,1,130522.11,130522.11,2022-06-21,2022-06-21,Silver
+C01143,Jackson Walla,Haryana,Sagar,2,130318.98,65159.49,2022-08-14,2024-06-17,Silver
+C00452,Aarush Sur,Telangana,Kakinada,2,130166.64,65083.32,2022-01-11,2024-10-20,Silver
+C00183,Ishanvi Singhal,Bihar,Bhubaneswar,2,130140.89,65070.44,2022-12-15,2024-10-14,Silver
+C01609,Zaid Dey,Bihar,Gorakhpur,1,129916.31,129916.31,2024-06-06,2024-06-06,Silver
+C01600,Zehaan Parsa,Rajasthan,Gangtok,3,129065.73,43021.91,2022-06-27,2024-08-18,Silver
+C01261,Yatan Halder,Uttar Pradesh,Panihati,2,128982.68,64491.34,2022-06-05,2024-12-20,Silver
+C00857,Chaaya Sheth,Karnataka,Raichur,2,128625.95,64312.97,2023-12-14,2024-11-23,Silver
+C00263,Zayyan Parmer,Tamil Nadu,Tadipatri,1,127911.28,127911.28,2022-02-17,2022-02-17,Silver
+C00332,Dayita Radhakrishnan,West Bengal,Dharmavaram,3,127801.78,42600.59,2022-02-03,2024-06-13,Silver
+C01866,Nisha Bali,Delhi,Fatehpur,2,127288.05,63644.03,2024-09-01,2024-12-18,Silver
+C00905,Anmol Luthra,Uttar Pradesh,Jammu,2,127249.52,63624.76,2024-09-26,2024-10-17,Silver
+C00981,Veda Majumdar,Kerala,Gwalior,5,127164.17,25432.83,2022-09-14,2024-10-24,Silver
+C00842,Rachita Toor,Karnataka,Rajpur Sonarpur,1,126908.01,126908.01,2022-04-10,2022-04-10,Silver
+C00741,Abha Varty,Bihar,Guntur,2,126316.62,63158.31,2023-07-01,2023-10-06,Silver
+C01877,Ekani Pillay,Kerala,Allahabad,3,125874.82,41958.27,2022-01-02,2024-10-05,Silver
+C01710,Kamala Padmanabhan,Odisha,Siwan,3,125862.34,41954.11,2022-02-19,2023-01-28,Silver
+C00529,Gopal Lall,Odisha,Tadepalligudem,3,125737.07,41912.36,2022-08-19,2023-10-04,Silver
+C01595,Mekhala Mander,Kerala,Pudukkottai,2,125714.15,62857.07,2022-09-16,2023-10-21,Silver
+C01131,Nikita Karan,Pune,North Dumdum,3,125271.88,41757.29,2022-03-11,2023-03-01,Silver
+C01969,Xiti Bajwa,Maharashtra,Faridabad,1,124889.04,124889.04,2023-07-22,2023-07-22,Silver
+C00783,Laksh Nori,Odisha,Jhansi,3,124518.93,41506.31,2022-04-06,2024-08-30,Silver
+C01013,Lila Gopal,Uttar Pradesh,Khora ,1,124497.52,124497.52,2023-12-12,2023-12-12,Silver
+C00612,Sneha Goel,West Bengal,Baranagar,2,124353.67,62176.83,2022-02-22,2022-04-21,Silver
+C00618,Bahadurjit Sandal,Maharashtra,Bhavnagar,2,124331.65,62165.82,2022-03-26,2024-07-13,Silver
+C01095,Nathaniel Doshi,Odisha,Kurnool,3,124265.77,41421.92,2023-06-14,2024-06-15,Silver
+C01850,Faqid Chaudhry,Delhi,Buxar,1,124172.13,124172.13,2024-02-03,2024-02-03,Silver
+C00485,Neelima Barad,Haryana,Mathura,3,123957.84,41319.28,2022-09-06,2024-01-05,Silver
+C00311,Viraj Chandra,Haryana,Navi Mumbai,2,123891.33,61945.66,2023-04-12,2024-03-15,Silver
+C01400,Kamala Dube,Bihar,Khammam,3,123829.4,41276.47,2023-03-21,2023-12-01,Silver
+C00824,Jyoti Dasgupta,West Bengal,Arrah,3,123768.13,41256.04,2022-01-21,2023-12-27,Silver
+C00667,Oeshi Chaudry,Karnataka,Thiruvananthapuram,2,123457.22,61728.61,2024-04-17,2024-11-15,Silver
+C01633,Joshua Sanghvi,Tamil Nadu,Bhilai,5,123408.87,24681.77,2023-05-07,2024-12-18,Silver
+C01615,Vasudha Bail,Bihar,Gaya,2,123399.67,61699.83,2022-11-01,2024-08-01,Silver
+C01364,Dominic Rana,Kerala,Machilipatnam,2,122786.41,61393.21,2022-06-30,2023-03-13,Silver
+C01049,Leena Varma,Delhi,Loni,4,122314.73,30578.68,2022-09-06,2024-01-03,Silver
+C01336,Krishna Dey,Karnataka,Amritsar,2,122061.03,61030.51,2023-06-16,2024-04-23,Silver
+C01307,Ucchal Savant,Tamil Nadu,Satna,4,122038.37,30509.59,2022-03-01,2024-02-22,Silver
+C00807,Varsha Vasa,Delhi,Imphal,2,121923.42,60961.71,2023-02-01,2024-06-08,Silver
+C01563,Mahika Dhillon,Haryana,Dhanbad,2,121730.93,60865.47,2022-11-28,2024-09-05,Silver
+C00600,Rayaan Wason,Rajasthan,Firozabad,3,121448.82,40482.94,2023-10-06,2024-03-15,Silver
+C00164,Umang Bandi,Uttar Pradesh,Surendranagar Dudhrej,3,121441.09,40480.36,2022-08-06,2024-03-24,Silver
+C00427,Aryan Natt,Delhi,Hazaribagh,4,121266.63,30316.66,2022-02-11,2023-12-27,Silver
+C01568,Pratyush Suri,Gujarat,Agartala,3,121226.17,40408.72,2022-05-04,2024-02-11,Silver
+C01639,Siya Roy,Karnataka,Hospet,3,121028.64,40342.88,2022-01-22,2024-10-29,Silver
+C00611,Imaran Mistry,Gujarat,Hazaribagh,4,120881.05,30220.26,2022-08-26,2024-11-23,Silver
+C01297,Warinder Gara,Kerala,Berhampur,2,120754.01,60377.0,2022-01-03,2024-09-30,Silver
+C01262,Mohini Arya,Odisha,Dharmavaram,2,120594.82,60297.41,2022-11-24,2023-02-19,Silver
+C01212,Anika Mistry,Odisha,Bahraich,2,120456.75,60228.38,2022-03-23,2022-07-06,Silver
+C00830,Brinda Murty,Odisha,Chapra,4,120123.89,30030.97,2022-11-12,2023-06-15,Silver
+C01242,Karan Varughese,Gujarat,Kadapa,3,120090.59,40030.2,2022-05-28,2023-09-20,Silver
+C01975,Neel Narang,Rajasthan,Bhiwandi,4,120004.06,30001.01,2023-04-25,2024-12-08,Silver
+C01326,Veda Bath,Odisha,New Delhi,1,119999.19,119999.19,2024-12-27,2024-12-27,Silver
+C00927,Vaishnavi Sundaram,Odisha,North Dumdum,2,119726.77,59863.39,2022-07-19,2022-08-22,Silver
+C00815,Madhav Ramachandran,Karnataka,Satna,4,119644.39,29911.1,2022-04-05,2024-07-12,Silver
+C00037,Gaurang Biswas,West Bengal,Srinagar,2,119524.69,59762.35,2022-07-28,2024-03-19,Silver
+C00543,Gauri Vasa,Kerala,Aizawl,2,119221.06,59610.53,2023-02-08,2024-02-14,Silver
+C01929,Tripti Dhar,Haryana,Amaravati,1,118981.46,118981.46,2022-11-10,2022-11-10,Silver
+C01646,Amruta Srinivas,Maharashtra,Srinagar,4,118962.91,29740.73,2022-12-24,2023-12-15,Silver
+C00574,Oliver Tiwari,Pune,Fatehpur,3,118747.0,39582.33,2022-07-20,2024-08-05,Silver
+C01441,Jeet Mandal,Maharashtra,Danapur,2,118336.45,59168.22,2022-07-20,2024-03-29,Silver
+C01399,Megha Chaudhari,Delhi,Sambalpur,3,118070.37,39356.79,2022-09-10,2023-11-22,Silver
+C00563,Aarav Doshi,Madhya Pradesh,Sultan Pur Majra,2,118003.33,59001.67,2024-07-27,2024-12-15,Silver
+C01854,Noah Sur,Uttar Pradesh,Mysore,2,117793.03,58896.52,2022-09-10,2023-02-16,Silver
+C00224,Jasmit Bhargava,Kerala,Deoghar,1,117125.87,117125.87,2023-04-15,2023-04-15,Silver
+C00227,Theodore Sarna,Bihar,Morbi,1,116970.88,116970.88,2024-04-18,2024-04-18,Silver
+C00260,Owen Minhas,Gujarat,Jamshedpur,1,116605.17,116605.17,2022-01-17,2022-01-17,Silver
+C00303,Barkha Ghosh,Odisha,Alwar,2,115745.74,57872.87,2023-10-08,2024-03-24,Silver
+C01497,Pranit Manne,Kerala,Rampur,2,115688.0,57844.0,2022-11-23,2023-02-03,Silver
+C01741,Tara Narang,Maharashtra,Satara,3,115405.02,38468.34,2022-03-17,2023-05-10,Silver
+C01574,Sarthak Chandra,Telangana,Ghaziabad,3,115132.58,38377.53,2023-03-21,2023-04-26,Silver
+C00820,Upadhriti Ramakrishnan,Tamil Nadu,Alappuzha,4,115106.7,28776.67,2023-01-31,2024-11-10,Silver
+C00414,Anmol Kulkarni,Gujarat,Dindigul,2,115083.05,57541.53,2022-06-16,2024-02-07,Silver
+C01977,Watika Bhattacharyya,Pune,Jamnagar,2,115021.43,57510.71,2022-11-18,2024-03-24,Silver
+C01047,Bachittar Chaudhari,Gujarat,Akola,2,114652.19,57326.1,2023-05-10,2023-09-20,Silver
+C01562,Girindra Mohan,Maharashtra,Kochi,2,114330.86,57165.43,2022-01-21,2023-12-16,Silver
+C00145,Ucchal Biswas,Karnataka,Madanapalle,3,114319.93,38106.64,2023-09-24,2024-04-09,Silver
+C01122,Vivaan Sekhon,Maharashtra,Kishanganj,4,114111.18,28527.79,2022-08-02,2024-08-15,Silver
+C01793,Arunima Patla,Rajasthan,Ghaziabad,4,113925.51,28481.38,2022-04-08,2024-09-12,Silver
+C01384,Harish Anne,Uttar Pradesh,Bangalore,2,113351.32,56675.66,2024-03-12,2024-05-18,Silver
+C01222,Faraj Roy,Karnataka,Madurai,2,113165.19,56582.6,2023-12-25,2024-01-04,Silver
+C00776,Sai Brar,Rajasthan,Bharatpur,2,112889.3,56444.65,2022-10-22,2023-03-16,Silver
+C00268,Jeevika Chada,Tamil Nadu,Kanpur,3,112885.3,37628.43,2022-10-14,2024-11-13,Silver
+C01138,Radha Prashad,West Bengal,Dindigul,1,112791.36,112791.36,2022-07-06,2022-07-06,Silver
+C01527,Nimrat Babu,Tamil Nadu,Bhatpara,1,112490.9,112490.9,2022-04-12,2022-04-12,Silver
+C00313,Maanav Iyengar,Maharashtra,Jalandhar,2,112280.47,56140.24,2022-10-14,2024-01-27,Silver
+C00283,Guneet Dua,Kerala,Bhubaneswar,2,111643.69,55821.85,2023-11-26,2024-08-01,Silver
+C00278,Yagnesh Biswas,Maharashtra,Morbi,2,111632.23,55816.12,2022-01-04,2022-03-06,Silver
+C00206,Mitesh Sodhi,Haryana,Eluru,2,111579.24,55789.62,2023-12-16,2024-02-24,Silver
+C01467,Varsha Aggarwal,Tamil Nadu,Ramgarh,2,111200.0,55600.0,2022-12-17,2024-02-23,Silver
+C01346,Luke Menon,Telangana,Mysore,2,110805.38,55402.69,2024-01-31,2024-12-12,Silver
+C00738,Advaith Kashyap,Bihar,Hospet,1,110641.95,110641.95,2024-09-03,2024-09-03,Silver
+C01798,Wishi Sodhi,Telangana,Pimpri-Chinchwad,1,110577.63,110577.63,2022-08-06,2022-08-06,Silver
+C00969,Caleb Datta,Haryana,Tadepalligudem,2,110214.81,55107.41,2022-05-27,2024-06-02,Silver
+C01479,Nihal Kapadia,Uttar Pradesh,Indore,5,109396.33,21879.27,2022-06-02,2024-07-08,Silver
+C00300,Daksha Ramesh,Uttar Pradesh,Bidar,2,109296.5,54648.25,2022-09-24,2024-04-19,Silver
+C01839,Chatresh Kibe,Karnataka,Gorakhpur,2,109244.12,54622.06,2022-08-29,2023-08-04,Silver
+C01856,Jagvi Chowdhury,Maharashtra,Anand,4,109200.73,27300.18,2022-03-31,2023-12-31,Silver
+C00627,Gunbir Bhasin,Telangana,Noida,2,108525.82,54262.91,2022-09-03,2024-12-05,Silver
+C00808,Xalak Kashyap,Haryana,Ambattur,1,108345.34,108345.34,2022-08-12,2022-08-12,Silver
+C00589,Turvi Dhillon,Maharashtra,Kurnool,3,108195.6,36065.2,2022-10-23,2024-10-26,Silver
+C01575,Kevin Krishnamurthy,Uttar Pradesh,Jalandhar,4,108069.91,27017.48,2023-07-27,2024-01-19,Silver
+C01659,Sneha More,Rajasthan,Gurgaon,3,107682.01,35894.0,2022-10-25,2024-01-12,Silver
+C01514,Charan Puri,Madhya Pradesh,Thane,2,107570.0,53785.0,2022-06-04,2024-05-15,Silver
+C00571,Ikshita Soman,Odisha,Coimbatore,3,107312.76,35770.92,2022-07-16,2023-01-22,Silver
+C01681,Ekanta Sen,Tamil Nadu,Agra,4,107088.25,26772.06,2022-03-02,2024-07-22,Silver
+C01784,Raksha Kapur,Odisha,Ambarnath,1,106854.82,106854.82,2024-03-19,2024-03-19,Silver
+C01581,Chanakya Din,Gujarat,Anand,1,106594.41,106594.41,2022-07-09,2022-07-09,Silver
+C00970,Utkarsh Gola,Maharashtra,Cuttack,1,106268.21,106268.21,2022-09-22,2022-09-22,Silver
+C01804,Nandini Brahmbhatt,Kerala,Kumbakonam,3,106130.58,35376.86,2022-07-13,2024-08-11,Silver
+C01008,Bhavini Sachdeva,Maharashtra,Nizamabad,3,105636.75,35212.25,2022-11-13,2024-09-30,Silver
+C01984,Chameli Sarraf,Delhi,Khandwa,3,105624.02,35208.01,2022-02-24,2024-11-27,Silver
+C01407,Sachi Patla,Gujarat,Bathinda,2,105623.41,52811.71,2024-08-04,2024-11-19,Silver
+C01952,Gopal Tripathi,Telangana,Hapur,4,105530.69,26382.67,2022-05-29,2024-10-23,Silver
+C01892,Urishilla Som,Uttar Pradesh,Mira-Bhayandar,3,105452.9,35150.97,2022-09-11,2024-06-21,Silver
+C00444,Jonathan Peri,Bihar,Karimnagar,3,105444.93,35148.31,2022-03-09,2024-12-16,Silver
+C00615,Tara Hayre,Kerala,Chittoor,1,105387.97,105387.97,2024-12-07,2024-12-07,Silver
+C01489,Yochana Raval,Bihar,Junagadh,1,104935.75,104935.75,2022-08-29,2022-08-29,Silver
+C00251,Aarnav Balay,Bihar,North Dumdum,3,104632.02,34877.34,2022-01-25,2024-10-30,Silver
+C01834,Anika Lanka,Pune,Udupi,3,104600.7,34866.9,2022-10-25,2024-05-19,Silver
+C01764,Gagan Desai,Delhi,Muzaffarpur,3,104492.03,34830.68,2022-04-20,2023-05-13,Silver
+C00281,Nitara Dhingra,Delhi,Pudukkottai,3,104294.69,34764.9,2022-08-21,2024-05-03,Silver
+C01190,Laban Sawhney,Telangana,Sangli-Miraj & Kupwad,2,104089.04,52044.52,2022-04-20,2024-06-19,Silver
+C01106,Siya Doshi,Haryana,Howrah,1,103923.13,103923.13,2022-02-18,2022-02-18,Silver
+C01505,Qadim Setty,Odisha,Burhanpur,3,103703.27,34567.76,2023-03-14,2024-06-12,Silver
+C01476,Hemang Bhatnagar,Uttar Pradesh,Bhimavaram,1,103658.72,103658.72,2022-04-23,2022-04-23,Silver
+C00702,Jai Jayaraman,Pune,Pali,1,103608.41,103608.41,2024-06-06,2024-06-06,Silver
+C00643,Benjamin Kulkarni,Pune,Hazaribagh,2,103359.85,51679.93,2023-08-01,2024-07-07,Silver
+C00965,Chandresh Buch,Odisha,Dehradun,2,103328.51,51664.25,2022-02-02,2022-11-06,Silver
+C01490,Finn Borra,Delhi,Nellore,4,103211.42,25802.85,2023-03-02,2024-09-21,Silver
+C00882,George Keer,Telangana,Rohtak,1,103115.89,103115.89,2024-07-21,2024-07-21,Silver
+C00102,Nisha Mitter,Pune,Jamalpur,2,103080.02,51540.01,2023-11-21,2023-12-03,Silver
+C00432,Hitesh Pall,Odisha,Madurai,2,103039.8,51519.9,2022-08-29,2022-10-01,Silver
+C00467,Niharika Dugar,Maharashtra,Muzaffarnagar,3,102985.25,34328.42,2022-03-20,2024-01-27,Silver
+C00443,Tamanna Brar,Kerala,Surat,1,102221.09,102221.09,2023-05-06,2023-05-06,Silver
+C00826,Ekaja Kala,Tamil Nadu,Vadodara,2,102191.07,51095.53,2022-08-31,2024-07-28,Silver
+C01788,Thomas Gaba,Delhi,Pondicherry,3,102095.07,34031.69,2022-04-08,2024-04-26,Silver
+C01686,Ubika Bansal,Bihar,Serampore,2,102033.36,51016.68,2022-12-16,2023-04-29,Silver
+C01576,Sara Khalsa,Maharashtra,Davanagere,2,101472.54,50736.27,2024-11-07,2024-11-11,Silver
+C01539,Vedhika Gokhale,Odisha,Chapra,1,101409.33,101409.33,2023-09-24,2023-09-24,Silver
+C01201,Zaitra Handa,West Bengal,Bokaro,4,101343.19,25335.8,2022-12-07,2024-05-23,Silver
+C00425,Bhavini Dave,Haryana,Karaikudi,2,101301.95,50650.97,2024-01-18,2024-12-01,Silver
+C00658,Rajata Char,Tamil Nadu,Shimla,2,101247.77,50623.89,2022-02-22,2023-10-28,Silver
+C00825,Kala Subramanian,Madhya Pradesh,North Dumdum,4,101176.37,25294.09,2022-05-21,2024-05-11,Silver
+C01708,Caleb Varty,Haryana,Imphal,2,100956.66,50478.33,2022-04-01,2024-10-17,Silver
+C00210,Priya Kota,Rajasthan,Dhule,2,100950.76,50475.38,2022-09-18,2022-10-02,Silver
+C00972,Vinaya Majumdar,Maharashtra,Malda,1,100913.56,100913.56,2023-08-10,2023-08-10,Silver
+C00828,Andrew Parsa,Gujarat,Bangalore,2,100810.15,50405.07,2023-10-03,2024-06-02,Silver
+C00728,Chasmum Sarma,Bihar,Kulti,3,100464.25,33488.08,2022-09-23,2024-10-21,Silver
+C00852,Pushti Saha,Madhya Pradesh,Durg,2,100324.58,50162.29,2022-09-13,2024-07-19,Silver
+C01216,Umang Raju,Delhi,Ulhasnagar,2,100231.97,50115.99,2024-05-31,2024-07-15,Silver
+C00726,Aadi Vaidya,Uttar Pradesh,Nandyal,2,100035.67,50017.83,2022-05-28,2022-09-29,Silver
+C00535,Chakradhar Sarma,Gujarat,Solapur,1,99927.95,99927.95,2022-02-23,2022-02-23,Silver
+C00727,Vritti Char,Rajasthan,Davanagere,2,99846.85,49923.43,2022-04-01,2023-05-26,Silver
+C00055,Samar Maharaj,Karnataka,Udupi,2,99529.11,49764.56,2023-11-26,2024-04-16,Silver
+C00296,Aarush Prakash,Rajasthan,Darbhanga,2,99527.73,49763.86,2023-10-24,2024-03-09,Silver
+C01178,Charita Bal,Haryana,Machilipatnam,3,99455.18,33151.73,2022-07-13,2024-10-28,Silver
+C00068,Tanmayi Mukhopadhyay,Pune,Dindigul,1,99231.27,99231.27,2023-11-19,2023-11-19,Silver
+C01239,Vasana Pandit,Gujarat,Bidar,3,99229.23,33076.41,2023-09-13,2024-10-31,Silver
+C00845,Gaurav Oommen,Delhi,Ratlam,4,99120.38,24780.1,2022-03-29,2024-11-23,Silver
+C00358,Girish Barad,Bihar,Baranagar,1,98989.54,98989.54,2024-06-21,2024-06-21,Silver
+C01162,Upkaar Rajagopalan,Kerala,Darbhanga,1,98870.76,98870.76,2022-09-13,2022-09-13,Silver
+C00931,Vyanjana Chakrabarti,Telangana,Satara,1,98617.77,98617.77,2022-05-06,2022-05-06,Silver
+C01169,Indali Menon,Bihar,Uluberia,4,98607.75,24651.94,2022-05-02,2023-07-08,Silver
+C01422,Rushil Raju,Haryana,Kadapa,3,98467.59,32822.53,2023-02-23,2024-07-10,Silver
+C01549,Amara Toor,Karnataka,Rajpur Sonarpur,1,98188.82,98188.82,2024-12-13,2024-12-13,Silver
+C01168,Faqid Sharaf,Pune,Kharagpur,2,98018.76,49009.38,2022-04-23,2023-04-28,Silver
+C00654,Mitesh Desai,Delhi,Arrah,1,97900.47,97900.47,2024-02-29,2024-02-29,Silver
+C01055,Pahal Raju,Odisha,Ulhasnagar,2,97444.86,48722.43,2022-02-22,2024-02-15,Silver
+C00752,Ekanta Bali,West Bengal,Ramgarh,3,97381.78,32460.59,2023-10-27,2024-05-25,Silver
+C01120,Hredhaan Bala,Telangana,Amaravati,2,96974.63,48487.32,2022-01-07,2024-10-29,Silver
+C00347,Aryan Parmar,Pune,Naihati,2,96072.19,48036.1,2024-02-02,2024-06-25,Silver
+C00718,Yutika Mitter,Uttar Pradesh,Ozhukarai,3,95822.47,31940.82,2023-04-08,2024-10-14,Silver
+C01199,Krishna Kurian,Bihar,Kadapa,2,95770.2,47885.1,2022-06-10,2023-02-01,Silver
+C00775,Faqid Samra,West Bengal,Thrissur,2,95572.66,47786.33,2022-12-09,2024-12-13,Silver
+C00231,Anita Saini,Rajasthan,Alwar,1,95549.79,95549.79,2023-02-02,2023-02-02,Silver
+C01947,Liam Gade,Kerala,Bhiwani,1,95150.35,95150.35,2022-12-11,2022-12-11,Silver
+C00977,Ishanvi Manda,Maharashtra,Mumbai,3,95018.88,31672.96,2023-07-04,2024-10-07,Silver
+C01943,Mekhala Srinivas,Bihar,Motihari,2,94819.24,47409.62,2023-12-04,2024-10-17,Silver
+C00384,Isha Kala,Karnataka,Darbhanga,1,94770.69,94770.69,2023-06-19,2023-06-19,Silver
+C00661,Neha Wali,Delhi,Saharanpur,2,94533.41,47266.71,2024-01-22,2024-02-04,Silver
+C01433,Dayamai Shukla,Bihar,Shahjahanpur,1,94370.35,94370.35,2024-12-22,2024-12-22,Silver
+C00456,Chatresh Sangha,Bihar,Tirunelveli,4,94180.06,23545.01,2022-04-03,2024-01-06,Silver
+C01953,Krisha Vohra,Haryana,Nagpur,3,93616.22,31205.41,2022-01-29,2024-06-02,Silver
+C00039,Chasmum Balakrishnan,Haryana,Mysore,2,93547.96,46773.98,2024-02-27,2024-12-21,Silver
+C01815,Abeer Mand,Haryana,Jorhat,2,93427.38,46713.69,2024-01-30,2024-11-13,Silver
+C00653,Jai Dutt,Rajasthan,Moradabad,2,93349.61,46674.81,2022-12-10,2024-11-05,Silver
+C00030,Eesha Sankaran,Telangana,Deoghar,1,92860.11,92860.11,2022-06-26,2022-06-26,Silver
+C00146,Chaaya Zachariah,Karnataka,Arrah,1,92463.18,92463.18,2023-08-01,2023-08-01,Silver
+C01896,Udarsh Loke,Rajasthan,Vadodara,1,92172.47,92172.47,2023-03-22,2023-03-22,Silver
+C00123,Damini Chahal,Kerala,Chennai,3,91899.2,30633.07,2023-05-23,2024-11-19,Silver
+C00101,Pratyush Goda,Delhi,Darbhanga,2,91315.83,45657.91,2023-04-20,2024-08-06,Silver
+C01547,Zansi Hegde,Pune,Kozhikode,4,91000.92,22750.23,2022-06-12,2024-01-14,Silver
+C00474,Naveen Agarwal,Pune,Saharanpur,2,90762.57,45381.28,2022-11-16,2023-10-22,Silver
+C00997,Gauri Seshadri,Telangana,Jaunpur,1,90738.74,90738.74,2022-08-28,2022-08-28,Silver
+C00468,Qabil Chanda,Karnataka,Jalandhar,4,90674.18,22668.55,2022-04-05,2024-10-27,Silver
+C01391,Abha Luthra,Odisha,Shimla,1,90589.83,90589.83,2023-02-19,2023-02-19,Silver
+C01564,Utkarsh Saxena,Haryana,Rampur,1,90432.18,90432.18,2022-09-01,2022-09-01,Silver
+C00473,Vihaan Mandal,Gujarat,Aurangabad,4,90271.17,22567.79,2023-04-18,2024-11-04,Silver
+C00512,Ekansh Golla,Maharashtra,Sasaram,1,89887.98,89887.98,2022-04-14,2022-04-14,Silver
+C00199,Barkha Chopra,Tamil Nadu,Haldia,2,89394.27,44697.14,2024-06-04,2024-08-15,Silver
+C00789,Yoshita Gandhi,Haryana,Tirunelveli,1,89194.92,89194.92,2022-07-20,2022-07-20,Silver
+C01903,Vritti Bahri,West Bengal,Jalandhar,3,89141.2,29713.73,2022-02-05,2024-08-17,Silver
+C00761,Devika Uppal,Karnataka,Dhanbad,1,88829.46,88829.46,2022-09-02,2022-09-02,Silver
+C01142,Rishi Mohan,Bihar,Mysore,2,88751.94,44375.97,2024-04-09,2024-09-05,Silver
+C01726,Nidhi Narula,Tamil Nadu,Machilipatnam,1,88573.73,88573.73,2022-01-17,2022-01-17,Silver
+C01321,Rayaan Sharaf,Madhya Pradesh,Meerut,3,87908.37,29302.79,2023-01-06,2024-10-06,Silver
+C01530,Chatresh Mohan,West Bengal,Nizamabad,2,87820.5,43910.25,2022-08-29,2023-04-18,Silver
+C00209,Ekbal Yadav,Madhya Pradesh,Rohtak,2,87769.88,43884.94,2022-04-21,2024-04-21,Silver
+C00880,Christopher Cherian,Haryana,Etawah,3,87747.21,29249.07,2022-09-19,2024-10-01,Silver
+C00734,Harshil Das,Rajasthan,Guntakal,1,87585.76,87585.76,2024-01-14,2024-01-14,Silver
+C01919,Ethan Dani,Pune,Siwan,3,87503.65,29167.88,2023-06-21,2024-03-25,Silver
+C01334,Atharv Seshadri,Gujarat,Bhilwara,1,87441.79,87441.79,2023-07-19,2023-07-19,Silver
+C00020,Zaitra Narain,Karnataka,Dhanbad,2,87387.4,43693.7,2022-03-09,2024-05-13,Silver
+C01054,Vedant Parmar,Karnataka,Udupi,2,87241.85,43620.93,2022-12-17,2024-02-25,Silver
+C01046,Lohit Ram,Delhi,Raichur,1,86881.13,86881.13,2022-03-04,2022-03-04,Silver
+C00186,Pallavi Bora,West Bengal,Tirunelveli,1,86335.81,86335.81,2024-07-31,2024-07-31,Silver
+C01647,Aahana Chakraborty,Rajasthan,Alwar,2,86193.77,43096.89,2023-01-25,2023-03-21,Silver
+C00304,Omaja Koshy,Gujarat,Kamarhati,1,85716.43,85716.43,2022-03-15,2022-03-15,Silver
+C00655,Gaurangi Krishna,Maharashtra,Proddatur,3,85397.39,28465.8,2023-08-17,2024-06-21,Silver
+C01506,Idika Raghavan,Pune,Raipur,3,84947.23,28315.74,2022-01-20,2024-07-13,Silver
+C00067,Tanmayi Yadav,Delhi,Korba,2,84914.57,42457.29,2022-05-30,2024-02-27,Silver
+C01361,Waida Kadakia,West Bengal,Anantapuram,3,84898.46,28299.49,2022-05-20,2022-10-02,Silver
+C00542,Dalaja Baria,Haryana,Siliguri,2,84622.99,42311.5,2022-10-20,2024-07-03,Silver
+C00295,Balveer Sama,Gujarat,Nizamabad,1,84357.88,84357.88,2024-12-23,2024-12-23,Silver
+C01890,Wriddhish Sankaran,Uttar Pradesh,Giridih,3,84178.27,28059.42,2023-03-08,2023-12-06,Silver
+C00273,Falak Buch,Karnataka,Fatehpur,2,83917.26,41958.63,2022-04-16,2023-11-28,Silver
+C00261,Qabil Salvi,Uttar Pradesh,Kolhapur,1,83403.71,83403.71,2024-02-09,2024-02-09,Silver
+C01289,Neelima Deo,Pune,Pune,2,83361.98,41680.99,2022-02-03,2024-06-18,Silver
+C01922,Yatin Bobal,Odisha,Mumbai,3,83264.25,27754.75,2022-08-03,2023-05-07,Silver
+C01981,Nidra Gade,Rajasthan,Saharanpur,2,83238.32,41619.16,2022-05-09,2023-08-12,Silver
+C01603,Harita Pall,Bihar,Bhatpara,3,83224.77,27741.59,2022-05-12,2024-12-09,Silver
+C00389,Sai Trivedi,Madhya Pradesh,Indore,3,82919.85,27639.95,2022-04-24,2023-07-18,Silver
+C01202,Rajeshri Subramaniam,Maharashtra,Amroha,2,82873.57,41436.79,2024-01-04,2024-08-02,Silver
+C01900,Reyansh Nigam,Uttar Pradesh,Guna,2,82120.69,41060.35,2023-04-28,2023-05-28,Silver
+C00194,Ati Raval,Odisha,Karimnagar,3,82026.0,27342.0,2022-02-14,2023-12-29,Silver
+C00316,Chasmum Bahri,Haryana,Amroha,4,81949.69,20487.42,2023-01-14,2024-05-08,Silver
+C01638,Upadhriti Garg,Rajasthan,Orai,4,81848.06,20462.01,2022-04-09,2023-05-26,Silver
+C00382,Ekaraj Kulkarni,Tamil Nadu,Amritsar,3,81828.92,27276.31,2022-05-23,2024-11-09,Silver
+C00840,Ethan Varughese,Rajasthan,Bhind,3,81790.3,27263.43,2022-02-05,2023-08-11,Silver
+C01965,Rajeshri Basu,Gujarat,Nadiad,2,81679.41,40839.71,2022-01-06,2024-10-30,Silver
+C01075,Arunima Mutti,Pune,Anand,2,81490.42,40745.21,2023-03-13,2024-08-01,Silver
+C01385,Samuel Mand,Bihar,Ichalkaranji,3,81082.13,27027.38,2022-04-24,2024-11-25,Silver
+C01194,Ikbal Shere,West Bengal,Kanpur,4,81069.82,20267.46,2023-02-13,2024-08-21,Silver
+C00276,Xavier Garg,Maharashtra,Kozhikode,2,80959.88,40479.94,2023-04-25,2024-04-01,Silver
+C01376,Libni Chad,West Bengal,Mango,3,80948.86,26982.95,2022-02-04,2023-06-20,Silver
+C00515,Siya Raghavan,Bihar,Farrukhabad,4,80580.29,20145.07,2022-01-26,2024-07-17,Silver
+C01894,Hemani Amble,Telangana,Tiruchirappalli,3,80529.56,26843.19,2023-09-27,2024-05-15,Silver
+C00314,Advik Khare,West Bengal,Rohtak,2,80486.21,40243.11,2023-11-29,2024-10-12,Silver
+C01117,Radhika Gera,Pune,Nagaon,3,80469.06,26823.02,2024-03-10,2024-09-26,Silver
+C01626,Radha Sanghvi,Kerala,Nashik,3,80432.55,26810.85,2022-04-17,2024-01-02,Silver
+C00165,Tripti Dhar,Telangana,Anantapur,2,80403.5,40201.75,2022-03-06,2023-01-22,Silver
+C01672,Urishilla Bhatia,Odisha,Secunderabad,1,80350.79,80350.79,2023-03-08,2023-03-08,Silver
+C01269,Naksh Buch,Odisha,Sirsa,3,80172.9,26724.3,2022-08-12,2024-11-15,Silver
+C01528,Anya Parikh,Gujarat,Moradabad,2,80121.81,40060.9,2023-08-12,2024-03-06,Silver
+C00665,Pahal Saran,Maharashtra,Hapur,2,80022.32,40011.16,2023-01-28,2024-01-12,Silver
+C00791,Priya Kale,Delhi,Medininagar,2,79822.48,39911.24,2022-11-24,2023-02-20,Silver
+C01253,Vivaan Sule,West Bengal,Tiruvottiyur,2,79102.92,39551.46,2022-04-30,2023-07-20,Silver
+C00158,Ishaan Shroff,Kerala,Gaya,1,78998.8,78998.8,2022-11-15,2022-11-15,Silver
+C01790,Omkaar Dara,Madhya Pradesh,Delhi,2,78796.94,39398.47,2024-01-04,2024-09-02,Silver
+C01831,Amrita Bhatia,Telangana,Raiganj,1,78703.36,78703.36,2023-01-13,2023-01-13,Silver
+C01406,Gauri Lad,Karnataka,Ahmednagar,1,78646.91,78646.91,2024-12-27,2024-12-27,Silver
+C01483,Andrew Saxena,Bihar,Kolkata,3,78478.21,26159.4,2022-03-31,2024-01-21,Silver
+C01520,Daksh Chaudhari,Rajasthan,Aizawl,2,78396.05,39198.03,2022-11-28,2023-11-21,Silver
+C01116,Geetika Boase,Kerala,Uluberia,2,78376.53,39188.26,2023-03-27,2024-01-20,Silver
+C01228,Girik Kapur,Pune,Ambarnath,2,78347.25,39173.63,2022-04-13,2023-08-15,Silver
+C01198,Geetika Pingle,Pune,Panchkula,1,78052.89,78052.89,2022-01-22,2022-01-22,Silver
+C00365,Vasudha Bawa,West Bengal,Amritsar,2,78038.72,39019.36,2023-02-11,2024-08-20,Silver
+C01679,Omisha Karpe,Bihar,Patna,3,77924.12,25974.71,2022-06-02,2024-07-27,Silver
+C01430,Vihaan Parikh,Haryana,Pallavaram,3,77732.96,25910.99,2022-06-02,2024-05-24,Silver
+C01069,Hemal Prasad,Telangana,North Dumdum,1,77730.11,77730.11,2023-07-08,2023-07-08,Silver
+C01369,Timothy Banerjee,Telangana,Kottayam,2,77606.37,38803.18,2022-08-11,2024-09-03,Silver
+C00694,Wishi De,Pune,Raurkela Industrial Township,2,77526.72,38763.36,2022-02-28,2024-01-27,Silver
+C01186,Bhavya Shenoy,Karnataka,Hyderabad,2,77504.14,38752.07,2024-02-17,2024-11-19,Silver
+C00374,Wyatt Vyas,Uttar Pradesh,Aizawl,3,77125.29,25708.43,2022-01-19,2024-03-28,Silver
+C00163,Saumya Maharaj,Bihar,Tirupati,2,76603.81,38301.9,2022-05-22,2024-07-03,Silver
+C00265,Baghyawati Kurian,Bihar,Eluru,3,76590.49,25530.16,2023-06-11,2023-12-20,Silver
+C01245,Aarna Sandhu,Bihar,Tinsukia,1,76359.38,76359.38,2024-03-11,2024-03-11,Silver
+C00707,Nirja Sama,Madhya Pradesh,Maheshtala,3,76224.35,25408.12,2022-10-24,2024-05-14,Silver
+C00966,Krish Lanka,West Bengal,Guwahati,2,76165.05,38082.52,2022-07-11,2022-12-20,Silver
+C00435,Barkha Mukherjee,Kerala,Bardhaman,2,76132.9,38066.45,2022-07-02,2023-02-05,Silver
+C00063,Zaitra Misra,Tamil Nadu,Jehanabad,3,76075.24,25358.41,2022-02-13,2023-03-04,Silver
+C01027,Ekanta Choudhary,Telangana,Nashik,2,75972.39,37986.19,2022-10-17,2024-09-25,Silver
+C01737,Indrajit Patil,Rajasthan,Panvel,2,75652.1,37826.05,2022-05-06,2023-11-16,Silver
+C00685,Kashish Sule,Karnataka,Aurangabad,1,74748.16,74748.16,2023-03-22,2023-03-22,Silver
+C01115,Anay Chhabra,Delhi,Bhiwani,1,74263.27,74263.27,2024-07-31,2024-07-31,Silver
+C00159,Dalbir Shankar,Delhi,Muzaffarpur,1,74227.96,74227.96,2023-09-05,2023-09-05,Silver
+C01480,Kavya Savant,Rajasthan,Guna,2,73812.78,36906.39,2024-10-17,2024-12-01,Silver
+C01258,Deepa Kashyap,Uttar Pradesh,Mahbubnagar,1,73718.04,73718.04,2022-09-25,2022-09-25,Silver
+C00894,David Amble,Odisha,Jhansi,2,73346.87,36673.43,2023-05-01,2023-08-17,Silver
+C00736,Ayushman Trivedi,Karnataka,Vijayawada,1,73030.32,73030.32,2024-10-03,2024-10-03,Silver
+C01000,Eshana Deshpande,Bihar,Kavali,2,72243.24,36121.62,2022-01-04,2023-01-16,Silver
+C01510,Lajita Lall,Pune,Warangal,1,71829.06,71829.06,2022-02-07,2022-02-07,Silver
+C00639,Faras Kata,Tamil Nadu,Bathinda,4,71591.04,17897.76,2022-01-06,2024-09-26,Silver
+C00042,Hritik Nazareth,Pune,Faridabad,2,71001.28,35500.64,2023-05-28,2024-09-06,Silver
+C01166,Yatan Kumar,Delhi,Rewa,3,70960.64,23653.55,2022-01-29,2023-07-15,Silver
+C00798,Nicholas Deol,Maharashtra,Deoghar,1,70801.51,70801.51,2023-08-30,2023-08-30,Silver
+C00198,Brinda Thakkar,Madhya Pradesh,Saharanpur,2,70636.64,35318.32,2024-06-18,2024-06-23,Silver
+C01392,Omisha Sethi,Odisha,Ramgarh,1,70636.4,70636.4,2024-08-22,2024-08-22,Silver
+C01780,Gabriel Padmanabhan,Gujarat,Bhatpara,2,70461.86,35230.93,2022-10-13,2024-10-03,Silver
+C00181,Mason Contractor,Rajasthan,Jalandhar,1,70279.55,70279.55,2022-02-08,2022-02-08,Silver
+C01937,Lila Kata,Karnataka,Bhiwani,2,70270.46,35135.23,2022-11-23,2023-10-02,Silver
+C00626,Netra Toor,Pune,Bihar Sharif,2,70234.27,35117.14,2022-07-31,2024-07-02,Silver
+C01439,Wishi Subramaniam,Haryana,Guna,1,70180.29,70180.29,2022-06-29,2022-06-29,Silver
+C01778,Kritika Kumer,Telangana,Amritsar,1,70054.23,70054.23,2023-04-23,2023-04-23,Silver
+C00552,Megha Oak,Rajasthan,Mira-Bhayandar,2,69900.62,34950.31,2023-04-01,2024-08-07,Silver
+C00114,Wazir Tak,Uttar Pradesh,Khammam,2,69799.85,34899.93,2022-03-24,2023-10-04,Silver
+C01560,Bahadurjit Doctor,Delhi,Tiruchirappalli,2,69425.77,34712.88,2022-04-07,2024-05-17,Silver
+C01076,Azad Mand,Maharashtra,Varanasi,1,69322.77,69322.77,2024-10-28,2024-10-28,Silver
+C00217,Saksham Vora,Madhya Pradesh,Jhansi,2,69274.54,34637.27,2023-03-20,2023-03-23,Silver
+C01957,Yadavi Dutta,Rajasthan,Bhiwani,3,69239.12,23079.71,2022-04-25,2024-11-26,Silver
+C00451,Banjeet Khatri,West Bengal,Muzaffarnagar,2,69013.68,34506.84,2022-10-20,2024-11-30,Silver
+C01881,Indira Balan,Madhya Pradesh,Kota,3,68806.97,22935.66,2023-01-16,2024-04-28,Silver
+C01365,Gaurika Andra,Bihar,Kurnool,1,68494.32,68494.32,2022-06-26,2022-06-26,Silver
+C01207,Anirudh Kala,Pune,Bharatpur,2,68413.18,34206.59,2024-05-18,2024-09-28,Silver
+C01628,Fitan Sachdev,Delhi,Varanasi,1,68328.7,68328.7,2022-03-07,2022-03-07,Silver
+C00690,Frado Kakar,Pune,Bidar,2,67846.16,33923.08,2022-10-18,2024-01-06,Silver
+C01350,Kashish Ramaswamy,Delhi,Chinsurah,3,67812.86,22604.29,2023-10-26,2024-03-09,Silver
+C00601,Priya Bhasin,Odisha,Ratlam,2,67651.53,33825.76,2022-09-12,2022-12-21,Silver
+C00216,Hitesh Chowdhury,Pune,Kalyan-Dombivli,2,67570.56,33785.28,2022-10-29,2022-11-26,Silver
+C00887,Tanay Sengupta,West Bengal,Bahraich,1,67374.86,67374.86,2023-04-05,2023-04-05,Silver
+C00570,Chatura Bhat,Uttar Pradesh,Bilaspur,1,67138.73,67138.73,2023-04-29,2023-04-29,Silver
+C00086,Ekapad Babu,Delhi,Surendranagar Dudhrej,1,66921.1,66921.1,2022-05-31,2022-05-31,Silver
+C01840,Dakshesh Bobal,Tamil Nadu,Bongaigaon,3,66704.12,22234.71,2022-09-12,2024-06-20,Silver
+C01602,Dhruv Varghese,Madhya Pradesh,Varanasi,1,66664.17,66664.17,2024-11-22,2024-11-22,Silver
+C01090,Kabir Babu,Karnataka,Visakhapatnam,1,66427.56,66427.56,2024-06-01,2024-06-01,Silver
+C00536,Frado Pal,Maharashtra,Mysore,3,66412.72,22137.57,2022-10-09,2023-12-05,Silver
+C01136,Unnati Dave,West Bengal,Chandrapur,2,66335.3,33167.65,2022-11-25,2023-04-13,Silver
+C00802,Maya Pillai,Bihar,Bhiwani,2,65959.93,32979.96,2023-08-24,2023-09-20,Silver
+C01649,Indali Deo,Kerala,Ujjain,2,65797.48,32898.74,2022-05-24,2024-11-22,Silver
+C00369,Balveer Tak,Tamil Nadu,Medininagar,3,65522.41,21840.8,2022-02-01,2023-11-18,Silver
+C01271,Darsh Prabhu,Gujarat,Kalyan-Dombivli,2,65251.56,32625.78,2022-01-10,2023-05-27,Silver
+C01823,Saumya Ravi,Karnataka,Kulti,2,65097.98,32548.99,2022-03-18,2022-12-24,Silver
+C01870,Libni Mital,Karnataka,Morena,1,64928.61,64928.61,2024-11-30,2024-11-30,Silver
+C00737,Lohit Badal,West Bengal,Pimpri-Chinchwad,1,64842.31,64842.31,2022-08-24,2022-08-24,Silver
+C01524,Gauri Kale,Telangana,Baranagar,5,64731.86,12946.37,2022-01-18,2024-09-19,Silver
+C00748,Vrishti Shan,Maharashtra,Ludhiana,3,64712.61,21570.87,2023-08-21,2024-07-11,Silver
+C01256,Divya Lad,Karnataka,Bhalswa Jahangir Pur,2,64563.29,32281.65,2023-03-04,2024-10-06,Silver
+C00522,Yashica Palla,Delhi,Bhilai,3,64471.52,21490.51,2022-05-06,2024-12-28,Silver
+C01759,George Kapur,Delhi,Surat,1,64262.72,64262.72,2022-06-27,2022-06-27,Silver
+C01074,Pooja Chakraborty,Maharashtra,Delhi,3,63947.29,21315.76,2023-08-18,2024-08-11,Silver
+C01685,Falak Khanna,Telangana,Anantapuram,2,63681.27,31840.63,2024-07-15,2024-10-30,Silver
+C00266,Lohit Cherian,Maharashtra,Karaikudi,2,63219.51,31609.75,2024-07-22,2024-12-14,Silver
+C01455,Jackson Deshmukh,Telangana,Nanded,1,62853.82,62853.82,2023-09-19,2023-09-19,Silver
+C01264,Balendra Dar,Delhi,Faridabad,2,62516.73,31258.36,2023-05-18,2023-06-23,Silver
+C01994,Lakshit Salvi,Bihar,Dhanbad,3,62376.99,20792.33,2022-05-25,2023-08-02,Silver
+C00498,Vasatika Muni,Rajasthan,Hapur,1,62273.27,62273.27,2022-12-03,2022-12-03,Silver
+C00959,Siya Loke,Delhi,Nellore,2,62221.2,31110.6,2022-07-17,2023-01-20,Silver
+C00884,Omkaar Bassi,Karnataka,Satna,2,61788.35,30894.18,2023-12-15,2024-11-30,Silver
+C00470,Shivani Virk,West Bengal,Shahjahanpur,1,61726.55,61726.55,2022-07-23,2022-07-23,Silver
+C01068,Nicholas Cherian,Maharashtra,Katni,1,61690.18,61690.18,2023-03-23,2023-03-23,Silver
+C01296,Ayushman Venkataraman,Maharashtra,Etawah,1,61624.41,61624.41,2024-02-17,2024-02-17,Silver
+C00793,Christopher Sane,Kerala,Ramagundam,1,61549.02,61549.02,2022-12-21,2022-12-21,Silver
+C00320,Devansh Grover,Tamil Nadu,Jalna,2,61514.78,30757.39,2024-05-02,2024-05-06,Silver
+C00914,Tamanna Choudhry,Tamil Nadu,Proddatur,3,61247.88,20415.96,2022-07-29,2024-03-08,Silver
+C00343,Hemani Dasgupta,Delhi,Bettiah,2,61055.66,30527.83,2022-01-29,2024-06-16,Silver
+C01488,Dipta Chowdhury,Uttar Pradesh,Ichalkaranji,1,60992.88,60992.88,2022-01-03,2022-01-03,Silver
+C00693,Jack Tata,Pune,Tiruvottiyur,1,60927.7,60927.7,2024-01-19,2024-01-19,Silver
+C01130,Gautam Kala,Bihar,Vasai-Virar,2,60652.38,30326.19,2022-10-06,2024-10-08,Silver
+C00987,Dakshesh Halder,Karnataka,Tadipatri,1,60586.35,60586.35,2024-12-18,2024-12-18,Silver
+C01517,Teerth Kapadia,West Bengal,Srinagar,1,60474.32,60474.32,2022-05-14,2022-05-14,Silver
+C00507,Anya Parekh,Rajasthan,Bhilwara,2,59899.54,29949.77,2022-08-01,2022-11-02,Silver
+C00492,Gautam Mukhopadhyay,West Bengal,Rourkela,1,59808.47,59808.47,2022-12-05,2022-12-05,Silver
+C00635,Ranveer Chad,Pune,Thoothukudi,2,59479.38,29739.69,2022-07-12,2022-08-24,Silver
+C01623,Samuel Menon,Delhi,Asansol,2,59239.42,29619.71,2022-12-25,2024-08-06,Silver
+C00501,Nidhi Tripathi,Delhi,Giridih,3,59231.17,19743.72,2022-08-12,2024-11-09,Silver
+C00462,Rajeshri Mistry,Tamil Nadu,Jamnagar,3,59131.72,19710.57,2023-02-07,2024-07-19,Silver
+C00428,Anamika Pau,Telangana,Meerut,2,59025.06,29512.53,2022-04-21,2024-06-28,Silver
+C01309,Jyoti Virk,Haryana,Thoothukudi,3,58573.21,19524.4,2022-08-20,2023-08-20,Silver
+C00605,Aayush Bajwa,Rajasthan,Bardhaman,3,58247.08,19415.69,2023-07-11,2023-09-20,Silver
+C01842,Omya Solanki,Maharashtra,Mumbai,2,58011.56,29005.78,2022-01-03,2022-09-27,Silver
+C00275,Jairaj Yadav,Telangana,Kollam,1,57915.71,57915.71,2022-06-26,2022-06-26,Silver
+C01411,Jhalak Singh,Karnataka,Tezpur,1,57533.29,57533.29,2022-03-10,2022-03-10,Silver
+C00085,Matthew Lad,Tamil Nadu,Erode,2,57495.99,28747.99,2023-04-15,2024-08-22,Silver
+C00370,Chanchal Boase,Uttar Pradesh,Jaunpur,3,57469.62,19156.54,2022-07-03,2023-05-26,Silver
+C01179,Mekhala Garde,Odisha,Bahraich,1,57468.33,57468.33,2022-11-12,2022-11-12,Silver
+C01586,Jagdish Contractor,Maharashtra,Vadodara,2,57296.73,28648.37,2023-09-27,2024-09-23,Silver
+C00113,Akshay Panchal,Bihar,Rourkela,1,57032.49,57032.49,2023-06-13,2023-06-13,Silver
+C00018,Qarin Tailor,Uttar Pradesh,Vijayawada,3,56968.17,18989.39,2024-09-05,2024-12-25,Silver
+C00140,Kiaan Sridhar,Odisha,Avadi,1,56580.84,56580.84,2023-08-05,2023-08-05,Silver
+C01371,Frado Kibe,Haryana,Ajmer,2,56307.8,28153.9,2023-05-25,2023-08-16,Silver
+C00453,Viraj Varkey,Uttar Pradesh,Nagaon,2,56098.79,28049.39,2022-02-23,2022-05-31,Silver
+C00744,Yashawini Balakrishnan,Gujarat,Bhalswa Jahangir Pur,3,55672.11,18557.37,2022-01-08,2024-11-29,Silver
+C01379,Tarak Vaidya,West Bengal,Vadodara,2,55544.91,27772.45,2022-05-01,2024-11-06,Silver
+C01991,Patrick Kant,Bihar,Pali,1,55352.61,55352.61,2023-12-22,2023-12-22,Silver
+C01197,Libni Salvi,Gujarat,Tirunelveli,2,55203.13,27601.57,2022-08-13,2023-04-04,Silver
+C00998,Geetika Shere,Bihar,Panvel,3,55039.22,18346.41,2022-10-31,2024-02-06,Silver
+C01853,Simon Raju,West Bengal,Dhanbad,2,54686.79,27343.4,2023-12-21,2024-08-30,Silver
+C00264,Yatin Thakur,Maharashtra,Thane,2,54477.32,27238.66,2022-06-23,2023-11-11,Silver
+C00599,Nathaniel Pillay,Madhya Pradesh,Hospet,2,54406.46,27203.23,2022-01-03,2023-04-02,Silver
+C01077,Kai Gala,Kerala,Bongaigaon,2,54221.36,27110.68,2023-01-14,2023-07-26,Silver
+C00235,Jalsa Sodhi,Bihar,Barasat,2,54123.5,27061.75,2022-02-08,2024-07-31,Silver
+C01711,Avi Tank,Delhi,Karawal Nagar,2,54027.94,27013.97,2022-06-07,2024-08-10,Silver
+C00255,Fariq Walla,Pune,Kollam,3,53929.35,17976.45,2022-05-14,2023-09-23,Silver
+C01134,Girik Nazareth,West Bengal,Gaya,2,53766.11,26883.06,2022-11-16,2024-12-01,Silver
+C01724,Tanay Date,Kerala,Madhyamgram,1,53742.47,53742.47,2024-04-28,2024-04-28,Silver
+C00848,Wyatt Tandon,Pune,Bhubaneswar,2,53735.55,26867.78,2022-02-19,2022-06-22,Silver
+C00111,Pranit Manda,Kerala,Jalgaon,2,53381.98,26690.99,2023-10-10,2023-10-19,Silver
+C00041,Anamika Naidu,Odisha,Jorhat,1,53002.19,53002.19,2024-04-05,2024-04-05,Silver
+C01821,Azaan Bora,Rajasthan,Kanpur,1,52974.94,52974.94,2023-03-22,2023-03-22,Silver
+C01020,Zaid Krish,Karnataka,Sikar,2,52620.71,26310.35,2024-10-13,2024-12-29,Silver
+C01573,Warjas Vyas,Gujarat,Miryalaguda,3,52596.07,17532.02,2022-04-16,2024-12-12,Silver
+C00191,Jackson Trivedi,Kerala,Bhusawal,2,52390.7,26195.35,2023-12-18,2024-05-22,Silver
+C00525,Vaishnavi Parsa,Gujarat,Varanasi,1,52339.27,52339.27,2022-09-21,2022-09-21,Silver
+C01065,Amol Yadav,Rajasthan,Bhopal,2,52194.11,26097.06,2022-12-21,2024-10-16,Silver
+C00178,Andrew Doshi,Maharashtra,Salem,1,52090.08,52090.08,2022-06-28,2022-06-28,Silver
+C00326,Vanya Narasimhan,Karnataka,New Delhi,1,51729.27,51729.27,2023-04-07,2023-04-07,Silver
+C01606,William Rama,Haryana,Panvel,2,51205.28,25602.64,2022-06-08,2024-06-16,Silver
+C00784,Xavier Trivedi,Pune,Silchar,1,51112.39,51112.39,2023-04-22,2023-04-22,Silver
+C01717,Charita Buch,Telangana,Belgaum,1,50580.36,50580.36,2024-09-20,2024-09-20,Silver
+C01960,Dipta Rajagopalan,Odisha,Sonipat,1,50173.24,50173.24,2022-04-09,2022-04-09,Silver
+C00503,Pooja Tata,Uttar Pradesh,Durg,2,49397.23,24698.61,2022-02-12,2022-11-06,Bronze
+C01588,Siya Sachdeva,Maharashtra,Hospet,2,49390.88,24695.44,2023-07-16,2024-01-23,Bronze
+C00806,Guneet Thakur,West Bengal,Solapur,1,49186.57,49186.57,2024-11-23,2024-11-23,Bronze
+C00560,Radha Ratti,Rajasthan,Raichur,1,49098.05,49098.05,2024-05-04,2024-05-04,Bronze
+C01694,Yochana Dada,Rajasthan,Singrauli,1,49079.51,49079.51,2023-05-02,2023-05-02,Bronze
+C00376,David Subramaniam,Haryana,Tumkur,2,48959.0,24479.5,2022-08-16,2023-10-19,Bronze
+C01003,Falguni Butala,Madhya Pradesh,Anand,1,48836.62,48836.62,2022-02-28,2022-02-28,Bronze
+C01119,Inaya Loke,Gujarat,Aligarh,2,48823.81,24411.9,2023-06-22,2023-06-26,Bronze
+C01378,Hiral Karpe,Pune,Hindupur,2,48795.35,24397.67,2022-03-27,2023-04-06,Bronze
+C01884,Onkar Dhar,West Bengal,Bardhaman,2,48598.67,24299.33,2023-11-25,2023-12-29,Bronze
+C00079,Abhimanyu Zacharia,Madhya Pradesh,Berhampore,3,48546.74,16182.25,2023-10-05,2024-04-22,Bronze
+C01423,Anmol Kurian,Tamil Nadu,Sagar,2,48541.76,24270.88,2022-04-25,2024-03-20,Bronze
+C01746,William Sachdev,Madhya Pradesh,Jalgaon,2,48473.68,24236.84,2022-02-02,2023-08-19,Bronze
+C01816,Manbir D’Alia,Uttar Pradesh,Ulhasnagar,1,48153.03,48153.03,2022-11-19,2022-11-19,Bronze
+C00162,Harrison Nayar,Rajasthan,Shimoga,4,47894.57,11973.64,2022-06-26,2024-08-07,Bronze
+C00196,Bhavna Doctor,Maharashtra,Pondicherry,2,47326.71,23663.35,2023-05-07,2024-06-10,Bronze
+C01930,Arya Tailor,Rajasthan,Bhalswa Jahangir Pur,1,47201.4,47201.4,2023-09-06,2023-09-06,Bronze
+C00581,Zehaan Sharaf,Rajasthan,Proddatur,3,47108.64,15702.88,2022-01-21,2024-09-14,Bronze
+C01094,Ekavir Walla,Rajasthan,Hubli–Dharwad,2,47024.21,23512.1,2023-01-07,2023-05-28,Bronze
+C01833,Xiti Viswanathan,Maharashtra,Ichalkaranji,2,46994.27,23497.14,2024-04-24,2024-11-06,Bronze
+C00484,Upasna Kota,Odisha,Berhampore,2,46745.11,23372.56,2022-01-15,2023-07-24,Bronze
+C00239,Wakeeta Bath,Haryana,Mangalore,2,46745.1,23372.55,2023-06-30,2024-06-08,Bronze
+C00290,Upasna Patla,Bihar,Raebareli,1,46653.56,46653.56,2023-07-06,2023-07-06,Bronze
+C01674,Tripti Hora,Delhi,Patna,1,46104.6,46104.6,2022-01-01,2022-01-01,Bronze
+C01419,Rishi Kalita,Tamil Nadu,Eluru,2,45959.68,22979.84,2022-04-09,2023-07-27,Bronze
+C00011,Abeer Sood,Karnataka,Unnao,1,45881.44,45881.44,2023-04-27,2023-04-27,Bronze
+C00663,Om Sule,Kerala,Nanded,1,45860.54,45860.54,2024-07-15,2024-07-15,Bronze
+C01464,Ishwar Srinivasan,Karnataka,Katihar,3,45487.3,15162.43,2022-03-21,2023-08-05,Bronze
+C01805,Yug Pillay,Gujarat,Tiruppur,3,45391.85,15130.62,2023-04-05,2024-07-09,Bronze
+C01718,Oni Chaudhary,Telangana,Aizawl,1,45349.87,45349.87,2024-09-08,2024-09-08,Bronze
+C00173,Manbir Subramanian,Karnataka,Mango,1,45317.46,45317.46,2023-02-18,2023-02-18,Bronze
+C00657,Chavvi Pandey,Haryana,Tirunelveli,2,45175.41,22587.7,2022-04-03,2022-11-06,Bronze
+C00523,Samarth Prashad,Rajasthan,Belgaum,1,44882.15,44882.15,2024-04-05,2024-04-05,Bronze
+C01796,Mason Chandran,Maharashtra,Satna,1,44775.99,44775.99,2024-06-11,2024-06-11,Bronze
+C01345,Atharv Garde,Bihar,Indore,2,44568.7,22284.35,2022-04-23,2023-12-28,Bronze
+C01612,Vinaya Kapur,Maharashtra,Nizamabad,1,44385.46,44385.46,2022-09-24,2022-09-24,Bronze
+C00478,Warinder Sehgal,Uttar Pradesh,Pali,2,44343.46,22171.73,2022-01-13,2022-07-13,Bronze
+C00496,Nikita Babu,Madhya Pradesh,Adoni,2,44311.02,22155.51,2023-03-06,2023-08-17,Bronze
+C01014,Finn Jayaraman,Rajasthan,Patna,1,44305.72,44305.72,2022-08-21,2022-08-21,Bronze
+C00587,Faqid Sarraf,Pune,Malegaon,1,43927.41,43927.41,2023-10-01,2023-10-01,Bronze
+C00033,Ekalinga Hayre,Pune,Ajmer,2,43803.52,21901.76,2022-06-14,2022-12-11,Bronze
+C00819,Madhavi Dhingra,Gujarat,Dhanbad,2,43762.65,21881.32,2024-03-20,2024-08-31,Bronze
+C01081,Neha Parmar,Delhi,Gulbarga,1,43646.69,43646.69,2023-06-10,2023-06-10,Bronze
+C00247,Aarav Chowdhury,Gujarat,Vijayanagaram,2,43582.02,21791.01,2022-07-25,2023-04-14,Bronze
+C00497,Wriddhish Dutt,Pune,Navi Mumbai,3,43309.48,14436.49,2022-08-11,2023-07-30,Bronze
+C00129,Unni Chand,Odisha,Begusarai,1,43210.29,43210.29,2022-05-03,2022-05-03,Bronze
+C00986,Ira Parekh,Gujarat,Belgaum,2,43197.16,21598.58,2022-06-22,2023-12-20,Bronze
+C01318,Gopal Prabhakar,Pune,Kozhikode,2,43079.14,21539.57,2022-04-06,2022-11-30,Bronze
+C00469,Ekbal Tank,Delhi,Sirsa,1,43044.71,43044.71,2022-07-30,2022-07-30,Bronze
+C01150,Faraj Mani,Uttar Pradesh,Kakinada,2,42878.15,21439.07,2022-06-07,2023-06-23,Bronze
+C00359,Sarthak Ben,Kerala,Belgaum,3,42605.24,14201.75,2022-05-20,2024-06-06,Bronze
+C01572,Rudra Mand,Tamil Nadu,Unnao,2,42518.15,21259.08,2022-12-13,2023-02-24,Bronze
+C00647,Darsh Raj,Maharashtra,Raichur,1,42474.95,42474.95,2023-05-29,2023-05-29,Bronze
+C01742,Anusha Manne,Bihar,Kishanganj,1,42251.28,42251.28,2023-04-09,2023-04-09,Bronze
+C00213,Ikshita Yadav,Gujarat,Kakinada,1,41840.54,41840.54,2022-03-03,2022-03-03,Bronze
+C00280,Garima Kaur,Maharashtra,Srikakulam,1,41780.6,41780.6,2023-06-20,2023-06-20,Bronze
+C01176,Hemani Gopal,Rajasthan,Bhimavaram,1,41668.09,41668.09,2023-04-05,2023-04-05,Bronze
+C01526,Jagrati Devi,Bihar,Meerut,2,41625.71,20812.85,2023-09-09,2023-09-16,Bronze
+C01338,Panini Jayaraman,Odisha,Dehri,1,41474.16,41474.16,2024-05-06,2024-05-06,Bronze
+C01869,Mason Kala,Kerala,Bhagalpur,2,41310.88,20655.44,2022-02-24,2023-03-11,Bronze
+C00377,Aarav Sarma,Maharashtra,Sri Ganganagar,2,41012.88,20506.44,2022-06-17,2022-12-14,Bronze
+C00908,Bahadurjit Nath,Uttar Pradesh,Patiala,2,40817.08,20408.54,2024-06-23,2024-07-22,Bronze
+C01330,Ishanvi Deshmukh,West Bengal,Bhilai,1,40576.35,40576.35,2023-06-06,2023-06-06,Bronze
+C00460,Adya Goswami,Kerala,Maheshtala,2,40481.51,20240.75,2022-01-19,2023-03-26,Bronze
+C00229,Nimrat Dey,Haryana,Madurai,2,40379.98,20189.99,2023-01-30,2024-12-15,Bronze
+C00330,Maanas Rege,Rajasthan,Gangtok,1,40350.84,40350.84,2022-06-24,2022-06-24,Bronze
+C01088,Anay Jain,Haryana,Bettiah,1,40123.52,40123.52,2022-02-14,2022-02-14,Bronze
+C01906,Aarini Srivastava,Haryana,Bhiwani,1,39896.07,39896.07,2024-02-01,2024-02-01,Bronze
+C00608,Akshay Puri,Pune,Cuttack,1,39658.7,39658.7,2023-11-12,2023-11-12,Bronze
+C01534,Baghyawati Wali,Rajasthan,Shahjahanpur,1,39499.32,39499.32,2022-07-03,2022-07-03,Bronze
+C00325,Lucky Srivastava,Pune,Medininagar,1,39354.88,39354.88,2024-01-13,2024-01-13,Bronze
+C01062,Anirudh Varma,Odisha,Mau,2,39218.62,19609.31,2022-02-12,2023-04-13,Bronze
+C01857,Saksham Lad,West Bengal,Ulhasnagar,2,38948.4,19474.2,2022-08-07,2024-10-11,Bronze
+C00937,Chandresh Gopal,Bihar,Ahmedabad,5,38370.41,7674.08,2022-05-23,2023-12-25,Bronze
+C00985,Yatan Choudhary,Telangana,Kulti,1,38316.41,38316.41,2023-09-27,2023-09-27,Bronze
+C00292,Saanvi Sheth,Telangana,Tenali,2,38291.64,19145.82,2024-01-27,2024-11-12,Bronze
+C01536,Faraj Chakrabarti,Uttar Pradesh,Haridwar,2,37883.48,18941.74,2022-04-25,2024-02-12,Bronze
+C00568,Anya Soman,Karnataka,Serampore,1,37815.91,37815.91,2023-03-05,2023-03-05,Bronze
+C00152,Priya Varghese,Pune,Dewas,1,37331.8,37331.8,2022-07-06,2022-07-06,Bronze
+C01481,Dipta Chatterjee,Odisha,Vijayanagaram,2,37322.37,18661.18,2022-08-21,2024-10-14,Bronze
+C00633,Mugdha Seth,Telangana,Bijapur,1,37149.73,37149.73,2022-12-20,2022-12-20,Bronze
+C00012,Abeer Deep,Rajasthan,Moradabad,1,37111.88,37111.88,2022-10-30,2022-10-30,Bronze
+C00362,Zashil Sani,Haryana,Ongole,1,36986.2,36986.2,2022-03-28,2022-03-28,Bronze
+C01543,Caleb Prabhakar,Pune,Rohtak,2,36944.71,18472.35,2023-03-11,2024-12-13,Bronze
+C00839,Odika Kaul,Karnataka,Ujjain,2,36895.05,18447.53,2022-01-19,2022-06-18,Bronze
+C00930,Tanvi Singh,Maharashtra,Dehradun,2,36799.67,18399.83,2024-06-05,2024-08-20,Bronze
+C00634,Matthew Sachar,Rajasthan,Pondicherry,2,36686.91,18343.46,2022-02-22,2023-09-05,Bronze
+C00463,Tarak Sama,Odisha,Orai,1,36581.87,36581.87,2024-11-01,2024-11-01,Bronze
+C00153,Chaitaly Soni,West Bengal,Salem,2,36424.19,18212.1,2022-07-25,2022-10-25,Bronze
+C01172,Gopal Setty,Karnataka,Vadodara,2,36391.96,18195.98,2022-12-01,2024-09-17,Bronze
+C00566,Amruta Guha,Pune,Guwahati,2,36176.36,18088.18,2023-08-05,2024-07-17,Bronze
+C01183,Darpan Agate,Pune,Tenali,2,36162.72,18081.36,2022-12-05,2024-01-15,Bronze
+C00175,Daksha Sachar,Odisha,Berhampore,3,36142.71,12047.57,2023-08-18,2024-12-24,Bronze
+C00212,Upma Hayer,Karnataka,Durg,1,35996.57,35996.57,2023-08-11,2023-08-11,Bronze
+C01671,Vrishti Patla,Kerala,Mathura,1,35955.26,35955.26,2022-01-11,2022-01-11,Bronze
+C00006,Sneha Jaggi,Uttar Pradesh,Nandyal,2,35767.48,17883.74,2023-01-08,2024-11-30,Bronze
+C00900,Gaurangi Bassi,Rajasthan,Pondicherry,1,35462.28,35462.28,2022-02-17,2022-02-17,Bronze
+C01942,Yashasvi Divan,Maharashtra,Sonipat,2,34962.11,17481.06,2022-12-09,2023-01-09,Bronze
+C01879,Naveen Raval,Haryana,Kochi,1,34868.43,34868.43,2023-03-18,2023-03-18,Bronze
+C01428,Odika Mall,Madhya Pradesh,Vijayawada,2,34555.57,17277.78,2022-11-16,2024-05-10,Bronze
+C00277,Tanmayi Madan,Uttar Pradesh,Karimnagar,1,34333.83,34333.83,2023-06-15,2023-06-15,Bronze
+C00591,George Bajaj,Delhi,Sultan Pur Majra,1,34090.57,34090.57,2022-04-03,2022-04-03,Bronze
+C00143,Chandran Oak,Maharashtra,Jamnagar,1,33802.74,33802.74,2023-08-05,2023-08-05,Bronze
+C01967,Akshay Bhatti,Madhya Pradesh,Pune,3,33348.25,11116.08,2022-07-23,2023-11-20,Bronze
+C01148,Raksha Vohra,Tamil Nadu,Avadi,2,33289.3,16644.65,2023-04-14,2023-06-05,Bronze
+C01876,Niharika Ahuja,Telangana,Gurgaon,1,32836.03,32836.03,2024-04-06,2024-04-06,Bronze
+C01500,Aarini Doctor,Tamil Nadu,Kurnool,2,32563.17,16281.59,2023-07-28,2023-10-29,Bronze
+C01255,Umang Mukhopadhyay,Karnataka,Khora ,1,32406.94,32406.94,2024-01-04,2024-01-04,Bronze
+C01702,Omkaar Vohra,Delhi,Ahmedabad,2,32251.99,16125.99,2023-07-24,2024-01-01,Bronze
+C00593,Adweta Goyal,Gujarat,Sultan Pur Majra,2,32008.47,16004.24,2022-02-08,2024-07-12,Bronze
+C01847,Vedhika Devi,Delhi,Gulbarga,1,31999.74,31999.74,2022-01-11,2022-01-11,Bronze
+C01097,Orinder Barad,Gujarat,Satna,2,31949.34,15974.67,2022-07-01,2022-10-19,Bronze
+C00816,Aarnav Sant,Uttar Pradesh,Satara,2,31376.83,15688.42,2022-01-10,2023-06-26,Bronze
+C01618,Mekhala Rao,Delhi,Karawal Nagar,4,31351.26,7837.82,2022-10-15,2023-12-03,Bronze
+C01425,Vrishti Menon,Gujarat,Nashik,1,30853.04,30853.04,2022-01-23,2022-01-23,Bronze
+C01435,Lakshmi Comar,Gujarat,Uluberia,1,30704.49,30704.49,2024-06-19,2024-06-19,Bronze
+C01089,Diya Sandal,Haryana,Berhampore,1,30672.02,30672.02,2024-07-25,2024-07-25,Bronze
+C01284,Upadhriti Gour,Karnataka,Dhule,1,30638.75,30638.75,2024-05-14,2024-05-14,Bronze
+C00147,Aarnav Chandra,Maharashtra,Kollam,1,30476.15,30476.15,2024-01-12,2024-01-12,Bronze
+C00059,Hiral Chaudhuri,Telangana,Chennai,4,30348.49,7587.12,2022-05-17,2024-09-16,Bronze
+C00051,Yatin Ben,Kerala,Sonipat,3,30236.69,10078.9,2022-11-12,2024-12-15,Bronze
+C01491,Rachita Chandra,West Bengal,Lucknow,2,30225.05,15112.52,2023-06-19,2024-04-28,Bronze
+C00073,Dominic Kalita,Tamil Nadu,Davanagere,1,30130.92,30130.92,2024-12-14,2024-12-14,Bronze
+C00723,Pallavi Loke,Delhi,Vasai-Virar,1,29794.92,29794.92,2022-05-09,2022-05-09,Bronze
+C01666,Shaurya Kala,Odisha,Morena,1,29576.24,29576.24,2024-07-22,2024-07-22,Bronze
+C00917,Isaiah Bhalla,Pune,Durgapur,3,29510.24,9836.75,2022-01-03,2023-04-11,Bronze
+C00293,Darsh Hora,Kerala,Vasai-Virar,2,29175.63,14587.81,2024-04-07,2024-05-29,Bronze
+C01445,Bhavna Bhagat,Odisha,Chennai,1,28791.84,28791.84,2022-10-01,2022-10-01,Bronze
+C00592,Gopal Char,Bihar,Mumbai,1,28740.25,28740.25,2023-01-24,2023-01-24,Bronze
+C01416,Qadim Panchal,Odisha,Junagadh,3,28432.95,9477.65,2023-07-07,2023-12-02,Bronze
+C00952,Urvi Sabharwal,Madhya Pradesh,Kollam,1,28152.98,28152.98,2022-02-12,2022-02-12,Bronze
+C01290,Farhan Sekhon,Gujarat,Barasat,1,28098.8,28098.8,2023-03-23,2023-03-23,Bronze
+C01165,Frederick Shanker,Uttar Pradesh,Gandhidham,1,28004.22,28004.22,2024-07-02,2024-07-02,Bronze
+C00834,Vedika Bahl,Gujarat,Sri Ganganagar,1,27874.38,27874.38,2024-11-30,2024-11-30,Bronze
+C01750,Luke Balasubramanian,Gujarat,Bathinda,1,27781.81,27781.81,2024-08-30,2024-08-30,Bronze
+C01882,Isaac Patla,Maharashtra,Firozabad,1,27157.73,27157.73,2022-02-04,2022-02-04,Bronze
+C00046,Isaiah Nanda,Bihar,Begusarai,1,26997.52,26997.52,2023-01-07,2023-01-07,Bronze
+C01727,Mitesh Narula,Pune,Amaravati,3,26846.09,8948.7,2023-12-18,2024-10-07,Bronze
+C00029,Christopher Bakshi,Kerala,Amroha,2,26601.48,13300.74,2022-06-14,2024-01-29,Bronze
+C00717,Varenya Raval,West Bengal,Meerut,1,26506.5,26506.5,2022-05-05,2022-05-05,Bronze
+C01299,Harita Nayar,Maharashtra,Mangalore,2,26483.64,13241.82,2022-04-14,2022-09-23,Bronze
+C01368,Aahana Chahal,Telangana,Karnal,2,26165.57,13082.78,2022-02-08,2022-11-09,Bronze
+C01257,Orinder De,Odisha,Malegaon,3,26095.29,8698.43,2022-01-30,2022-10-08,Bronze
+C01499,Darika Munshi,Tamil Nadu,Dindigul,2,25811.9,12905.95,2022-08-25,2023-01-29,Bronze
+C00072,Meghana Bedi,Delhi,Firozabad,1,25713.53,25713.53,2022-11-14,2022-11-14,Bronze
+C00499,Kiaan Talwar,Pune,Sagar,1,25543.01,25543.01,2022-01-19,2022-01-19,Bronze
+C00025,Wahab Yohannan,Kerala,Saharanpur,1,25408.56,25408.56,2022-08-13,2022-08-13,Bronze
+C01434,Hemani Gala,Tamil Nadu,Etawah,2,25340.6,12670.3,2022-01-01,2023-06-11,Bronze
+C00223,Matthew Saraf,Kerala,Uluberia,1,25111.09,25111.09,2023-03-09,2023-03-09,Bronze
+C00621,Balhaar Bahri,Bihar,Salem,1,25063.22,25063.22,2023-05-15,2023-05-15,Bronze
+C00253,Anamika Bora,Maharashtra,Ratlam,2,25021.0,12510.5,2023-10-23,2023-12-27,Bronze
+C01636,Ansh Som,Madhya Pradesh,Dharmavaram,3,24950.23,8316.74,2022-07-16,2023-06-16,Bronze
+C00770,Adya Chauhan,Haryana,Nanded,1,24915.6,24915.6,2022-12-13,2022-12-13,Bronze
+C01730,Fitan Baral,Uttar Pradesh,Shahjahanpur,3,24807.46,8269.15,2022-04-06,2023-07-12,Bronze
+C00565,Vritti Mann,Kerala,Secunderabad,1,24690.7,24690.7,2023-03-09,2023-03-09,Bronze
+C00610,Jyoti Setty,Telangana,Mira-Bhayandar,1,24599.34,24599.34,2022-03-22,2022-03-22,Bronze
+C01275,Frederick Bhatti,Gujarat,Medininagar,2,24214.61,12107.31,2022-04-04,2022-10-29,Bronze
+C00572,Harini Kant,Karnataka,Thiruvananthapuram,2,24177.87,12088.93,2023-08-24,2024-06-25,Bronze
+C01412,Dalbir Pandya,Uttar Pradesh,South Dumdum,1,24168.07,24168.07,2022-09-05,2022-09-05,Bronze
+C00367,Logan Savant,Karnataka,Dehri,1,24121.33,24121.33,2022-06-07,2022-06-07,Bronze
+C01019,Ishaan Dass,Gujarat,Sambhal,1,24036.53,24036.53,2024-01-04,2024-01-04,Bronze
+C00778,Kritika Walia,Telangana,Kirari Suleman Nagar,2,23840.71,11920.35,2024-09-09,2024-09-15,Bronze
+C00995,Rishi Chanda,Karnataka,Bhagalpur,2,23604.35,11802.17,2024-03-03,2024-06-12,Bronze
+C00294,Aarnav Kuruvilla,Pune,Saharsa,1,23488.94,23488.94,2022-11-22,2022-11-22,Bronze
+C01872,Advay Setty,Gujarat,Belgaum,1,23383.43,23383.43,2023-03-19,2023-03-19,Bronze
+C01924,Wyatt Khare,Rajasthan,Latur,1,23347.51,23347.51,2023-08-15,2023-08-15,Bronze
+C01274,Benjamin Dugal,Uttar Pradesh,Bareilly,2,23019.3,11509.65,2022-07-11,2023-10-13,Bronze
+C01978,Pooja Krishnamurthy,Delhi,Baranagar,1,22872.16,22872.16,2023-09-29,2023-09-29,Bronze
+C00764,Hemangini Dugar,Telangana,Gandhidham,3,22698.33,7566.11,2023-09-02,2024-04-23,Bronze
+C01393,Xavier Hayre,Maharashtra,Jaipur,1,22565.13,22565.13,2022-11-14,2022-11-14,Bronze
+C01700,Sarthak Sandhu,Madhya Pradesh,Dehri,2,22358.76,11179.38,2023-07-01,2024-03-12,Bronze
+C00378,Charita Nagy,Uttar Pradesh,Gopalpur,1,22347.63,22347.63,2023-01-21,2023-01-21,Bronze
+C01469,Sanya Konda,Haryana,Sambhal,1,22339.78,22339.78,2023-12-15,2023-12-15,Bronze
+C00412,Vasudha Konda,Haryana,Bijapur,1,22102.57,22102.57,2024-06-06,2024-06-06,Bronze
+C01402,Mohini Hegde,Uttar Pradesh,Bhiwani,1,22092.08,22092.08,2024-01-27,2024-01-27,Bronze
+C00697,Mohini Mistry,Delhi,Bareilly,1,21875.44,21875.44,2023-05-24,2023-05-24,Bronze
+C01926,Bhavna Magar,Karnataka,Karnal,1,21523.12,21523.12,2022-09-05,2022-09-05,Bronze
+C00771,Hamsini Dash,Telangana,Kurnool,1,21440.09,21440.09,2023-11-12,2023-11-12,Bronze
+C01440,Indira Bhavsar,Pune,Kolkata,2,21423.84,10711.92,2023-06-21,2023-09-04,Bronze
+C00656,Quincy Chand,Kerala,North Dumdum,1,21334.35,21334.35,2022-10-12,2022-10-12,Bronze
+C00401,Frado Pandit,Maharashtra,Giridih,3,21288.45,7096.15,2023-11-08,2024-09-07,Bronze
+C01803,Watika Nagar,Delhi,Jamshedpur,1,20660.63,20660.63,2024-01-13,2024-01-13,Bronze
+C00298,Bhavya Dalal,Rajasthan,Buxar,1,20640.74,20640.74,2022-08-08,2022-08-08,Bronze
+C01950,Xavier Dhar,Delhi,Ambarnath,2,20436.46,10218.23,2023-04-20,2024-01-06,Bronze
+C01155,Tanvi Mann,Odisha,Akola,3,20263.61,6754.54,2022-07-25,2023-05-13,Bronze
+C01144,Rachit Chacko,Odisha,Hapur,2,20192.61,10096.31,2022-07-04,2023-06-15,Bronze
+C00777,Ekaja Gopal,Madhya Pradesh,Burhanpur,1,20061.87,20061.87,2023-05-01,2023-05-01,Bronze
+C01466,Tejas Tak,Tamil Nadu,Agartala,2,19915.21,9957.6,2022-08-05,2024-04-04,Bronze
+C01231,Nilima Magar,Uttar Pradesh,Miryalaguda,1,19810.96,19810.96,2024-02-24,2024-02-24,Bronze
+C00133,Wakeeta Kala,Rajasthan,Asansol,1,19729.85,19729.85,2023-09-01,2023-09-01,Bronze
+C00792,Eiravati Shere,Odisha,Bhusawal,1,19534.21,19534.21,2023-12-31,2023-12-31,Bronze
+C00405,Suhani Acharya,Uttar Pradesh,Anantapuram,1,19436.12,19436.12,2023-02-07,2023-02-07,Bronze
+C01151,Dalaja Tank,Maharashtra,Kalyan-Dombivli,1,19424.0,19424.0,2023-03-02,2023-03-02,Bronze
+C01110,Dalaja Chana,Pune,Sonipat,1,19418.08,19418.08,2024-03-08,2024-03-08,Bronze
+C00323,Neelima Chahal,Tamil Nadu,Anantapur,1,19389.66,19389.66,2024-03-25,2024-03-25,Bronze
+C00637,Chatresh Sarma,Gujarat,Orai,3,19365.08,6455.03,2022-02-17,2024-08-14,Bronze
+C00967,Mitali Bava,Gujarat,Tenali,3,19150.45,6383.48,2023-05-13,2024-09-21,Bronze
+C01691,Zaitra Sabharwal,Pune,Mira-Bhayandar,1,19142.32,19142.32,2024-05-06,2024-05-06,Bronze
+C00553,Charita Trivedi,Tamil Nadu,Agartala,2,19057.01,9528.51,2024-05-07,2024-07-14,Bronze
+C00053,Chaitanya Dar,Tamil Nadu,Gulbarga,2,18940.41,9470.2,2023-05-16,2024-12-17,Bronze
+C01080,Samuel Chacko,Telangana,Kurnool,3,18906.52,6302.17,2022-06-01,2023-09-08,Bronze
+C00918,Raagini Modi,Kerala,Bally,2,18844.44,9422.22,2022-07-12,2024-11-28,Bronze
+C00305,Gautam Bains,Uttar Pradesh,Mumbai,1,18541.47,18541.47,2023-08-05,2023-08-05,Bronze
+C01599,Ladli Ratta,Maharashtra,Delhi,2,18469.86,9234.93,2022-06-13,2023-06-29,Bronze
+C00743,Lohit Luthra,West Bengal,Bhusawal,1,18375.91,18375.91,2022-03-11,2022-03-11,Bronze
+C00422,Advaith Sagar,Karnataka,Udaipur,1,18193.8,18193.8,2023-03-02,2023-03-02,Bronze
+C00585,Yasti Chadha,Telangana,Malda,1,18157.14,18157.14,2023-08-07,2023-08-07,Bronze
+C01341,Anvi Koshy,Bihar,Medininagar,1,18022.22,18022.22,2024-09-01,2024-09-01,Bronze
+C01024,Yagnesh Balasubramanian,Maharashtra,Aligarh,1,17971.26,17971.26,2024-09-10,2024-09-10,Bronze
+C00682,Farhan Goswami,Bihar,Madhyamgram,1,17680.7,17680.7,2023-06-15,2023-06-15,Bronze
+C01688,Chatresh Dhingra,Rajasthan,Guntur,2,17675.87,8837.94,2022-04-12,2022-09-04,Bronze
+C01913,Varsha Sahni,Rajasthan,Ichalkaranji,1,17518.75,17518.75,2024-05-19,2024-05-19,Bronze
+C01971,Nidra Edwin,Pune,Bongaigaon,1,17075.93,17075.93,2024-06-07,2024-06-07,Bronze
+C00142,Netra Dugal,Karnataka,Dharmavaram,2,17049.87,8524.93,2022-05-19,2024-11-20,Bronze
+C00318,Balvan Swaminathan,Madhya Pradesh,Jaipur,1,16839.17,16839.17,2024-10-11,2024-10-11,Bronze
+C00588,Abdul Pandya,Pune,Kirari Suleman Nagar,1,16810.82,16810.82,2022-03-24,2022-03-24,Bronze
+C01683,Nimrat Dar,Telangana,Bhopal,2,16800.45,8400.23,2023-02-21,2024-08-04,Bronze
+C00846,Xiti Sama,Kerala,Arrah,1,16698.01,16698.01,2022-08-17,2022-08-17,Bronze
+C01986,Neelima Rastogi,Haryana,Guntakal,3,16638.72,5546.24,2022-01-03,2024-08-24,Bronze
+C00044,Widisha Korpal,Kerala,Satna,2,16376.44,8188.22,2022-02-11,2023-08-16,Bronze
+C01546,Jai Chandran,Telangana,Farrukhabad,2,15990.52,7995.26,2022-02-27,2024-01-02,Bronze
+C00687,Dhriti Deep,Karnataka,Naihati,1,15770.61,15770.61,2024-09-19,2024-09-19,Bronze
+C01596,Qasim Bera,Odisha,Agra,2,15764.55,7882.27,2023-06-04,2023-09-10,Bronze
+C00182,Chaman Saran,Odisha,Faridabad,1,15728.27,15728.27,2022-06-19,2022-06-19,Bronze
+C01747,Vidhi Batra,West Bengal,Loni,2,15710.61,7855.31,2022-05-07,2022-11-15,Bronze
+C00521,Geetika Modi,Delhi,Suryapet,1,15437.34,15437.34,2024-01-03,2024-01-03,Bronze
+C00906,Guneet Master,Gujarat,Siwan,1,15192.93,15192.93,2024-10-12,2024-10-12,Bronze
+C01513,Anmol Goda,Karnataka,Serampore,1,14925.42,14925.42,2022-10-18,2022-10-18,Bronze
+C01357,Victor Rai,Kerala,Lucknow,1,14915.25,14915.25,2022-04-11,2022-04-11,Bronze
+C00077,Dhruv Mitter,Rajasthan,Nanded,3,14772.56,4924.19,2022-04-14,2024-08-14,Bronze
+C01270,Jairaj Tandon,Gujarat,Purnia,1,14763.59,14763.59,2023-01-30,2023-01-30,Bronze
+C00976,Daksha Patil,Odisha,Sangli-Miraj & Kupwad,2,14704.74,7352.37,2023-05-18,2023-09-02,Bronze
+C00471,Ucchal Sathe,Pune,Rajpur Sonarpur,1,14567.96,14567.96,2024-04-07,2024-04-07,Bronze
+C01268,Mekhala Kara,Tamil Nadu,Rampur,2,14477.62,7238.81,2022-03-22,2023-07-20,Bronze
+C01616,Charan Krish,Uttar Pradesh,Kavali,1,14339.61,14339.61,2024-07-21,2024-07-21,Bronze
+C01652,Falak Ratti,Madhya Pradesh,Arrah,1,14277.53,14277.53,2023-03-02,2023-03-02,Bronze
+C00751,Aishani Mohan,Madhya Pradesh,Gandhidham,2,14096.84,7048.42,2023-06-13,2024-06-10,Bronze
+C01860,Bachittar Sami,Uttar Pradesh,Ongole,1,14035.65,14035.65,2024-12-18,2024-12-18,Bronze
+C00009,Shivansh Palla,Rajasthan,New Delhi,1,13929.22,13929.22,2022-12-29,2022-12-29,Bronze
+C01880,Nachiket Srinivasan,Maharashtra,Ahmednagar,1,13821.76,13821.76,2024-07-24,2024-07-24,Bronze
+C00262,Jalsa Samra,West Bengal,Nandyal,1,13718.61,13718.61,2024-03-22,2024-03-22,Bronze
+C01448,Sai Banik,Madhya Pradesh,Kurnool,1,13522.8,13522.8,2022-07-05,2022-07-05,Bronze
+C01792,Krishna Sethi,Telangana,Tinsukia,1,13289.78,13289.78,2023-10-25,2023-10-25,Bronze
+C00729,Vanya Mitra,Telangana,Pallavaram,1,13228.12,13228.12,2024-10-20,2024-10-20,Bronze
+C00419,Amruta Kar,Gujarat,Motihari,1,12871.2,12871.2,2023-06-15,2023-06-15,Bronze
+C01123,Vrinda Salvi,Telangana,Gulbarga,1,12832.67,12832.67,2024-07-14,2024-07-14,Bronze
+C01693,Yug Sodhi,Maharashtra,Patiala,1,12631.69,12631.69,2023-12-17,2023-12-17,Bronze
+C00219,Krishna Tella,West Bengal,Satna,1,12483.3,12483.3,2024-03-05,2024-03-05,Bronze
+C01736,Vihaan Chad,Bihar,Raiganj,2,12126.25,6063.13,2022-04-29,2024-06-11,Bronze
+C01358,Naveen Khatri,Madhya Pradesh,Kamarhati,1,12112.73,12112.73,2023-02-24,2023-02-24,Bronze
+C00038,Adweta Rajagopalan,Maharashtra,Saharsa,1,11960.08,11960.08,2024-11-13,2024-11-13,Bronze
+C01085,Zansi Arya,Madhya Pradesh,Kochi,1,11905.37,11905.37,2024-12-01,2024-12-01,Bronze
+C00921,Madhavi Hora,Kerala,Latur,1,11887.35,11887.35,2022-05-27,2022-05-27,Bronze
+C00669,Ladli Hegde,Telangana,Chennai,1,11822.45,11822.45,2022-01-20,2022-01-20,Bronze
+C01707,Jason Rau,Tamil Nadu,Jalandhar,1,11809.85,11809.85,2023-10-16,2023-10-16,Bronze
+C01482,Fitan Saini,Pune,Bhimavaram,1,11573.17,11573.17,2024-11-08,2024-11-08,Bronze
+C01720,Yashasvi Gulati,Bihar,Medininagar,1,11402.09,11402.09,2023-08-28,2023-08-28,Bronze
+C00871,Harshil Mane,Pune,Gorakhpur,1,11176.27,11176.27,2024-08-13,2024-08-13,Bronze
+C00099,Mahika Thakkar,Pune,Mira-Bhayandar,2,11162.6,5581.3,2023-05-31,2023-08-09,Bronze
+C01294,Oeshi Wali,Maharashtra,Kakinada,2,11124.54,5562.27,2022-05-12,2024-11-06,Bronze
+C01610,Jairaj Sen,Bihar,Anantapur,1,11107.05,11107.05,2024-06-24,2024-06-24,Bronze
+C01182,Januja Bora,Delhi,Bhilai,1,10922.26,10922.26,2023-10-17,2023-10-17,Bronze
+C00550,Ekantika Padmanabhan,Kerala,Adoni,1,10756.7,10756.7,2024-12-29,2024-12-29,Bronze
+C01601,Ekta Randhawa,Maharashtra,Jaipur,1,10369.49,10369.49,2024-05-30,2024-05-30,Bronze
+C01699,Bhavini Karpe,Tamil Nadu,Dindigul,2,10340.17,5170.09,2023-11-13,2024-04-22,Bronze
+C00354,Jairaj Gour,Kerala,Bellary,1,10308.86,10308.86,2024-11-28,2024-11-28,Bronze
+C01418,Chaaya Choudhury,Maharashtra,Gorakhpur,2,10216.18,5108.09,2024-03-30,2024-10-21,Bronze
+C00936,Reva Panchal,Madhya Pradesh,Bangalore,1,10200.98,10200.98,2024-07-31,2024-07-31,Bronze
+C00779,Quincy Sinha,Pune,Raiganj,1,10169.9,10169.9,2023-03-03,2023-03-03,Bronze
+C01885,Unni Andra,Rajasthan,Anantapuram,2,10153.89,5076.94,2023-06-10,2024-06-06,Bronze
+C00849,Vasudha Raman,Tamil Nadu,Ajmer,1,10111.29,10111.29,2024-03-29,2024-03-29,Bronze
+C00991,Girik Pingle,Telangana,Nashik,1,10049.11,10049.11,2022-08-06,2022-08-06,Bronze
+C01658,Krishna Kota,Uttar Pradesh,Vasai-Virar,2,9644.99,4822.49,2022-02-01,2024-04-23,Bronze
+C01128,Yashasvi Wable,Delhi,Ballia,1,9627.71,9627.71,2024-11-16,2024-11-16,Bronze
+C01443,Siddharth Dada,Gujarat,Begusarai,2,9560.32,4780.16,2022-11-09,2024-04-15,Bronze
+C01558,Orinder Agate,Delhi,Noida,1,9539.95,9539.95,2024-05-21,2024-05-21,Bronze
+C01715,Ladli Mannan,Kerala,Bilaspur,1,9372.71,9372.71,2022-03-16,2022-03-16,Bronze
+C01898,Gautami Sheth,Gujarat,Orai,1,9361.42,9361.42,2024-01-22,2024-01-22,Bronze
+C01670,Chaitaly Dasgupta,Maharashtra,Bokaro,1,9323.12,9323.12,2022-08-22,2022-08-22,Bronze
+C01082,Urvashi Nayar,Gujarat,Kavali,1,9255.94,9255.94,2024-12-20,2024-12-20,Bronze
+C01608,Chaitaly Dube,Karnataka,Raebareli,1,9243.26,9243.26,2022-06-09,2022-06-09,Bronze
+C00928,Veer Chada,Maharashtra,Gudivada,1,8976.02,8976.02,2023-04-24,2023-04-24,Bronze
+C01322,Rishi Suri,Uttar Pradesh,Jamalpur,1,8927.67,8927.67,2024-02-03,2024-02-03,Bronze
+C01317,Kashish Swaminathan,Rajasthan,Guna,1,8877.69,8877.69,2022-01-19,2022-01-19,Bronze
+C00666,Baghyawati Wadhwa,Madhya Pradesh,Karawal Nagar,1,8820.53,8820.53,2024-11-26,2024-11-26,Bronze
+C01987,Siddharth Deshpande,Rajasthan,Nangloi Jat,1,8619.59,8619.59,2024-06-22,2024-06-22,Bronze
+C01286,Oeshi Tara,Kerala,Pune,2,8511.95,4255.98,2022-09-27,2022-11-22,Bronze
+C01121,Parth Chhabra,Gujarat,Bettiah,1,7987.26,7987.26,2022-07-24,2022-07-24,Bronze
+C00733,Prisha Pant,Madhya Pradesh,Gorakhpur,1,7968.12,7968.12,2023-07-04,2023-07-04,Bronze
+C01472,David Chaudhry,Tamil Nadu,Nellore,1,7948.17,7948.17,2024-06-11,2024-06-11,Bronze
+C00433,Chanchal Sridhar,Maharashtra,Kurnool,1,7907.91,7907.91,2023-08-03,2023-08-03,Bronze
+C00118,Veda Karan,Odisha,Howrah,1,7680.72,7680.72,2023-11-08,2023-11-08,Bronze
+C01650,Qushi Kaur,Delhi,Nellore,1,7616.19,7616.19,2022-09-09,2022-09-09,Bronze
+C00195,Wridesh Narain,Rajasthan,Bhusawal,1,7316.21,7316.21,2023-03-19,2023-03-19,Bronze
+C00873,Yug Sekhon,Madhya Pradesh,Faridabad,1,7227.31,7227.31,2023-01-12,2023-01-12,Bronze
+C00603,Kritika Mutti,Gujarat,Karawal Nagar,1,7062.76,7062.76,2023-11-17,2023-11-17,Bronze
+C01739,Falguni Parsa,Delhi,Kolkata,1,6992.81,6992.81,2024-10-12,2024-10-12,Bronze
+C00200,Ethan Brar,Bihar,Panvel,1,6827.14,6827.14,2022-12-27,2022-12-27,Bronze
+C00461,Warinder Mammen,Maharashtra,Kavali,1,6327.43,6327.43,2023-03-23,2023-03-23,Bronze
+C01227,Oni Devan,Tamil Nadu,Begusarai,1,6282.45,6282.45,2023-05-02,2023-05-02,Bronze
+C01706,Libni Chawla,Telangana,Maheshtala,1,6215.02,6215.02,2024-09-26,2024-09-26,Bronze
+C01801,Chandran Pal,Pune,Anantapuram,1,5819.71,5819.71,2023-06-18,2023-06-18,Bronze
+C00161,Barkha Lad,Rajasthan,Buxar,1,5691.43,5691.43,2022-10-14,2022-10-14,Bronze
+C01344,Hritik Jaggi,Delhi,Deoghar,1,5668.93,5668.93,2022-04-23,2022-04-23,Bronze
+C00220,Jasmit Anne,Telangana,Mangalore,1,5387.52,5387.52,2022-03-19,2022-03-19,Bronze
+C01531,Jatin Garg,Maharashtra,Kanpur,1,5312.44,5312.44,2022-04-04,2022-04-04,Bronze
+C01940,Nilima Hegde,Pune,Deoghar,1,5311.11,5311.11,2023-12-14,2023-12-14,Bronze
+C01030,Chandresh Narayanan,Haryana,Bilaspur,1,4722.9,4722.9,2022-08-03,2022-08-03,Bronze
+C00901,Jagvi Choudhry,West Bengal,Belgaum,1,4474.53,4474.53,2022-02-08,2022-02-08,Bronze
+C00556,Aayush Wali,Tamil Nadu,Gangtok,1,4182.16,4182.16,2024-11-12,2024-11-12,Bronze
+C00393,Manbir Nath,Delhi,Sri Ganganagar,1,3811.06,3811.06,2024-07-28,2024-07-28,Bronze
+C00582,Odika Sinha,Odisha,Kulti,1,3787.02,3787.02,2024-10-12,2024-10-12,Bronze
+C01644,Amara Borde,Delhi,Darbhanga,1,3785.83,3785.83,2024-04-15,2024-04-15,Bronze
+C00420,Orinder Oak,Gujarat,Latur,1,3738.3,3738.3,2022-09-25,2022-09-25,Bronze
+C01955,Simon Ghose,Pune,Kirari Suleman Nagar,1,3338.59,3338.59,2024-09-26,2024-09-26,Bronze
+C01040,Ranveer Sampath,Delhi,Loni,1,3263.11,3263.11,2022-02-04,2022-02-04,Bronze
+C01624,Ekaja Bhatt,Delhi,Gandhinagar,2,3133.73,1566.87,2022-05-11,2023-12-30,Bronze
+C01678,Wriddhish Dey,Uttar Pradesh,Mahbubnagar,1,3130.78,3130.78,2022-03-04,2022-03-04,Bronze
+C01018,Harita Narayanan,Gujarat,Panipat,1,3122.15,3122.15,2022-09-04,2022-09-04,Bronze
+C01454,Hamsini Gala,Uttar Pradesh,Naihati,1,3092.45,3092.45,2023-08-20,2023-08-20,Bronze
+C01762,Saanvi Pillai,Haryana,Saharanpur,1,2788.67,2788.67,2022-11-27,2022-11-27,Bronze
+C01078,Zaid Tripathi,Tamil Nadu,Avadi,1,2587.84,2587.84,2022-05-02,2022-05-02,Bronze
+C01184,Meghana Nagar,Gujarat,Hosur,1,2580.86,2580.86,2024-07-13,2024-07-13,Bronze
+C00115,Nimrat Kara,Telangana,Bharatpur,1,2562.34,2562.34,2023-02-24,2023-02-24,Bronze
+C00704,Owen Badal,Delhi,Chennai,1,2466.86,2466.86,2022-10-05,2022-10-05,Bronze
+C01719,Charan Borde,Gujarat,Solapur,1,2394.07,2394.07,2023-10-20,2023-10-20,Bronze
+C00479,David Loke,Delhi,Gandhinagar,1,2272.22,2272.22,2024-03-10,2024-03-10,Bronze
+C01237,Jairaj Pandit,Maharashtra,Mumbai,1,2113.19,2113.19,2022-06-12,2022-06-12,Bronze
+C00988,Chanakya Banerjee,Telangana,Sonipat,1,1958.25,1958.25,2023-05-23,2023-05-23,Bronze
+C01640,Bimala Hans,Pune,South Dumdum,1,1853.94,1853.94,2022-09-09,2022-09-09,Bronze
+C00642,Odika Randhawa,Odisha,Thrissur,1,1763.96,1763.96,2024-08-01,2024-08-01,Bronze
+C01161,Faraj Joshi,Pune,Sagar,1,1441.74,1441.74,2024-04-20,2024-04-20,Bronze
+C01627,Ayaan Chandran,Maharashtra,Tirupati,1,1369.91,1369.91,2023-11-29,2023-11-29,Bronze
+C01973,Tristan Murty,Bihar,Shimoga,1,1352.64,1352.64,2023-07-24,2023-07-24,Bronze
+C00024,Geetika Mittal,Uttar Pradesh,Coimbatore,1,1213.08,1213.08,2023-03-06,2023-03-06,Bronze
+C00803,Umang Barad,Madhya Pradesh,Howrah,1,1101.53,1101.53,2022-11-22,2022-11-22,Bronze
+C00074,Zarna Cheema,Kerala,Kozhikode,1,1088.67,1088.67,2022-02-21,2022-02-21,Bronze
+C00400,Libni Palla,Tamil Nadu,Anand,1,1029.51,1029.51,2022-09-05,2022-09-05,Bronze
+C00710,Dominic Babu,West Bengal,Danapur,1,830.2,830.2,2023-12-28,2023-12-28,Bronze
+C01437,Ishwar Bakshi,Pune,Chandigarh,1,828.42,828.42,2023-02-13,2023-02-13,Bronze
+C00411,Viraj Naidu,Kerala,Nagaon,1,775.98,775.98,2024-04-18,2024-04-18,Bronze
+C01279,Xalak Grewal,Delhi,Ambattur,1,699.99,699.99,2024-07-16,2024-07-16,Bronze
+C00096,Ranveer Bains,Madhya Pradesh,Jammu,1,552.48,552.48,2022-11-13,2022-11-13,Bronze
+C00944,Avni Tailor,Odisha,Tirupati,1,542.17,542.17,2022-07-06,2022-07-06,Bronze
+C01223,Yoshita Bansal,Pune,Eluru,1,482.17,482.17,2023-07-22,2023-07-22,Bronze

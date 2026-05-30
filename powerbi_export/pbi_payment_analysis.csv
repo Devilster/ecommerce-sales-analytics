@@ -1,0 +1,6 @@
+payment_type,transactions,total_amount,avg_amount,avg_installments
+Cash on Delivery,2089,153632239.07,73543.44,1.0
+Debit Card,2006,148791491.62,74173.23,1.0
+UPI,1985,146317464.95,73711.57,1.0
+Net Banking,1973,141609700.43,71773.8,1.0
+Credit Card,1947,144091995.03,74007.19,6.3
